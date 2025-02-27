@@ -1,0 +1,336 @@
+,grade,module,week,question_stem,choice,correct_answer
+151,6,5,4,1. 可将基因整合在宿主细胞基因上的病毒有(2.0分),A.dsDNA病毒和(+)ssRNA病毒 B.dsRNA病毒和逆转录病毒 C.ssDNA病毒和(+)ssRNA病毒 D.逆转录病毒和dsDNA病毒,D.逆转录病毒和dsDNA病毒
+152,6,5,4,2. 病毒引起细胞病变的机制中，与免疫损伤有关的是(2.0分),A.病毒出芽造成细胞膜损伤 B.病毒衣壳蛋白对细胞的毒性 C.病毒改变细胞膜抗原引起细胞损伤 D.病毒包涵体对细胞的损伤,C.病毒改变细胞膜抗原引起细胞损伤
+153,6,5,4,3. 关于病毒的致病机制，错误的叙述是(2.0分),A.病毒基因组与细胞DNA整合，使之发生恶性转化 B.病毒合成侵袭性酶类使细胞裂解 C.病毒在细胞内的复制抑制了细胞的正常代谢 D.病毒感染使细胞互相融合而死亡,B.病毒合成侵袭性酶类使细胞裂解
+154,6,5,4,4. 于扰索抗病毒的作用机制是(2.0分),A.直接抑制病毒的释放 B.直接抑制病毒的生物合成 C.诱发细胞产生抗病毒蛋白 D.阻碍病毒吸附于敏感细胞,C.诱发细胞产生抗病毒蛋白
+155,6,5,4,5. 下述病毒衣壳的特点中，错误的是(2.0分),A.可增加病毒的感染性 B.表面突起称刺突 C.由多肽构成的壳微粒组成 D.呈对称排列,B.表面突起称刺突
+156,6,5,4,6. 使用减毒活疫苗预防病毒性疾病，不属于潜在危险性因素的是(2.0分),A.回复为有毒力的病毒 B.对宿主免疫系统刺激过强而引起免疫麻痹 C.活化其它潜伏病毒 D.引起持续感染,B.对宿主免疫系统刺激过强而引起免疫麻痹
+157,6,5,4,7. 病毒感染细胞吸附红细胞的机制是(2.0分),A.红细胞表面糖蛋白受体与病毒表面血凝素结合 B.红细胞表面抗原与相应抗体结合 C.病毒与红细胞表面的抗体结合 D.病毒吸附在宿主细胞表面,A.红细胞表面糖蛋白受体与病毒表面血凝素结合
+158,6,5,4,8. 病毒性疾病中检测双份血清的目的是(2.0分),A.防止操作误差    B.检测抗体升高 C.是否是隐性感染 D.用于两个不同的检测,B.检测抗体升高
+159,6,5,4,9. 不属于病毒体特征的是(2.0分),A.只含一种类型的核酸 B.非细胞结构 C.可在任何细胞内增殖 D.对抗生素不敏感 E.对干扰素敏感,C.可在任何细胞内增殖
+160,6,5,4,10. 抗体对病毒的中和作用主要是(2.0分),A.抑制病毒生物合成 B.诱导干扰素产生 C.中和病毒毒素 D.阻止病毒与靶细胞相互作用 E.杀伤细胞内的病毒,D.阻止病毒与靶细胞相互作用
+161,6,5,4,11. 关于流感病毒的特点，哪一项是错误的 (2.0分),A.不易发生抗原性变异 B.具有神经氨酸酶(NA) C.是有包膜病毒 D.具有分节段的RNA和核蛋白(NP) E.具有血凝素HA,A.不易发生抗原性变异
+162,6,5,4,12. 流行性感冒的临床表现，下列不符合的是(2.0分),A.年老患者或免疫力低下的患者感染流感，病情可持续发展 B.上呼吸道卡他症状较轻或不明显 C.全身症状重 D.肺外合并症多见,D.肺外合并症多见
+163,6,5,4,13. 关于流行性感冒下列哪项是错误的(2.0分),A.甲型流感易发生变异 B.临床表现以上呼吸道症状较重 C.由流行性感冒病毒引起 D.发热及全身中毒症状较重,B.临床表现以上呼吸道症状较重
+164,6,5,4,14. 亚急性硬化性全脑炎(SSPE)是一种由(2.0分),A.麻疹病毒引起的慢发病毒感染 B.脊髓灰质炎病毒引起的慢病毒感染  C.疱疹病毒引起的隐伏感染 D.流行性乙型脑炎病毒引起的隐性感染,A.麻疹病毒引起的慢发病毒感染
+165,6,5,4,15. 流感病毒最易发生变异的抗原结构是(2.0分),A.甲型流感病毒的HA B.M蛋白    C.甲型流感病毒的NA D.乙型流感病毒的HA,A.甲型流感病毒的HA
+166,6,5,4,16. 下列核酸类型为RNA的病毒是 (2.0分),A.腺病毒 B.水痘-带状疱疹病毒   C.巨细胞病毒 D.单纯疱疹病毒 E.流感病毒,E.流感病毒
+167,6,5,4,17. 肠道病毒的共同特性不包括下列哪一项(2.0分),A.耐酸、耐乙醚 B.20面体立体对称的无包膜小RNA病毒 C.寄生于肠道，只引起人类消化道传染病 D.细胞浆内增殖,C.寄生于肠道，只引起人类消化道传染病
+168,6,5,4,18. 在乙脑的流行环节中，蚊子是(2.0分),A.储存宿主 B.中间宿主 C.传染源 D.传播媒介和储存宿主,D.传播媒介和储存宿主
+169,6,5,4,19. 关于乙型脑炎的叙述错误的是(2.0分),A.三节吻库蚊是主要的传播媒介 B.幼猪是主要的传染源和中间宿主 C.人体感染只有极少数引起中枢神经系统症状 D.检测特异性IgG可作为近期感染指标,D.检测特异性IgG可作为近期感染指标
+170,6,5,4,20. 与鼻咽癌有关的病毒是(2.0分),A.EB病毒 B.鼻病毒 C.人类嗜T细胞病毒 D.人乳头瘤病毒,A.EB病毒
+171,6,5,4,21. 对疱疹病毒的错误叙述是(2.0分),A.均为双股DNA有包膜病毒 B.免疫力低下者在原发感染后形成潜伏感染 C.主要通过接触传播 D.婴幼儿感染多为隐性感染,B.免疫力低下者在原发感染后形成潜伏感染
+172,6,5,4,22. EB病毒的潜伏部位是(2.0分),A.嗜中性粒细胞 B.B淋巴细胞 C.T淋巴细胞 D.骶神经节,B.B淋巴细胞
+173,6,5,4,23. 抑制HIV病毒的药物(2.0分),A.Ribavirin (利巴韦林) B.Zidovudine(齐多夫定) C.Idoxuridine (碘苷) D.Aciclovir (阿昔洛韦) E.Vidarabine (阿糖腺苷),B.Zidovudine(齐多夫定)
+174,6,5,4,24. 抗菌谱广，不良反应小的抗真菌药是  (2.0分),A.Ketoconazole（酮康唑）  B.Fluconazol（氟康唑） C.Miconazole（咪康唑） D.Itraconazole (伊曲康唑) E.Flucytosine（氟胞嘧啶）,D.Itraconazole (伊曲康唑)
+175,6,5,4,25. 通过干扰敏感真菌的有丝分裂而抑菌的药物是 (2.0分),A.Clotrimazole（克霉唑） B.Nystatin（制霉菌素） C.Griseofulvin（灰黄霉素） D.Amphotercin B（两性霉素B） E.Polymyxin (多粘菌素),C.Griseofulvin（灰黄霉素）
+176,6,5,4,26. 对DNA病毒和RNA病毒均有抑制作用的是(2.0分),A.Vidarabine (阿糖腺苷) B.Aciclovir (阿昔洛韦) C.Ganciclovir(更昔洛韦) D.Ribavirin (利巴韦林) E.Idoxuridine (碘苷),D.Ribavirin (利巴韦林)
+177,6,5,4,27. 竞争性抑制腺苷酸合成酶，阻滞DNA合成的抗病毒药物是(2.0分),A.Aciclovir (阿昔洛韦) B.Amantadine (金刚烷胺) C.Interferon(干扰素) D.Ribavirin (利巴韦林) E.Vidarabine (阿糖腺苷),A.Aciclovir (阿昔洛韦)
+178,6,5,4,28. 下列哪一个药物是单纯疱疹病毒感染的首选药物？ (2.0分),A.Aciclovir (阿昔洛韦) B.Lamivudine (拉米夫定) C.Glucocorticoids（糖皮质激素） D.Zidovudine (齐多夫定) E.Vidarabine (阿糖腺苷),A.Aciclovir (阿昔洛韦)
+179,6,5,4,29. 主要用于治疗阴道、胃肠道和口腔念珠菌病的药物是  (2.0分),A.Nystatin（制霉菌素） B.Isoniazid C.Griseofulvin（灰黄霉素） D.Rifampicin  E.Amikacin,A.Nystatin（制霉菌素）
+180,6,5,4,30. 对表浅和深部真菌感染都有效的药物是  (2.0分),A.Nystatin（制霉菌素） B.Griseofulvin（灰黄霉素） C.Fluconazole（氟康唑） D.Amphotericin B（两性霉素B） E.Polymyxin B,C.Fluconazole（氟康唑）
+181,6,5,4,31. 局麻药轻度毒性反应的临床表现是：(2.0分),A.皮肤荨麻疹 B.肢端肌肉抽搐 C.呼吸困难   D.出冷汗、脉搏细弱 E.眩晕、多语或嗜睡,E.眩晕、多语或嗜睡
+182,6,5,4,32. 硬膜外腔麻醉中并发全脊椎麻醉，此因硬膜外麻醉所用的麻醉药全部或大部分注入： (2.0分),A.软膜与脊髓之间 B.蛛网膜下腔 C.髓内区域 D.蛛网膜与硬脊膜之间                E.硬膜外间隙内,B.蛛网膜下腔
+183,6,5,4,33. 择期手术病人麻醉前禁食、禁饮，下列哪一项是正确的？ (2.0分),A.禁食8小时，禁饮8小时 B.禁食12小时，禁饮12小时 C.禁食4小时，禁饮4小时 D.禁食6小时，禁饮2小时 E.禁食8小时，禁饮2小时,D.禁食6小时，禁饮2小时
+184,6,5,4,34. 关于腰麻的适应证，下列哪项是对的？ (2.0分),A.脊椎结核 B.剖腹探查术 C.脊柱外伤 D.2~3小时以内的下腹部、盆腔、下肢和肛门会阴部手术 E.髋关节成形术,D.2~3小时以内的下腹部、盆腔、下肢和肛门会阴部手术
+185,6,5,4,35. 在全麻并发症中，低氧血症的临床表现，下列哪项是错误的？ (2.0分),A.心动过速 B.发绀 C.躁动不安 D.呼吸急促 E.血压下降,E.血压下降
+186,6,5,4,36. 关于腰麻术中并发呼吸抑制，下列哪项是错误的？ (2.0分),A.呼吸中枢的缺血缺氧，也是呼吸抑制的原因 B.紫绀的出现是过晚的表现 C.全脊椎麻醉时可呼吸停止 D.高平面腰麻时常出现呼吸抑制 E.一旦呼吸停止，抢救的主要措施是立即给呼吸兴奋剂,E.一旦呼吸停止，抢救的主要措施是立即给呼吸兴奋剂
+187,6,5,4,37. 关于硬膜外阻滞并发全脊椎麻醉，下列哪项是错误的？ (2.0分),A.意识消失 B.呼吸停止 C.瞳孔散大 D.血压下降 E.对光反射存在,E.对光反射存在
+188,6,5,4,38. 麻醉前用药的目的，下列中哪项错误？ (2.0分),A.减少一些麻醉药的副作用 B.缓和或解除术前的疼痛 C.消除一些不利的反射，特别是迷走神经引的反射 D.使病人情绪安定而合作       E.防治麻醉后并发症,E.防治麻醉后并发症
+189,6,5,4,39. 下类哪个不属于MeSH词汇表的树状结构分支(2.0分),A.Health Care B.Diseases C.Anatomy D.Animal,D.Animal
+190,6,5,4,40. 下列关于PubMed说法错误的是(2.0分),A.PubMed数据库是Entrez系统的数据库之一，由WHO组织开发。 B.PubMed数据库收录的是自1948年至今的文献数据 C.PubMed可提供全文链接以及与其它资源的链接 D.PubMed文献检索支持MeSH词汇,A.PubMed数据库是Entrez系统的数据库之一，由WHO组织开发。
+191,6,5,4,41. PubMed检索系统文献类型中哪项与循证医学无关(2.0分),A.Randomized controlled trial B.Meta-analysis C.Clinical trial D.News,D.News
+192,6,5,4,42. 主题词检索能检索(2.0分),A.加工中的数据 B.MedLine记录 C.出版商提供的数据 D.OLDMEDLINE数据,B.MedLine记录
+193,6,5,4,43. 下列哪些数据库可以精确地检索到医学文献(2.0分),A.百度 B.PubMed C.谷歌 D.MeSH,B.PubMed
+194,6,5,4,44. 下列说法错误的是(2.0分),A.张某应该根据国家政府机构制定的相关规范标准举证与自己的不孕症是单位车间污染造成的 B.张某的不孕症如果是单位车间污染造成的，可以要求索赔 C.张某可根据报纸上看到的《危险因素暴露过度导致不孕》的特写，向法院提起诉讼 D.医生可以根据《循证医学数据库》中检索到的不孕症的病因，给张某治疗建议,C.张某可根据报纸上看到的《危险因素暴露过度导致不孕》的特写，向法院提起诉讼
+195,6,5,4,45. 肾综合征出血热主要临床表现为： (2.0分),A.脉缓、肝脾肿大、玫瑰疹、高热、寒战、意识障碍、颈项强直 B.发热、休克、充血、出血、急性肾功能衰竭 C.发热、休克、充血、出血、爆发性肝炎 D.发热、休克、充血、出血、全身浅表淋巴结肿大,B.发热、休克、充血、出血、急性肾功能衰竭
+196,6,5,4,46. 肾综合征出血热"三痛"是指： (2.0分),A.腹痛、骨关节痛、肌痛 B.头痛、腰痛、眼眶痛 C.头痛、眼眶痛、骨关节疼痛 D.头痛、眼眶痛、肌痛,B.头痛、腰痛、眼眶痛
+197,6,5,4,47. 一患者表现为体温：39-40?C，全身中毒症状较重，明显球结膜水肿，病程中有收缩压小于11.97kPa，明显出血现象，肾损害明显，尿蛋白＋＋＋，该患者的诊断应为肾综合征出血热哪型： (2.0分),A.危重型 B.中型 C.重型 D.轻型 E.极危型,B.中型
+198,6,5,4,48. 下列哪项不能确诊肾综合征出血热： (2.0分),A.疑似病例＋血清抗EHFIgM阳性 B.恢复期抗EHFIgG滴度比急性期有四倍及以上增高 C.血清抗EHFIgG滴度为1:40及以上 D.EHF病毒抗原阳性,D.EHF病毒抗原阳性
+199,6,5,4,49. 发现流行性乙型脑炎病人后，应该采取哪些预防控制措施： (2.0分),A.病家周围50米半径范围内灭蚊 B.对病人实施床边隔离，避免蚊虫叮咬 C.对疫情发生地1公里半径范围内的学龄前儿童进行疫苗查漏补种工作 D.以上都正确,B.对病人实施床边隔离，避免蚊虫叮咬
+200,6,5,4,50. 下列哪项关于流行性乙型脑炎的描述是错误的： (2.0分),A.自愈性疾病，病人无后遗症 B.根据病情轻重可以分为轻型、普通型、重型和极重型 C.典型乙型脑炎临床经过分为初期、极期、恢复期和后遗症期四期 D.临床表现以高热、意识障碍、抽搐、病理反射和脑膜刺激征为特征,A.自愈性疾病，病人无后遗症
+806,8,5,4,1. Viruses enter cells by adsorbing to specific sites on the outer membrane of cells． Each of the following statements regarding this event is correct EXCEPT (2.5分),"A.The interaction determines the specific target organs for infection  B.The interaction determines whether the purified genome of a virus is infectious  C.The interaction can be prevented by neutralizing antibody  D.If the sites are occupied, interference with vires infection occurs ",B.The interaction determines whether the purified genome of a virus is infectious 
+807,8,5,4,2. Reverse transcriptase is an enzyme unique to the retroviruses．Which one of the following is a function of the enzyme reverse transcriptase(2.5分),A.Integration activity B.RNA-dependent RNA polymerase activity C.RNA isomerase activity D.RNA-dependent DNA polymerase activity,D.RNA-dependent DNA polymerase activity
+808,8,5,4,3. Each of the following statements concerning viral surface proteins is correct EXCEPT: (2.5分),A.They elicit antibody that neutralizes infectivity of the virus B.They determine the species specificity of the virus-cell interaction C.They participate in active transport of nutrients across the viral envelope membrane D.They protect the genetic material against nucleases,C.They participate in active transport of nutrients across the viral envelope membrane
+809,8,5,4,4. The main mechnism of the antiviral action of IFN is(2.5分),A.directly inactivation virus B.inhibitiong viral entering into host cell C.inhibitiong viral release D.inducing the production of antiviral protein by the host cells,D.inducing the production of antiviral protein by the host cells
+810,8,5,4,5. The ability of a virus to produce disease can result from a variety of mechanisms． Which one of the following mechanisms is LEAST likely(2.5分),A.Cytopathic effect in infected cells B.Malignant transformation of infected cells C.Immune response to virus-induced antigens on the surface of infected cells  D.Production of an exotoxin that activates adenylate cyclase ,D.Production of an exotoxin that activates adenylate cyclase 
+811,8,5,4,6. Reasonable mechanisms for viral persistence in infected individuals include all of the following EXCEPT     (2.5分),A.generation of defective-interfering particles B.Virus-mediated inhibition of host DNA synthesis C.integration of a provirus into the genome of the host D.host tolerance to viral antigens,B.Virus-mediated inhibition of host DNA synthesis
+812,8,5,4,7. Which one of the following statements concerning interferons is LEAST accurate? (2.5分),"A.Interferons are proteins influence host defenses in many ways, one of which is the induction of an antiviral state B.Interferons are synthesized only by virus-infected cells C.Interferons inhibit a broad range of viruses, not just the virus that induced the interferon D.Synthesis of several host enzymes is induced by interferon in target cells",B.Interferons are synthesized only by virus-infected cells
+813,8,5,4,8. Which one of the following virus is icosahedral symmetry without envelope(2.5分),A.influenza virus B.coxsackie virus C.measles virus D.herpes virus,B.coxsackie virus
+814,8,5,4,9. After oral attenuated vaccine of poliovirus the effective immue substance produced by host is                                               (2.5分),A.neutralizing antibody in blood stream B.local IgA C.neutralizing antibody and local IgA D.complement fixation antibody in blood stream,C.neutralizing antibody and local IgA
+815,8,5,4,10. Each of the following statements regarding rotavirus is correct EXCEPT:         (2.5分),A.the infection mainly affects children younger than 3 years B.it is a major cause of death in children in developing countries C.a high viral concentration is necessary for a efficient transfer of the virus  D.in the northern hemisphere the virus is transmitted during the winter/spring season ,C.a high viral concentration is necessary for a efficient transfer of the virus 
+816,8,5,4,11. Chicken pox is a common disease of childhood． It is caused by which of the following viruses   (2.5分),A.Cytomegalovirus B.rotavirus C.Varicella-zoster virus D.Adenovirus,C.Varicella-zoster virus
+817,8,5,4,12. Latency is an outcome particularly characteristic of which one of the following virus groups? (2.5分),A.Polioviruses B.Herpesviruses C.Rhinoviruses D.Influenza viruses,B.Herpesviruses
+818,8,5,4,13. The main hiding site of HSV-1 is(2.5分),A.labial skin B.pharyngeal lymph node C.spinal neural ganglia D.N trigeminus,D.N trigeminus
+819,8,5,4,14. This virus may be detected by the polymerase chain reaction (PCR) in a variety of cells of patients with nasopharyngeal carcinoma． (2.5分),A.Measles B.Mumps C.Epstein-Barr virus D.Rubella,C.Epstein-Barr virus
+820,8,5,4,15. Each of the following statements regarding influenza virus is correct EXCEPT:(2.5分),"A. Influenza A virus causes more epidemics and more serious disease than influenza B and C viruses do B.Influenza viruses cannot be grown in cell cultures; hence, the diagnosis can only be made serologically C.Influenza A virus undergoes major antigenic changes in its hemagglutinin (antigenic shift), which allow the virus to evade existing immunity D.Influenza viruses are transmitted primarily by aerosol and primarily affects the lower respiratory tract",D.Influenza viruses are transmitted primarily by aerosol and primarily affects the lower respiratory tract
+821,8,5,4,"16. On January 15, a patient developed an illness suggestive of influenza, which last 1 week. On February 20, she had a similar illness. She had no influenza immunization during this period. Her hemagglutination titer to influenza A virus was 10 on January 18, 40 on January 30, and 320 on February 20. Which one of the following is the MOST appropriate interpretation?  (2.5分)",A.The patient was ill with influenza A on January 15 B.The patient was ill with influenza A on February 20 C.The patient was not infected with influenza virus D.The patient has an autoimmune disease,A.The patient was ill with influenza A on January 15
+822,8,5,4,"17. Biochemical analysis of a virus reveals the genome to be composed of eight unequally sized pieces of single-stranded RNA, each of which is complementary to viral mRNA in infected cells. Which one of the following statements is UNLIKELY to be correct? (2.5分)",A.Different proteins are encoded by each segment of the viral genome B.The virus particle contains a virus-encoded enzyme that can copy the genome into its complement C.Purified RNA extracted from the virus particle is infectious D.The virus can undergo high-frequency recombination via reassortment of its RNA segments,C.Purified RNA extracted from the virus particle is infectious
+823,8,5,4,18. A 45-year old HIV positive man comes in for a rutine physical. He says he feels well and has no complaints. His physical exam reveals swollen lymph nodes in the neck and axilla. The rest of his exam is WNL. What immunity is nost likely to be deficient with these sypmptoms and at this stage during his disease process? (2.5分),A.Humoral B.Cell-mediated C.complement system D.Phagocytic dysfunction E.Autoimmunity,B.Cell-mediated
+824,8,5,4,19. Which of the following RNA viruses repicate in the nucleus rather than in the cytoplasm? (2.5分),A.Retroviruses B.Picornaviruses C.Togaviruses D.Reoviruses E.Arenaviruses,A.Retroviruses
+825,8,5,4,"20. Over aperiod of 1 month, 42 persons from the local community, mostly adults, were seen in an ophthalmic clinic situated in one of the east asian countries. Most of them had attended the clinic for other ocular problems a few days preceding the onset of symptoms.The presenting symptoms were soreness and redness of eyes, photophobia, foreign body sensation and excessive tearing. Some complained of ocular and periobital pain and decreased visual acuity. Duration of the illness varied from 3-14 days. One examination, swelling and erythema of the eyelid, conjuctival hyperemia, chemosis and follicular reaction mainly of the lower conjunctiva were seen in all patients. Superficial punctate keratitis and discrete sub-epithelial opacities were observed in those who complained of decreased visual acuity.AN outbreak of keratoconjunctivitis (epidemic keratoconjunctivitis) in the community was suspected. Conjunctival swabs cultured on Hep2 cells showed cytopathic effect (CPE). Human adenovirus group antigen was detected in the infected tissue culture cells by immunofluorescence using antihexon antibody. Investigation of the source of infection revealed presence of adenovirus of the tonometer tip.Certain types of adenoviruses are known to be commonly associated with particular disease manifestations.Of the adenovirus types listed below which is most likely to be responsible for this outbreak of keratoconjunctivitis?  (2.5分)",A.type 37 B.type 34 C.Type 40 D.type 12 E.type 7,A.type 37
+826,8,5,4,21. 对表浅和深部真菌感染都有效的药物是  (2.5分),A.Amphotericin B（两性霉素B） B.Griseofulvin（灰黄霉素） C.Fluconazole（氟康唑） D.Nystatin（制霉菌素） E.Polymyxin B,C.Fluconazole（氟康唑）
+827,8,5,4,22. 皮肤癣菌临床感染常选用  (2.5分),A.Griseofulvin（灰黄霉素） B.Amphotercin B（两性霉素B） C.Nystatin（制霉菌素） D.Lincomycin E.Penicillin G,A.Griseofulvin（灰黄霉素）
+828,8,5,4,23. 下列哪一个药物是单纯疱疹病毒感染的首选药物？ (2.5分),A.Zidovudine (齐多夫定) B.Lamivudine (拉米夫定) C.Glucocorticoids（糖皮质激素） D.Aciclovir (阿昔洛韦) E.Vidarabine (阿糖腺苷),D.Aciclovir (阿昔洛韦)
+829,8,5,4,24. 全身应用毒性大，限于短期局部应用的药物是 (2.5分),A.Amantadine (金刚烷胺) B.Idoxuridine (碘苷) C.Aciclovir (阿昔洛韦) D.Vidarabine (阿糖腺苷) E.Ribavirin (利巴韦林),B.Idoxuridine (碘苷)
+830,8,5,4,25. 对DNA病毒和RNA病毒均有抑制作用的是(2.5分),A.Aciclovir (阿昔洛韦) B.Vidarabine (阿糖腺苷) C.Ganciclovir(更昔洛韦) D.Ribavirin (利巴韦林) E.Idoxuridine (碘苷),D.Ribavirin (利巴韦林)
+831,8,5,4,26. 胃溃疡行胃大切除术后，切口内有积液，但未化脓，该切口记录为：(2.5分),A.I/乙 B.II/甲 C.II/丙 D.III/乙 E.II/乙,E.II/乙
+832,8,5,4,27. 关于术后肺不张，下列哪项描述不正确？(2.5分),A.常发生在胸腹部大手术后； B.多见于老年人、长期吸烟和急、慢性呼吸道感染者； C.病人常出现术后早期发热、呼吸频率和心率增快、气急等临床表现； D.发生肺不张时，应鼓励病人深吸气、咳嗽，帮助病人多翻身，使不张的肺重新           膨胀； E.年老病人术后应劝病人少活动，而用大剂量广谱抗生素替代预防之。,E.年老病人术后应劝病人少活动，而用大剂量广谱抗生素替代预防之。
+833,8,5,4,28. 对心脏病患者，下列哪项术前准备的注意事项是错误的？ (2.5分),A.长期使用低盐和利尿剂的病人，术前应注意纠水、电解质失调 B.贫血病人的氧合能力差，对心肌供氧有影响，术前少量多次输血纠正 C.心力衰竭病人，最好在心力衰竭控制3~4周后，再施行手术 D.对有心房纤颤伴心室律增快者，应通过内科治疗尽可能使心率控制在正常范围内 E.对巳确定为冠心病伴心动过缓者，则不需要特殊处理,E.对巳确定为冠心病伴心动过缓者，则不需要特殊处理
+834,8,5,4,29. 下列哪项术前准备项目是没有必要的？ (2.5分),A.营养不良者要尽可能纠正 B.慢性肾病者尿常规正常，也要作肾功能检查 C.即使无明显肝病病史者，术前亦应做各项肝功能检查 D.高血压者服用降压药直至血压降至正常范围 E.使糖尿病病人的血糖控制在5.6~11.2mmol/L,D.高血压者服用降压药直至血压降至正常范围
+835,8,5,4,30. 男，65岁，因阑尾穿孔切除术后8小时感下腹部胀痛，躁动不安，未解小便。根据病史，首先应想到的原因是： (2.5分),A.腹腔内出血 B.急性膀胱炎 C.尿潴留 D.腹腔内感染 E.肠蠕动恢复,C.尿潴留
+836,8,5,4,31. 腹部手术后发生尿潴留常见的原因应除外： (2.5分),A.麻醉后排尿反射受抑制 B.切口疼痛 C.尿道括约肌痉挛 D.手术易引起前列腺充血 E.病人不习惯在床上排尿,D.手术易引起前列腺充血
+837,8,5,4,32. 流行性感冒的确诊的主要依据是(2.5分),A.发病季节 B.呼吸道症状轻微而全身中毒症状重 C.病毒分离 D.血凝抑制试验,C.病毒分离
+838,8,5,4,33. 流行性感冒的临床表现，下列不符合的是 (2.5分),A.全身症状重 B.上呼吸道卡他症状较轻或不明显 C.年老患者或免疫力低下的患者感染流感，病情可持续发展 D.肺外合并症多见,D.肺外合并症多见
+839,8,5,4,34. 流行性感冒病毒分为甲、乙、丙三型的依据(2.5分),A.所致疾病的临床特征 B.流行特征 C.病毒内部和外部抗原结构不同 D.表面抗原血凝素,C.病毒内部和外部抗原结构不同
+840,8,5,4,35. 严重创伤早期救治的ABCDE原则中"A"不包括的内容是哪一项？ (2.5分),A.通过视、听、感、触评估气道安全性； B.使用口咽通气管； C.插入喉罩； D.机械通气 E.使用颈托保护颈椎,D.机械通气
+841,8,5,4,36. 以下关于增进说服沟通效果的策略，正确的是(2.5分),A.增加信息内容的情感性 B.采用双方面论证 C.不断重复论点   D.利用首因效应与近因效应,D.利用首因效应与近因效应
+842,8,5,4,37. 根据Petty & Cacioppo的推敲可能性模型，沟通是通过(   )进行的。(2.5分),A.外周途径和中心途径   B.言语渠道和非言语渠道   C.正式途径和非正式途径   D.单向渠道和非单向渠道,A.外周途径和中心途径  
+843,8,5,4,38. 氯喹、奎宁、青蒿素都是控制发作的药物，伯氨喹是用于防止疟疾复发及传播的药。5．26岁男患者，家住沈阳，于12月突然发病，表现为发冷、寒战、高热、大汗后而缓解，隔日发作一次，已10天。体检：脾肋下1 cm，余未见异常，末梢血化验：WBC 5.0×109／L，N 0.68，L 0.32，Hb 100 g／L，血培养(-)。患者同年8月曾去海南旅游半个月。该患者发热最可能的原因是 (2.5分),A.伤寒 B.疟疾 C.败血症 D.急性血吸虫病 E.急性粒细胞型白血病,B.疟疾
+844,8,5,4,39. 30岁男性农民，腹痛、腹泻半个月，大便4～8次／天，便量多，为暗红色，有腥臭味，肉眼可见血液及粘液，患者无发热，右下腹隐痛。粪便镜检：WBC10～15个／HP，RBC满视野，该患者最可能的诊断是(2.5分),A.细菌性痢疾 B.伤寒合并肠出血 C.阿米巴痢疾 D.溃疡性结肠炎 E.血吸虫病,C.阿米巴痢疾
+845,8,5,4,40. 血吸虫虫卵引起的病变主要发生在(2.5分),A.大肠壁和肝脏 B.肠系膜静脉 C.门静脉 D.肺和肠 E.肝和脾,A.大肠壁和肝脏
+1141,9,5,4,1. 根据Petty & Cacioppo的推敲可能性模型，沟通是通过（ ）进行的。(2.0分),A.外周途径和中心途径   B.言语渠道和非言语渠道   C.正式途径和非正式途径   D.单向渠道和非单向渠道  ,不知道
+1142,9,5,4,2. 在医患沟通中医务人员的非言语沟通应注意避免以下问题： (2.0分),A.粗暴的打断   B.不合情境的微笑   C.评价他人的治疗    D.伤害性语言,不知道
+1143,9,5,4,3. 倾听时提供反馈的原则不包括(2.0分),A.确认发出者接收到了反馈 B.采用合适的反馈 C.必须运用直接的反馈   D.必须迅速地发送反馈,不知道
+1144,9,5,4,4. 以下关于增进说服沟通效果的策略，正确的是： (2.0分),A.增加信息内容的情感性 B.采用双方面论证 C.不断重复论点   D.利用首因效应与近因效应,不知道
+1145,9,5,4,5. 流行性感冒的临床表现，下列内容不符合的是(2.0分),A.全身症状重 B.上呼吸道卡他症状较轻或不明显 C.年幼或老年患者、有基础疾病或免疫低下的患者感染流感，病情可持续发展 D.肺外并发症多见,不知道
+1146,9,5,4,6. 关于流行性感冒的流行病学特征，下列哪项是错误的(2.0分),A.流感患者及隐性感染者为主要传染源 B.动物亦可能为主要的贮存宿主和中间宿主 C.呼吸道经空气飞沫传播 D.乙型流感均为散发,不知道
+1147,9,5,4,7. 流行性感冒的确诊的主要依据是(2.0分),A.发病季节 B.呼吸道症状轻微而全身中毒症状重 C.病毒分离 D.血凝抑制试验,不知道
+1148,9,5,4,8. 关于流行性感冒病毒下列哪项是正确的(2.0分),A.流行性感冒病毒属副粘液病毒 B.分甲、乙、丙三型 C.甲型不变异 D.乙型及丙型可感染人类及多种动物,不知道
+1149,9,5,4,"9. A 27-year-old nursing mother is diagnosed as suffering from genital herpes. She has a history of this viral infection. Previously, she responded to a drug used topically. Apart from her current problem, she is in good health. Which drug to be used orally is most likely to be prescribed at this time?(2.0分)",A.Amantadine B.Foscarnet C.Ritonavir D.Trifluridine E.Valacyclovir,不知道
+1150,9,5,4,"10. More than 90% of this drug is excreted in the urine in intact form. Because its urinary solubility is low, patients should be well hydrated to prevent nephrotoxicity. Which drug is described?(2.0分)",A.Acyclovir B.Efavirenz C.Indinavir D.Trifluridine E.Zidovudine,不知道
+1151,9,5,4,11. An HIV infected woman is diagnosed with cytomegalovirus (CMV) retinitis. She has been on a HAART (highly active antiretroviral therapy) regimen containing zidovudine. Which of the following anti-CMV drugs is likely to cause additive myelosuppression with zidovudine? (2.0分),A.Acyclovir. B.Ganciclovir. C.Amantadine. D.Foscarnet. E.Ribavirin.,不知道
+1152,9,5,4,"12. Regarding the clinical use of liposomal formulations of amphotericin B, which statement is accurate? (2.0分)",A.Amphotericin B affinity for these lipids is greater than affinity for ergosterol B.Less expensive to use than conventional amphotericin B C.More effective in fungal infections because they increase tissue uptake of amphotericin B D.They decrease the nephrotoxicity of amphotericin B E.They have a wider spectrum of antifungal activity than conventional formulations of amphotericin B,不知道
+1153,9,5,4,13. Which drug is least likely to be effective in the treatment of esophageal candidiasis if it is used by the oral route? (2.0分),A.Clotrimazole B.Fluconazole C.Griseofulvin D.Itraconazole E.Nystatin,不知道
+1154,9,5,4,14. 男，35岁，高处坠落致腰部疼痛1小时。查体：BP 110/75mmHg，P 107次/分，R 28次/分。双下肢感觉运动障碍，二便功能障碍；会阴部撕裂伤，创面污染严重。X线提示L3爆裂性骨折。以下处理措施不正确的是(2.0分),A.完善腰椎CT及MRI检查 B.脊髓损伤可选择保守治疗，予大剂量糖皮质激素及甘露醇脱水 C.会阴部损伤需清创联合肠道造瘘改道术 D.需立即手术解除脊髓压迫 E.抗生素治疗需覆盖厌氧菌,不知道
+1155,9,5,4,15. 男，23岁，车祸致方向盘撞击胸部半小时。查体：BP 80/67mmHg，P 120次/分，R 33次/分，SpO2 91%。烦躁，颈静脉怒张；双肺呼吸音粗，对称；心音听诊不明显。胸部带状软组织挫伤。胸片提示多发肋骨骨折。正确的处理是(2.0分),A.立即完善头颅，颈椎，腹部，骨盆及四肢的检查 B.立即建立静脉通路，补液抗休克治疗 C.立即予面罩吸氧，呼吸支持 D.胸带固定胸廓，并予止痛治疗 E.行床边FAST检查，观察胸腔及心包情况,不知道
+1156,9,5,4,16. 严重创伤早期的快速评估不包括(2.0分),A.明确损伤机制，了解损伤类型 B.保持气道通畅，保护颈椎 C.评估呼吸功能，进行呼吸支持 D.评估是否需要复苏，建立静脉通路 E.暴露患者情况下，予保温处理,不知道
+1157,9,5,4,17. 下列哪项不是经口气管插管的适应症(2.0分),A.严重的颅脑外伤（GCS评分＜8分）  B.急性呼吸窘迫综合症（ARDS）引起严重低氧血症 C.吸入性气道损伤 D.上呼吸道完全梗阻 E.C3/4水平颈椎骨折,不知道
+1158,9,5,4,18. 下列关于液体复苏描述不正确的是(2.0分),A.尿量、血乳酸、血压、心率、CVP都可以用于判断液体复苏是否有效 B.液体复苏的终点是生命体征恢复至正常范围内 C.液体复苏中大量输液后需注意低体温及凝血病 D.对液体复苏效果差的患者通常需要手术干预 E.对于起搏器置入患者，使用CVP观察液体复苏效果是不准确的,不知道
+1159,9,5,4,19. 格拉斯哥（GCS）计分法下列哪项是错误的(2.0分),A.总分最低3分，最高15分 B.总分越低表示意识障碍越严重，越高预后越好 C.总分在13分以下表示已有昏迷 D.总分9分以下需要考虑气道保护及呼吸支持 E.由睁眼、语言、动作反应3部分组成，其中动作反应评估最可靠,不知道
+1160,9,5,4,20. 下列哪种情况提示泌尿系统损伤可能(2.0分),A.尿道口出血 B.耻骨骨折 C.会阴部瘀斑 D.肛检高位前列腺 E.以上均是,不知道
+1161,9,5,4,"21. 判断脊柱骨折脱位是否并发脊髓损伤,下列哪项检查最重要(2.0分)",A.X线拍片 B.CT C.MRI D.神经系统检查 E.腰穿作奎肯试验及脑脊液生化检查,不知道
+1162,9,5,4,22. 典型的肾综合征出血热的临床表现，有如下几期经过(2.0分),A.发热期，肾功能损害期，少尿期，多尿期，恢复期 B.发热初期，极期，低血压休克期，少尿期，恢复期 C.发热期，低血压休克期，少尿期，多尿期，恢复期 D.发热期，少尿期，低血压休克期，多尿期，恢复期,不知道
+1163,9,5,4,23. 对肾综合征出血热确诊最有诊断价值的实验室检查结果是： (2.0分),A.血常规WBC总数高，并有异常淋巴细胞 B.尿常规蛋白（++）以上 C.外周血凝血功能下降，血小板数降低明显 D.血清肾综合征出血热特异抗体IgM阳性,不知道
+1164,9,5,4,24. 肾综合征出血热低血压休克期治疗，下列描述最正确的是： (2.0分),"A.低血压休克期时纠正酸中毒最为重要，应先补充5%碳酸氢钠溶液。 B.首先要给予血管活性药以提升高血压,如血压仍不稳定，给予快速补液。 C.补充血容量为主要治疗措施，以早期、快速、适量为原则，争取4小时内稳定血压，晶体液、胶体液相结合补充。 D.保护肾功能，加强利尿如速尿针静推。",不知道
+1165,9,5,4,25. 关于流行性乙型脑炎治疗，以下哪项治疗措施是正确的。(2.0分),A.目前抗病毒治疗仍是主要和关键治疗措施 B.高热、抽搐及竭衰是可致病人死亡的三大主要症状，互为因果，因此，要重点针对这三大症状进行对症抢救治疗。 C.遇病人出现呼吸衰竭，死亡率高，应立即给予气管插管。 D.出现高热常规给予亚冬眠治疗。,不知道
+1166,9,5,4,26. 下列哪项有关乙脑病毒人群易感性的说法是错误的： (2.0分),A.人感染病毒后多呈隐性感染 B.患者以儿童为主 C.感染后可获得持久免疫力 D.显性感染与隐性感染之比为10 :l,不知道
+1167,9,5,4,27. Hypocalcemia is associated with (2.0分),A.Acidosis B.Shortened QT interval C.Hypomagnesemia D.Myocardial irritability E.Hyperproteinemia,不知道
+1168,9,5,4,28. 低血钾症时静脉补钾，哪项不正确，而且可能导致病人心脏骤停死亡？(2.0分),A.严重缺钾，每日静脉补钾盐6-8克   B.严重缺钾病人，必要时可用10%氯化钾溶液静脉推注 C.氯化钾的浓度不宜超过0.3% D.滴注速度不宜超过80滴/分 E.尿量满意时补钾较为安全 ,不知道
+1169,9,5,4,29. 当外科病人出现痉挛性疼痛、腱反射减弱、神志不清、神志昏迷时，应首先考虑： (2.0分),A.并发脑血管意外 B.低血钾 C.高血钠 D.高血镁 E.低血钠,不知道
+1170,9,5,4,30. 低钾性碱中毒可能出现于下列哪种情况？ (2.0分),A.尿毒症 B.胃手术后 C.术后少尿 D.严重创伤 E.大量输血,不知道
+1171,9,5,4,31. 长期应用速尿易导致： (2.0分),A.代谢性酸中毒 B.呼吸性酸中毒 C.呼吸性碱中毒 D.低氯性碱中毒 E.低氯性酸中毒,不知道
+1172,9,5,4,32. 引起低钙血症的外科疾病中，不包括下述哪一项？ (2.0分),A.急性重症胰腺炎 B.骨转移性癌 C.甲状旁腺功能低下 D.小肠瘘 E.急性肾衰竭,不知道
+1173,9,5,4,33. 高渗性缺水可考虑如下治疗，但应除外： (2.0分),A.静滴5%葡萄糖溶液 B.输入0.45%的氯化钠溶液 C.轻度缺水，可补液1000~1500ml D.中度缺水，可补液1500~2000ml E.如按公式计算补液，第1个8小时应补总量的一半,不知道
+1174,9,5,4,34. 肾小管再吸收作用受抗利尿激素与醛固酮影响，当两者分泌都增加时： (2.0分),A.尿量增加，尿钠增多 B.尿量增加，尿钠减少 C.尿量减少，尿钠增多 D.尿量减少，尿钠减少 E.尿量正常，尿钠正常,不知道
+1175,9,5,4,35. 下列描述病毒的基本性状中，错误的是： (2.0分),A.专性细胞内寄生  B.只含有一种核酸  C.形态微小，可通过滤器  D.为非细胞结构  E.可在宿主细胞外复制病毒成分,不知道
+1176,9,5,4,36. 缺陷病毒本质上是指： (2.0分),A.包膜刺突缺损  B.衣壳缺损  C.基因组缺损  D.复制周期不全  E.病毒酶缺损 ,不知道
+1177,9,5,4,37. 干扰素抗病毒的作用机制是： (2.0分),A.诱发细胞产生抗病毒蛋白  B.直接抑制病毒的生物合成  C.直接杀灭病毒  D.阻碍病毒吸附于易感细胞  E.与病毒结合，阻止其脱壳,不知道
+1178,9,5,4,38. 观察病毒在细胞内增殖的指针不包括下列哪一种？ (2.0分),A.细胞病变  B.红细胞吸附作用  C.培养液变混浊  D.细胞代谢改变  E.干扰现象,不知道
+1179,9,5,4,39. 我国乙脑病毒的主要传播媒介是： (2.0分),A.库蚊 B.按蚊 C.伊蚊 D.蚤或虱 E.硬蜱,不知道
+1180,9,5,4,40. 关于乙脑的叙述，下列哪项是错误的？ (2.0分),A.幼猪是主要的传染源和扩散宿主 B.主要传播媒介是三带喙库蚊 C.检测特异性IgM可对乙脑进行早期诊断 D.补体结合试验可用于早期诊断 E.是自然疫源性疾病   ,不知道
+1181,9,5,4,41. HSV-1主要潜伏部位是：(2.0分),A.口唇皮肤 B.唾液腺 C.脊髓后根神经节 D.骶神经节 E.三叉神经节           ,不知道
+1182,9,5,4,42. 关于疱疹病毒的特点，下列哪项是错误的？ (2.0分),A.病毒呈球形，核内由双链RNA组成 B.多数能在人二倍体细胞核内复制，产生明显细胞病变 C.病毒感染宿主细胞表现为增殖性感染 D.潜伏感染时，病毒不增殖 E.病毒基因组的一部分整合于宿主DNA中  ,不知道
+1183,9,5,4,43. 关于汉坦病毒的致病性，下列叙述哪项不正确？ (2.0分),A.最主要的病理损害部位是全身小血管和毛细血管 B.最主要的感染类型是隐性感染 C.致病机制与免疫应答异常有关 D.临床上以发热、出血、低血压和蛋白尿为特征 E.经多种途径传播 ,不知道
+1184,9,5,4,44. 以下有关汉坦病毒的描述错误的是: (2.0分),A.病毒核酸为SSRNA，分3个节段 B.鼠为传染源 C.HFRS与HpS均有明显的地区性和季节性 D.易感动物只有很少几种 E.可通过呼吸道，消化道或直接接触传播            ,不知道
+1185,9,5,4,45. 脊髓灰质炎病毒主要侵犯： (2.0分),A.三叉神经节 B.脑神经节 C.脊髓前角运动神经细胞 D.神经肌肉接头 E.海马回锥体细胞,不知道
+1186,9,5,4,46. 不是肠道病毒的共同特征的一项是： (2.0分),A.属于小RNA病毒科 B.可引起肠道外症状 C.病毒在肠道内增殖并从粪便排出 D.病毒基因组RNA不具有传染性 E.为20面体对称的无包膜球形颗粒,不知道
+1187,9,5,4,47. 划分流感病毒亚型的依据为： (2.0分),A.核蛋白抗原 B.M蛋白抗原 C.血凝素和神经氨酸酶 D.核酸类型 E.培养特性,不知道
+1188,9,5,4,48. 麻疹病毒的特点是： (2.0分),A.感染率低，发病率低 B.目前尚不能进行组织培养 C.有多个血清型 D.感染会形成两次病毒血症，感染后机体有牢固免疫力 E.不侵犯中枢神经系统,不知道
+1189,9,5,4,49. 青春期感染腮腺炎病毒易合并： (2.0分),A.脑膜炎 B.肺炎 C.肝炎 D.肾炎 E.睾丸炎或卵巢炎,不知道
+1190,9,5,4,50. 中和抗体对病毒的作用机制是： (2.0分),A.抑制病毒的生物合成 B.诱导干扰素产生 C.阻止病毒吸附并侵入易感细胞 D.中和病毒毒素 E.杀伤细胞内的病毒,不知道
+1767,11,5,4,1. 对于病毒生物学性状，错误的描述是 (2.5分),A.在宿主细胞外进行病毒组装 B.只含有一种核酸RNA或DNA C.形态微小，可通过滤菌器  D.结构简单，非细胞型结构,A.在宿主细胞外进行病毒组装
+1768,11,5,4,2. 病毒衣壳的生物学意义不包括 (2.5分),A.保护病毒核酸 B.介导病毒吸附易感细胞 C.构成病毒特异性抗原 D.本身具有感染性,B.介导病毒吸附易感细胞
+1769,11,5,4,3. 关于病毒的致病机制，错误的叙述是 (2.5分),A.病毒在细胞内的复制抑制了细胞的正常代谢 B.病毒合成侵袭性酶类使细胞裂解 C.病毒基因组与细胞DNA整合，使之发生恶性转化 D.病毒感染使细胞互相融合而死亡,B.病毒合成侵袭性酶类使细胞裂解
+1770,11,5,4,4. 用于估计病毒感染性强弱和数量的实验方法(2.5分),A.蚀斑形成试验 B.TCID50或ID50测定  C.ELLSA D.PCR,B.TCID50或ID50测定 
+1771,11,5,4,5. 干扰素的抗病毒作用特点中不包括(2.5分),A.间接灭活病毒 B.选择性作用于病毒感染细胞 C.种属特异性 D.只能针对某种病毒，作用有特异性,D.只能针对某种病毒，作用有特异性
+1772,11,5,4,6. 抗原性漂移指的是(2.5分),A.甲型流感病毒型特异性抗原的小变异 B.甲型流感病毒型特异性抗原的大变异 C.甲型流感病毒亚型抗原的大变异 D.甲型流感病毒亚型抗原的小变异,D.甲型流感病毒亚型抗原的小变异
+1773,11,5,4,7. 流感病毒分型的根据是(2.5分),A.所致疾病的临床特征 B.核蛋白和基质蛋白的抗原性 C.血凝素(HA) D.神经氨酸酶(NA),B.核蛋白和基质蛋白的抗原性
+1774,11,5,4,8. 下列哪组病毒都通过粪-口途径传播 (2.5分),A.脊髓灰质炎病毒、甲型肝炎病毒、ECHO病毒、柯萨奇病毒 B.腺病毒、EB病毒、脊髓灰质炎病毒、ECHO病毒 C.柯萨奇病毒、甲型肝炎病毒、麻疹病毒、EB病毒 D.冠状病毒、腮腺炎病毒、ECHO病毒、柯萨奇病毒,A.脊髓灰质炎病毒、甲型肝炎病毒、ECHO病毒、柯萨奇病毒
+1775,11,5,4,9. 关于汉坦病毒的特性，哪项是错误的(2.5分),A.为有包膜的DNA病毒  B.黑线姬鼠为主要传染源 C.经呼吸道和消化道传播 D.病后可获得牢固的免疫力,A.为有包膜的DNA病毒 
+1776,11,5,4,10. HSV-1、HSV-2、EB病毒潜伏感染时的存在部位是(2.5分),A.疱疹复发部位神经末梢、三叉神经节、T淋巴细胞 B.疱疹复发部位局部淋巴结、迷走神经节、骶神经节 C.骶神经节、颈上神经节、嗜中性粒细胞 D.三叉神经节、骶神经节、B淋巴细胞,D.三叉神经节、骶神经节、B淋巴细胞
+1777,11,5,4,11. 关于流行性感冒病毒下列哪项是正确的(2.5分),A.流行性感冒病毒属副粘液病毒 B.分甲、乙、丙三型 C.甲型不变异 D.乙型及丙型可感染人类及多种动物,B.分甲、乙、丙三型
+1778,11,5,4,12. 关于流行性感冒的流行病学特征，下列哪项是错误的(2.5分),A.流感患者及隐性感染者为主要传染源 B.动物亦可能为主要的贮存宿主和中间宿主 C.呼吸道经空气飞沫传播 D.乙型流感均为散发,D.乙型流感均为散发
+1779,11,5,4,13. 流行性感冒的临床表现，下列内容不符合的是(2.5分),A.全身症状重 B.上呼吸道卡他症状较轻或不明显 C.年幼或老年患者、有基础疾病或免疫低下的患者感染流感，病情可持续发展 D.肺外并发症多见,D.肺外并发症多见
+1780,11,5,4,14. 肾综合征出血热的原发性休克的原因，正确的是(2.5分),A.继发感染，大出血，血浆外渗 B.血管通透性增加，大出血，血浆外渗 C.血管通透性增加，血浆外渗，血容量下降 D.大出血，血浆外渗，血容量下降,C.血管通透性增加，血浆外渗，血容量下降
+1781,11,5,4,15. 肾综合征出血热发热期中毒症状的"三痛"，主要是指(2.5分),A.头痛，腹痛，腰痛 B.头痛，腰痛，眼眶痛 C.头痛，颈痛，腰痛 D.头痛，腿痛，淋巴结痛,B.头痛，腰痛，眼眶痛
+1782,11,5,4,16. 肾综合征出血热在发热期可给予抗病毒，选用的抗病毒药通常为(2.5分),A.普通干扰素 B.聚乙二醇干扰素 C.拉米夫定 D.利巴韦林（病毒唑）,D.利巴韦林（病毒唑）
+1783,11,5,4,17. 流行性乙型脑炎有早期诊断意义的血清学试验是(2.5分),A.补体结合试验 B.血凝抑制试验 C.中和试验 D.特异性IgM抗体试验,D.特异性IgM抗体试验
+1784,11,5,4,18. 流行性乙型脑炎最关键治疗是(2.5分),A.抗昏迷治疗 B.抗病毒治疗 C.抗继发细菌感染治疗 D.针对高热、惊厥、呼吸衰竭的治疗,D.针对高热、惊厥、呼吸衰竭的治疗
+1785,11,5,4,19. 关于倾听，以下不正确的是(2.5分),A.倾听是对各种听觉刺激的接收、注意和解读意义的过程 B.理解性倾听是倾听并理解信息 C.最高层次的倾听是共情的倾听 D.倾听时应不打岔、不驳斥、不续话,A.倾听是对各种听觉刺激的接收、注意和解读意义的过程
+1786,11,5,4,20. 以下不属于非言语沟通信息的有(2.5分),A.说话的语调 B.说话时的距离 C.说话的内容 D.说话时的动作,C.说话的内容
+1787,11,5,4,21. Albert染色所用的主要染料为(2.5分),A.结晶紫 B.甲苯胺蓝 C.伊红 D.硝酸银,B.甲苯胺蓝
+1788,11,5,4,22. Albert染色结合以下哪个检测方法能够诊断具有毒力的白喉棒状杆菌？(2.5分),A.肥达试验 B.Elek平板法 C.外斐反应 D.吉姆萨染色,B.Elek平板法
+1789,11,5,4,23. 浅表软组织挫伤是指(2.5分),A.关节附近韧带的损伤 B.重物挤压而致的损伤 C.钝力、重力直接撞击浅表组织所造成的损伤 D.针刺引起的损伤 E.切线动力作用于浅表组织所造成的损伤,C.钝力、重力直接撞击浅表组织所造成的损伤
+1790,11,5,4,24. 关于创伤性炎症反应，下列哪项是错误的？ (2.5分),A.伤后组织裂隙内充有血液、血凝块、脱落的细胞 B.伤后不久周围组织血管通透性升高，血浆渗出，使局部红肿痛 C.以上炎症反应是由一些炎性介质和细胞因子激起 D.创伤性炎症不利于创伤的修复 E.如不发生感染、异物存留等，炎症可在3~5日趋向消退,D.创伤性炎症不利于创伤的修复
+1791,11,5,4,25. 关于肉芽组织，下列哪项是错误的？ (2.5分),A.肉芽有新生毛细血管和成纤维细胞组成 B.肉芽内有神经，触之有痛感 C.肉芽有抗感染作用 D.肉芽有填充创伤组织缺损功能 E.肉芽组织有利于组织修复,B.肉芽内有神经，触之有痛感
+1792,11,5,4,26. 创伤修复过程中出现瘢痕过硬，其主要原因是(2.5分),A.个体差异因素 B.皮肤缝合时对合较差 C.肉芽组织增生过多所致 D.成纤维组织增生所致 E.瘢痕内胶原量过多所致,E.瘢痕内胶原量过多所致
+1793,11,5,4,27. 伤口处理原则，哪一项不对？ (2.5分),A.肉芽组织抗感染能力低，故一般需要局部应用抗生素 B.一般伤口在6小时以内，可经清创手术处理       C.较大的骨折片，即使巳与骨膜分离，仍应清洗后放置原位 D.某些伤口保持开放1-3天，引流其分泌物，确认无明显感染后，可予缝合 E.感染伤口需经换药处理，以达到二期愈合,A.肉芽组织抗感染能力低，故一般需要局部应用抗生素
+1794,11,5,4,28. 车祸伤患者，诉腹痛，查烦燥，面色苍白，测血压60/40mmHg，应首先(2.5分),A.立即行腹部B超检查 B.急作血常规，血球压积检查 C.立即建立输液通路，补充血容量 D.应用抗生素                             E.腹部穿刺以排除腹内出血,C.立即建立输液通路，补充血容量
+1795,11,5,4,29. 严重创伤早期的快速评估不包括(2.5分),A.明确损伤机制，了解损伤类型 B.保持气道通畅，保护颈椎 C.评估呼吸功能，进行呼吸支持 D.评估是否需要复苏，建立静脉通路 E.暴露患者情况下，予保温处理,A.明确损伤机制，了解损伤类型
+1796,11,5,4,30. 严重创伤的全身创伤检查正确的是(2.5分),A.主要检查头颈部损伤 B.发现有血胸，以立即处理 C.发现有张力性气胸，应立即处理 D.发现骨盆有不稳定性，再次体检确认,C.发现有张力性气胸，应立即处理
+1797,11,5,4,31. 下列哪项不是经口气管插管的适应症(2.5分),A.严重的颅脑外伤（GCS评分＜8分）  B.急性呼吸窘迫综合症（ARDS）引起严重低氧血症 C.吸入性气道损伤 D.上呼吸道完全梗阻 E.C3/4水平颈椎骨折,D.上呼吸道完全梗阻
+1798,11,5,4,32. 下列关于液体复苏描述不正确的是 (2.5分),A.尿量、血乳酸、血压、心率、CVP都可以用于判断液体复苏是否有效 B.液体复苏的终点是生命体征恢复至正常范围内 C.液体复苏中大量输液后需注意低体温及凝血病 D.对液体复苏效果差的患者通常需要手术干预 E.对于起搏器置入患者，使用CVP观察液体复苏效果是不准确的,B.液体复苏的终点是生命体征恢复至正常范围内
+1799,11,5,4,33. 腹部闭合性损伤快速评估首选 (2.5分),A.全腹部CT或增强CT B.床旁FAST C.诊断性腹腔灌洗 D.诊断性剖腹探查 E.仔细的腹部体检,D.诊断性剖腹探查
+1800,11,5,4,34. 25岁男性发生交通事故后被一名外科医生送至医院急救。CT检查提示主动脉损伤、脾撕裂伤伴腹腔内游离液体。CT检查完毕后血压降至70mmHg，下一步应该(2.5分),A.血管造影 B.转运至高级创伤中心 C.剖腹探查 D.输注大量晶体液 E.经食道心超声,C.剖腹探查
+1801,11,5,4,35. 男，35岁，高处坠落致腰部疼痛1小时。查体：BP 110/75mmHg，P 107次/分，R 28次/分。双下肢感觉运动障碍，二便功能障碍；会阴部撕裂伤，创面污染严重。X线提示L3爆裂性骨折。以下处理措施不正确的是 (2.5分),A.完善腰椎CT及MRI检查 B.脊髓损伤可选择保守治疗，予大剂量糖皮质激素及甘露醇脱水 C.会阴部损伤需清创联合肠道造瘘改道术 D.需立即手术解除脊髓压迫 E.抗生素治疗需覆盖厌氧菌,B.脊髓损伤可选择保守治疗，予大剂量糖皮质激素及甘露醇脱水
+1802,11,5,4,36. Which one of the following outcomes is MOST common following a primary herpes simplex virus infection? (2.5分),A.Complete eradication of virus and virus infected cells B.Persistent asymptomatic viremia C.Establishment of latent infections in neurons D.Persistent cytopathic effect in infected cells,C.Establishment of latent infections in neurons
+1803,11,5,4,37. Which statement about the mechanisms of action of antiviral drugs is accurate?  (2.5分),A.Acyclovir has no requirement for activation by phosphorylation B.An increase in activity of host cell ribonucleases that degrade viral mRNA is one of the antiviral actions of interferon-α C.Ganciclovir inhibits viral DNA polymerase but does not cause chain termination D.The initial step in activation of foscarnet in HSVinfected cells is its phosphorylation by thymidine kinase E.The reverse transcriptase of HIV is 30-50 times more sensitive to inhibition by fosamprenavir than host cell DNA polymerases,B.An increase in activity of host cell ribonucleases that degrade viral mRNA is one of the antiviral actions of interferon-α
+1804,11,5,4,"38. A 27-year-old nursing mother is diagnosed as suffering from genital herpes. She has a history of this viral infection. Previously, she responded to a drug used topically. Apart from her current problem, she is in good health. Which drug to be used orally is most likely to be prescribed at this time?(2.5分)",A.Amantadine B.Foscarnet C.Ritonavir D.Trifluridine E.Valacyclovir,E.Valacyclovir
+1805,11,5,4,39. Interactions between this drug and cell membrane components can result in the formation of pores lined by hydrophilic groups present in the drug molecule.(2.5分),A.Amphotericin B B.Flucytosine C.Griseofulvin D.Itraconazole E.Terbinafine,A.Amphotericin B
+1806,11,5,4,40. Which statement about fluconazole is accurate? (2.5分),A.Does not penetrate the blood-brain barrier B.Has the least effect of all azoles on hepatic drug metabolism C.Is an inducer of hepatic drug-metabolizing enzymes D.Is highly effective in the treatment of aspergillosis E.Oral bioavailability is less than that of ketoconazole,B.Has the least effect of all azoles on hepatic drug metabolism
+2048,12,5,4,1. 病毒在宿主细胞内的复制周期，包括 (2.5分),A.吸附和穿入、脱壳、生物合成、组装、成熟与释放 B.吸附和脱壳、生物合成、成熟与释放 C.吸附和接合、穿入、生物合成、成熟与释放 D.特异性结合、脱壳、复制、组装与释放,A.吸附和穿入、脱壳、生物合成、组装、成熟与释放
+2049,12,5,4,2. 关于病毒的致病机制，错误的叙述是(2.5分),A.病毒在细胞内的复制抑制了细胞的正常代谢 B.病毒合成侵袭性酶类使细胞裂解 C.病毒基因组与细胞DNA整合，使之发生恶性转化 D.病毒感染使细胞互相融合而死亡,B.病毒合成侵袭性酶类使细胞裂解
+2050,12,5,4,3. 进行病毒病原学检查的标本递送要求是(2.5分),A.孵箱保存 B.室温保存 C.加入防腐剂 D.加入含抗生素和蛋白的运辅培养基中冷冻速送,D.加入含抗生素和蛋白的运辅培养基中冷冻速送
+2051,12,5,4,4. 干扰素的抗病毒作用特点中不包括(2.5分),A.间接灭活病毒 B.选择性作用于病毒感染细胞 C.种属特异性 D.只能针对某种病毒，作用有特异性,D.只能针对某种病毒，作用有特异性
+2052,12,5,4,5. 流感病毒分型的根据是(2.5分),A.所致疾病的临床特征  B.核蛋白和基质蛋白的抗原性 C.血凝素(HA)  D.神经氨酸酶(NA),B.核蛋白和基质蛋白的抗原性
+2053,12,5,4,6. 呼吸道病毒中可引起胎儿感染的是(2.5分),A.麻疹病毒 B.流感病毒 C.呼吸道合胞病毒  D.风疹病毒,D.风疹病毒
+2054,12,5,4,7. 肠道病毒的共同特性不包括下列哪一项(2.5分),A.20面体立体对称的无包膜小RNA病毒 B.耐酸、耐乙醚 C.寄生于肠道，只引起人类消化道传染病 D.细胞浆内增殖,C.寄生于肠道，只引起人类消化道传染病
+2055,12,5,4,8. 下列哪组病毒都通过粪-口途径传播 (2.5分),A.脊髓灰质炎病毒、甲型肝炎病毒、ECHO病毒、柯萨奇病毒 B.腺病毒、EB病毒、脊髓灰质炎病毒、ECHO病毒 C.柯萨奇病毒、甲型肝炎病毒、麻疹病毒、EB病毒 D.冠状病毒、腮腺炎病毒、ECHO病毒、柯萨奇病毒,A.脊髓灰质炎病毒、甲型肝炎病毒、ECHO病毒、柯萨奇病毒
+2056,12,5,4,9. 在乙脑的流行环节中，蚊子是(2.5分),A.传染源 B.中间宿主 C.储存宿主 D.传播媒介和储存宿主,D.传播媒介和储存宿主
+2057,12,5,4,10. 关于登革病毒的致病性和免疫性下列说法错误的是(2.5分),A.在自然界中登革病毒储存于人和猴体内，经伊蚊传播   B.登革出血热通常发生于再次感染者   C.初次感染形成的抗体对机体有保护作用，可减轻再次感染症状 D.初次感染诱生的抗体对再次感染的病毒，可发生免疫促进作用  ,C.初次感染形成的抗体对机体有保护作用，可减轻再次感染症状
+2058,12,5,4,11. 关于汉坦病毒的特性，哪项是错误的(2.5分),A.为有包膜的DNA病毒 B.黑线姬鼠为主要传染源之一 C.经呼吸道和消化道传播 D.病后可获得牢固的免疫力,A.为有包膜的DNA病毒
+2059,12,5,4,12. 可导致胎儿先天畸形的病毒是(2.5分),A.柯萨奇病毒、流感病毒、腮晾炎病毒 B.风疹病毒、巨细胞病毒、单纯疱疹病毒 C.HIV、乙利脑炎病毒、丙型肝炎病毒 D.巨细胞病毒、腺病毒，乙型肝炎病毒,B.风疹病毒、巨细胞病毒、单纯疱疹病毒
+2060,12,5,4,13. HSV-1、HSV-2、EB病毒潜伏感染时的存在部位是(2.5分),A.疱疹复发部位神经末梢、三叉神经节、T淋巴细胞 B.疱疹复发部位局部淋巴结、迷走神经节、骶神经节 C.骶神经节、颈上神经节、嗜中性粒细胞 D.三叉神经节、骶神经节、B淋巴细胞,D.三叉神经节、骶神经节、B淋巴细胞
+2061,12,5,4,14. 流行性感冒的确诊的主要依据是(2.5分),A.发病季节 B.呼吸道症状轻微而全身中毒症状重 C.病毒分离 D.血凝抑制试验,C.病毒分离
+2062,12,5,4,15. 流感的预防措施中下列哪项是错误的(2.5分),A.对流感患者进行隔离及治疗 B.流感流行前接种流感疫苗 C.流感流行前，给所有易感人群使用金刚烷胺进行药物预防 D.减少公众集会活动,C.流感流行前，给所有易感人群使用金刚烷胺进行药物预防
+2063,12,5,4,16. 关于流行性感冒的流行病学特征，下列哪项是错误的(2.5分),A.流感患者及隐性感染者为主要传染源 B.动物亦可能为主要的贮存宿主和中间宿主 C.呼吸道经空气飞沫传播 D.乙型流感均为散发,D.乙型流感均为散发
+2064,12,5,4,17. 肾综合征出血热的原发性休克的原因，正确的是：(2.5分),A.继发感染，大出血，血浆外渗 B.血管通透性增加，大出血，血浆外渗 C.血管通透性增加，血浆外渗，血容量下降 D.大出血，血浆外渗，血容量下降,C.血管通透性增加，血浆外渗，血容量下降
+2065,12,5,4,18. 典型的肾综合征出血热的临床表现，有如下几期经过(2.5分),A.发热期，肾功能损害期，少尿期，多尿期，恢复期 B.发热初期，极期，低血压休克期，少尿期，恢复期 C.发热期，低血压休克期，少尿期，多尿期，恢复期 D.发热期，少尿期，低血压休克期，多尿期，恢复期,C.发热期，低血压休克期，少尿期，多尿期，恢复期
+2066,12,5,4,19. 对肾综合征出血热确诊最有诊断价值的实验室检查结果是(2.5分),A.血常规WBC总数高，并有异常淋巴细胞 B.尿常规蛋白（++）以上 C.外周血凝血功能下降，血小板数降低明显 D.血清肾综合征出血热特异抗体IgM阳性,D.血清肾综合征出血热特异抗体IgM阳性
+2067,12,5,4,20. 流行性乙型脑炎导致死亡的主要原因为(2.5分),A.高热 B.抽搐 C.循环功能衰竭 D.呼吸功能衰竭,D.呼吸功能衰竭
+2068,12,5,4,21. 流行性乙型脑炎治疗重点是(2.5分),A.对症支持治疗 B.抗病毒治疗 C.免疫调节治疗 D.中医中药治疗,A.对症支持治疗
+2069,12,5,4,22. 流行性乙型脑炎最关键治疗是(2.5分),A.抗昏迷治疗 B.抗病毒治疗 C.抗继发细菌感染治疗 D.针对高热、惊厥、呼吸衰竭的治疗,D.针对高热、惊厥、呼吸衰竭的治疗
+2070,12,5,4,23. 白喉棒状杆菌的毒力检测方法(2.5分),A.Albert染色 B.异染颗粒染色 C.观察免疫沉淀物形成 D.镜检,C.观察免疫沉淀物形成
+2071,12,5,4,24. 白假丝酵母菌的孢子属于哪一种(2.5分),A.厚膜孢子 B.孢子囊孢子 C.大分生孢子 D.芽孢,A.厚膜孢子
+2072,12,5,4,25. 关于狂犬病的说法合适的是(2.5分),A.狂犬病毒疫苗几乎无毒副作用 B.在神经细胞中复制时会形成蛋白质空壳 C.狂犬病疫苗为死疫苗 D.治愈率几乎为零,D.治愈率几乎为零
+2073,12,5,4,26. 今年诺贝尔医学奖颁奖主题为(2.5分),A.微生物组计划 B.细菌鉴定自动化技术 C.电镜技术 D.14色FACS技术,C.电镜技术
+2074,12,5,4,27. 关于创伤后机体的全身反应，下列哪项是错误的？ (2.5分),A.体温升高是炎性介质作用于体温中枢的效应 B.伤后机体的静息能量消耗增加 C.糖原、蛋白质和脂肪分解加速 D.儿茶酚胺可使淋巴细胞的功能增强 E.抗利尿激素分泌增加，使肾小管回收水分增多,D.儿茶酚胺可使淋巴细胞的功能增强
+2075,12,5,4,28. 关于创伤性炎症反应，下列哪项是错误的(2.5分),A.伤后组织裂隙内充有血液、血凝块、脱落的细胞 B.伤后不久周围组织血管通透性升高，血浆渗出，使局部红肿痛 C.以上炎症反应是由一些炎性介质和细胞因子激起 D.创伤性炎症不利于创伤的修复 E.如不发生感染、异物存留等，炎症可在3~5日趋向消退,D.创伤性炎症不利于创伤的修复
+2076,12,5,4,29. 伤口处理原则，哪一项不对？ (2.5分),A.肉芽组织抗感染能力低，故一般需要局部应用抗生素 B.一般伤口在6小时以内，可经清创手术处理       C.较大的骨折片，即使巳与骨膜分离，仍应清洗后放置原位 D.某些伤口保持开放1-3天，引流其分泌物，确认无明显感染后，可予缝合 E.感染伤口需经换药处理，以达到二期愈合,A.肉芽组织抗感染能力低，故一般需要局部应用抗生素
+2077,12,5,4,30. 车祸伤患者，诉腹痛，查烦燥，面色苍白，测血压60/40mmHg，应首先(2.5分),A.立即行腹部B超检查 B.急作血常规，血球压积检查 C.立即建立输液通路，补充血容量 D.应用抗生素                             E.腹部穿刺以排除腹内出血,C.立即建立输液通路，补充血容量
+2078,12,5,4,31. 严重创伤的全身创伤检查正确的是 (2.5分),A.主要检查头颈部损伤 B.发现有血胸，以立即处理 C.发现有张力性气胸，应立即处理 D.发现骨盆有不稳定性，再次体检确认 E.以上都正确,C.发现有张力性气胸，应立即处理
+2079,12,5,4,32. 下列哪项不是经口气管插管的适应症(2.5分),A.严重的颅脑外伤（GCS评分＜8分）  B.急性呼吸窘迫综合症（ARDS）引起严重低氧血症 C.吸入性气道损伤 D.上呼吸道完全梗阻 E.C3/4水平颈椎骨折,D.上呼吸道完全梗阻
+2080,12,5,4,33. 通常情况下，失血量达到  （ D ）会导致血压明显变化并需要输血治疗(2.5分),A.500-750ml B.750-1000ml C.1000-1500ml D.15000-2000ml E.2000ml以上,D.15000-2000ml
+2081,12,5,4,34. 某奶茶曾请周杰伦担任代言人，这主要是运用以下哪种影响力 (2.5分),A.专家 B.相似性 C.参照群体 D.人格特征,C.参照群体
+2082,12,5,4,35. 医生在给儿童患者做检查时应采取的人际距离是(2.5分),A.亲密距离                    B.个人距离 C.社交距离              D.公众距离,A.亲密距离                   
+2083,12,5,4,36. Which statement about the mechanisms of action of antiviral drugs is accurate? (2.5分),A.Acyclovir has no requirement for activation by phosphorylation B.An increase in activity of host cell ribonucleases that degrade viral mRNA is one of the antiviral actions of interferon-α C.Ganciclovir inhibits viral DNA polymerase but does not cause chain termination D.The initial step in activation of foscarnet in HSVinfected cells is its phosphorylation by thymidine kinase E.The reverse transcriptase of HIV is 30-50 times more sensitive to inhibition by fosamprenavir than host cell DNA polymerases,B.An increase in activity of host cell ribonucleases that degrade viral mRNA is one of the antiviral actions of interferon-α
+2084,12,5,4,"37. A 27-year-old nursing mother is diagnosed as suffering from genital herpes. She has a history of this viral infection. Previously, she responded to a drug used topically. Apart from her current problem, she is in good health. Which drug to be used orally is most likely to be prescribed at this time?(2.5分)",A.Amantadine B.Foscarnet C.Ritonavir D.Trifluridine E.Valacyclovir,E.Valacyclovir
+2085,12,5,4,"38. Regarding interferon-α, which of the following statements is false?(2.5分)","A.At the start of treatment, most patients experience flu-like symptoms B.Indications include treatment of genital warts C.It is used in the management of hepatitis B and C D.Lamivudine interferes with its activity against hepatitis B E.Toxicity includes bone marrow suppression",D.Lamivudine interferes with its activity against hepatitis B
+2086,12,5,4,39. Interactions between this drug and cell membrane components can result in the formation of pores lined by hydrophilic groups present in the drug molecule.(2.5分),A.Amphotericin B B.Flucytosine C.Griseofulvin D.Itraconazole E.Terbinafine,A.Amphotericin B
+2087,12,5,4,40. Which statement about fluconazole is accurate?(2.5分),A.Does not penetrate the blood-brain barrier B.Has the least effect of all azoles on hepatic drug metabolism C.Is an inducer of hepatic drug-metabolizing enzymes D.Is highly effective in the treatment of aspergillosis E.Oral bioavailability is less than that of ketoconazole,B.Has the least effect of all azoles on hepatic drug metabolism
+2348,13,5,4,1. 关于病毒体，最正确的描述是(3.0分),A.是有感染性的病毒颗粒 B.是脱去衣壳仍有感染性的病毒核酸 C.是有刺突的包膜病毒颗粒 D.是结构完整的，具有感染性的成熟病毒颗粒,
+2349,13,5,4,2. 病毒的遗传信息储存部位在(2.0分),A.DNA B.RNA C.DNA或RNA D.染色体,
+2350,13,5,4,3. 用于估计病毒感染性强弱和数量的实验方法(3.0分),A.蚀斑形成试验 B.TCID50或ID50测定 C.ELLSA  D.PCR,
+2351,13,5,4,4. 干扰素的抗病毒作用特点中不包括(3.0分),A.间接灭活病毒 B.选择性作用于病毒感染细胞 C.种属特异性 D.只能针对某种病毒，作用有特异性,
+2352,13,5,4,5. 对甲型流感病毒抗原转变的错误叙述是(3.0分),A.大组变异是指HA和NA均变异 B.亚型变异是指HA大变异，NA不变或小变异 C.抗原转变造成新型流感病毒出现 D.禽流感病毒和人流感病毒共同感染猪可产生新亚型,
+2353,13,5,4,6. 对流感病毒血凝素和神经氨酸酶的错误叙述是(3.0分),A.两者都是糖蛋白 B.存在于脂类包膜上 C.抗原性都很稳定 D.血凝素抗体在抗感染免疫中起主要作用,
+2354,13,5,4,7. 呼吸道病毒中可引起胎儿感染的是(2.0分),A.麻疹病毒 B.流感病毒 C.呼吸道合胞病毒 D.风疹病毒,
+2355,13,5,4,8. 下列哪组病毒都通过粪-口途径传播(3.0分),A.脊髓灰质炎病毒、甲型肝炎病毒、ECHO病毒、柯萨奇病毒 B.腺病毒、EB病毒、脊髓灰质炎病毒、ECHO病毒 C.柯萨奇病毒、甲型肝炎病毒、麻疹病毒、EB病毒 D.冠状病毒、腮腺炎病毒、ECHO病毒、柯萨奇病毒,
+2356,13,5,4,9. 关于汉坦病毒，哪项是错误的(3.0分),A.为有包膜的RNA病毒 B.黑线姬鼠为主要传染源之一 C.可引起肾综合症出血热 D.核衣壳呈20面体对称,
+2357,13,5,4,10. 可导致胎儿先天畸形的病毒是(3.0分),A.水痘带状疱疹病毒、巨细胞病毒、单纯疱疹病毒 B.柯萨奇病毒、流感病毒、腮晾炎病毒 C.HIV、乙利脑炎病毒、丙型肝炎病毒 D.巨细胞病毒、腺病毒，乙型肝炎病毒,
+2358,13,5,4,11. 人是下面哪种病毒的自然宿主? (3.0分),A.寨卡病毒 B.埃博拉病毒 C.巨细胞病毒 D.汉坦病毒,
+2359,13,5,4,12. Varicella is transmitted primarily by (3.0分),A.Respiratory droplets B.Sexual contact C.Body fluids D.Direct skin contact,
+2360,13,5,4,13. Which one of the following outcomes is MOST common following a primary herpes simplex virus infection? (3.0分),A.Complete eradication of virus and virus infected cells B.Persistent asymptomatic viremia C.Establishment of latent infections in neurons D.Persistent cytopathic effect in infected cells,
+2361,13,5,4,14. 关于流行性感冒病毒下列哪项是正确的(3.0分),A.流行性感冒病毒属副粘液病毒 B.分甲、乙、丙三型 C.甲型不变异 D.乙型及丙型可感染人类及多种动物,
+2362,13,5,4,15. 流行性感冒的临床表现，下列不符合的是(3.0分),A.全身症状重 B.上呼吸道卡他症状较轻或不明显 C.年老患者或免疫力低下的患者感染流感，病情可持续发展 D.肺外合并症多见,
+2363,13,5,4,16. 流行性感冒的确诊办法(2.0分),A.发病季节 B.呼吸道症状轻微而全身中毒症状重 C.病毒分离 D.血凝抑制试验,
+2364,13,5,4,17. 流行性感冒病毒分为甲、乙、丙三型的依据(3.0分),A.所致疾病的临床特征 B.流行特征 C.病毒内部和外部抗原结构不同 D.表面抗原血凝素,
+2365,13,5,4,18. 关于流感的表述下列哪些是错误的(3.0分),A.由流行性感冒病毒引起 B.临床表现以上呼吸道症状较重 C.发热及全身中毒症状较重 D.传染性强,
+2366,13,5,4,19. 肾综合征出血热的原发性休克的原因，正确的是(3.0分),A.继发感染，大出血，血浆外渗 B.血管通透性增加，大出血，血浆外渗 C.血管通透性增加，血浆外渗，血容量下降 D.大出血，血浆外渗，血容量下降,
+2367,13,5,4,20. 肾综合征出血热发热期中毒症状的"三痛"，主要是指(2.0分),A.头痛，腹痛，腰痛 B.头痛，腰痛，眼眶痛 C.头痛，颈痛，腰痛 D.头痛，腿痛，淋巴结痛,
+2368,13,5,4,21. 肾综合征出血热在发热期可给予抗病毒，选用的抗病毒药通常为(3.0分),A.普通干扰素 B.聚乙二醇干扰素 C.拉米夫定 D.利巴韦林（病毒唑）,
+2369,13,5,4,22. 流行性乙型脑炎的主要传播途径为(3.0分),A.呼吸道传播 B.饮用疫水传播 C.经蚊子叮咬传播 D.食用带有乙脑病毒的猪肉传播,
+2370,13,5,4,23. 流行性乙型脑炎有早期诊断意义的血清学试验是(3.0分),A.补体结合试验 B.血凝抑制试验 C.中和试验 D.特异性IgM抗体试验,
+2371,13,5,4,24. 流行性乙型脑炎治疗重点是(3.0分),A.对症支持治疗 B.抗病毒治疗 C.免疫调节治疗 D.中医中药治疗,
+2372,13,5,4,25. 下列创伤中明确属开放性创伤的是(3.0分),A.左髋关节脱位 B.右踝关节扭伤 C.脑震荡 D.左上肢皮肤擦伤 E.背部皮下组织挫伤,
+2373,13,5,4,26. 关于创伤后机体的全身反应，下列哪项是错误的？ (3.0分),A.体温升高是炎性介质作用于体温中枢的效应 B.伤后机体的静息能量消耗增加 C.糖原、蛋白质和脂肪分解加速 D.儿茶酚胺可使淋巴细胞的功能增强 E.抗利尿激素分泌增加，使肾小管回收水分增多,
+2374,13,5,4,27. 关于肉芽组织，下列哪项是错误的？ (3.0分),A.肉芽有新生毛细血管和成纤维细胞组成 B.肉芽内有神经，触之有痛感 C.肉芽有抗感染作用 D.肉芽有填充创伤组织缺损功能 E.肉芽组织有利于组织修复,
+2375,13,5,4,28. 浅部软组织挫伤的特点是(3.0分),A.伴明显出血 B.软组织撕裂 C.关节囊、韧带、肌腱损伤明显 D.多有较大的伤口 E.皮肤完整、而皮下组织、浅层肌部分组织细胞受损,
+2376,13,5,4,29. 伤口处理原则，哪一项不对？ (3.0分),A.肉芽组织抗感染能力低，故一般需要局部应用抗生素 B.一般伤口在6小时以内，可经清创手术处理       C.较大的骨折片，即使巳与骨膜分离，仍应清洗后放置原位 D.某些伤口保持开放1-3天，引流其分泌物，确认无明显 感染后，可予缝合 E.感染伤口需经换药处理，以达到二期愈合,
+2377,13,5,4,30. 下列哪一项不符合创伤后全身性反应？ (3.0分),A.儿茶酚胺释放增加 B.红细胞生成素释放增加 C.生长激素释放增加 D.醛固酮释放增加                       E.抗利尿激素释放增加,
+2378,13,5,4,31. 下列哪项不是经口气管插管的适应症(2.0分),A.严重的颅脑外伤（GCS评分＜8分）  B.急性呼吸窘迫综合症（ARDS）引起严重低氧血症 C.吸入性气道损伤 D.上呼吸道完全梗阻 E.C3/4水平颈椎骨折,
+2379,13,5,4,32. 对于止血下列说法正确的是(3.0分),A.毛细血管出血用加压包扎止血法 B.止血钳通常作为首选的紧急止血方式 C.实质脏器出血均需手术止血 D.止血带止血法适用全部四肢部位 E.止血带结扎时间＞1h，每30min放松1次,
+2380,13,5,4,33. 格拉斯哥（GCS）计分法下列哪项是错误的(3.0分),A.总分最低3分，最高15分 B.总分越低表示意识障碍越严重，越高预后越好 C.总分在13分以下表示已有昏迷 D.总分9分以下需要考虑气道保护及呼吸支持 E.由睁眼、语言、动作反应3部分组成，其中动作反应评估最可靠,
+2381,13,5,4,34. 女，28岁，车祸致头部着地，昏迷，GCS评分11分，以下现场急救处理不正确的是(3.0分),A.颈托保护 B.评估患者呼吸循环是否稳定 C.转运至创伤中心进一步治疗 D.保温措施 E.评估是否存在其余部位的损伤,
+2382,13,5,4,35. 男， 30岁，车祸致骨盆疼痛1小时。骨盆平片提示：双侧耻骨上下支骨折，耻骨联合分离。床边FAST未见腹腔积液。已予骨盆带固定，并予输液2500ml，输血6U。目前BP 80/60mmHg，P 130次/分，R 27次/分。除继续液体复苏外，最重要的措施为(3.0分),A.剖腹探查 B.床旁暂时性的腹主动脉球囊阻断 C.腹膜外填塞 D.更换更加稳定的骨盆固定方式，如C型钳 E.全腹及下肢CT血管造影,
+2618,14,5,4,1. 病毒的基本性状不包括(2.5分),A.专性细胞内寄生     B.只含一种核酸     C.形态微小，可通过细菌滤器     D.结构简单，非细胞型结构    E.营养要求高，需用特殊培养基培养,
+2619,14,5,4,2. 病毒核酸具有mRNA功能的病毒是(2.5分),A.ss(-)RNA病毒 B.双链DNA病毒 C.逆转录病毒         D.ss(+)RNA病毒 E.单链DNA病毒,
+2620,14,5,4,3. 病毒在宿主细胞内的复制周期，包括(2.5分),A.吸附和穿入、脱壳、生物合成、组装、成熟与释放 B.吸附和脱壳、生物合成、成熟与释放 C.吸附和接合、穿入、生物合成、成熟与释放 D.特异性结合、脱壳、复制、组装与释放 E.结合、复制、装配与释放,
+2621,14,5,4,4. 病毒感染宿主细胞后可出现(2.5分),A.细胞溶解死亡 B.细胞融合 C.细胞转化 D.包涵体形成 E.以上均可,
+2622,14,5,4,5. 用于估计病毒感染性强弱和数量的实验方法(2.5分),A.蚀斑形成试验 B.TCID50或ID50测定 C.ELLSA D.PCR E.原位杂交,
+2623,14,5,4,6. 检测减毒抗体的三种方法是(2.5分),A.中和试验、补体结合试验、血凝抑制试验 B.中和试验、补体结合试验、血凝试验    C.酶联免疫吸附试验、PCR、血凝抑制试验        D.中和试验、血凝试验、免疫电泳技术 E.酶联免疫吸附试验、PCR、凝胶免疫扩散试验,
+2624,14,5,4,7. 造成流感世界性大流行的原因是(2.5分),A.病毒抗原结构复杂                      B.抗原性漂移 C.抗原性转换        D.病毒型别较多 E.NP抗原易发生改变,
+2625,14,5,4,8. 造成流感中小型流行的原因是(2.5分),A.病毒抗原结构复杂                      B.抗原性漂移 C.抗原性转换        D.病毒型别较多 E.NP抗原易发生改变,
+2626,14,5,4,9. 感染后临床体征表现为口颊粘膜处Koplik斑的是(2.5分),A.流感病毒 B.副流感病毒 C.腮腺炎病毒 D.腺病毒 E.麻疹病毒,
+2627,14,5,4,10. 对流感病毒血凝素和神经氨酸酶的错误叙述是(2.5分),A.两者都是糖蛋白            B.存在于脂类包膜上 C.抗原性都很稳定            D.血凝素抗体在抗感染免疫中起主要作用 E.神经氨酸酶抗体可抑制流感病毒的播散,
+2628,14,5,4,11. 流行性腮腺炎的病原体属于(2.5分),A.呼吸道病毒 B.肠道病毒  C.痘类病毒 D.疱疹病毒  E.黄病毒,
+2629,14,5,4,12. 青春期感染腮腺炎病毒易合并(2.5分),A.脑膜炎 B.肺炎 C.肝炎 D.睾丸炎或卵巢炎 E.肾炎,
+2630,14,5,4,13. 脊髓灰质炎病毒多引起(2.5分),A.隐性或轻症感染     B.瘫痪型感染    C.延髓麻痹型感染     D.慢性感染    E.迁延型感染,
+2631,14,5,4,14. 下列哪组病毒都通过粪-口途径传播(2.5分),A.脊髓灰质炎病毒、甲型肝炎病毒、ECHO病毒、柯萨奇病毒 B.腺病毒、EB病毒、脊髓灰质炎病毒、ECHO病毒 C.柯萨奇病毒、甲型肝炎病毒、麻疹病毒、EB病毒 D.冠状病毒、腮腺炎病毒、ECHO病毒、柯萨奇病毒 E.EB病毒、ECHO病毒、脊髓灰质炎病毒、柯萨奇病毒,
+2632,14,5,4,15. 脊髓灰质炎病毒主要侵犯(2.5分),A.三叉神经节 B.脑神经节 C.脊髓前角神经细胞    D.神经肌肉接头 E.海马回椎体细胞,
+2633,14,5,4,16. 下列不属于虫媒传播的病毒是(2.5分),A.日本脑炎病毒 B.新疆出血热病毒 C.登革病毒  D.乙型肝炎病毒 E.森林脑炎病毒,
+2634,14,5,4,17. 主要通过伊蚊传播的病毒是(2.5分),A.日本脑炎病毒 B.新疆出血热病毒 C.登革病毒 D.汉坦病毒 E.森林脑炎病毒,
+2635,14,5,4,18. 流行性乙型脑炎的传播媒介是(2.5分),A.蚊子 B.蜱虫 C.白蛉 D.幼猪 E.鼠,
+2636,14,5,4,19. 关于汉坦病毒，哪项是错误的(2.5分),A.为有包膜的RNA病毒 B.主要通过蚊虫叮咬传播 C.可引起肾综合症出血热 D.其基因组在病毒粒子里分三个节段,
+2637,14,5,4,20. 下面哪组中的病毒均可以导致胎儿先天畸形 (2.5分),A.柯萨奇病毒、流感病毒、腮晾炎病毒 B.水痘带状疱疹病毒、巨细胞病毒、单纯疱疹病毒 C.HIV、乙利脑炎病毒、丙型肝炎病毒 D.巨细胞病毒、腺病毒，乙型肝炎病毒,
+2638,14,5,4,21. 下面哪种病毒不是疫源性病毒? (2.5分),A.寨卡病毒 B.埃博拉病毒 C.巨细胞病毒 D.汉坦病毒,
+2639,14,5,4,22. Which of the following is the major causal agent for nasopharyngeal carcinoma? (2.5分),A.Herpes simplex virus B.Epstein-Barr virus C.Hantavirus D.Varicella-zoster virus,
+2640,14,5,4,23. Varicella is transmitted primarily by(2.5分),A.Respiratory droplets B.Sexual contact C.Body fluids D.Direct skin contact,
+2641,14,5,4,24. Which one of the following outcomes is MOST common following a primary herpes simplex virus infection?(2.5分),A.Complete eradication of virus and virus infected cells B.Persistent asymptomatic viremia C.Establishment of latent infections in neurons D.Persistent cytopathic effect in infected cells,
+2642,14,5,4,25. Which of the following groups are at increased risk for herpes zoster? (2.5分),A.Persons at advanced age  B.Patients with atopic dermatitis C.Pregnant women D.Persons who have been vaccinated with varicella vaccine E.Infants with congenital infections,
+2643,14,5,4,26. Which one of the following is the best explanation for the selective action of acyclovir in herpes simplex virus (HSV)-infected cells? (2.5分),"A.Acyclovir binds specifically to viral receptors only on the surface of the HSV-infected cell. B.Acyclovir is phosphorylated by a virus-encoded phosphokinase only within HSV-infected cells. C.Acyclovir selectively inhibits the RNA polymerase in the HSV virion. D.Acyclovir specifically blocks the matrix protein of HSV, thereby preventing release of progeny HSV",
+2644,14,5,4,"27. A 55-year-old female presents to the hospital with shortness of breath, fever, and malaise. She has a history of breast cancer, which was diagnosed 3 months ago, and has been treated with chemotherapy. Her chest x-ray shows possible pneumonia, and respiratory cultures are positive for Aspergillus fumigatus. Which of the following is the MOST appropriate choice for treatment? (2.5分)",A.Voriconazole. B.Fluconazole. C.Flucytosine. D.Ketoconazole.,
+2645,14,5,4,28. A 56-year-old female with diabetes presents for routine foot evaluation with her podiatrist. The patient complains of thickening of the nail of the right big toe and a change in color (yellow). The podiatrist diagnoses the patient with onychomycosis of the toenails. Which of the following is the most appropriate choice for treating this infection? (2.5分),A.Terbinafine. B.Micafungin. C.Itraconazole. D.Griseofulvin.,
+2646,14,5,4,29. A 75-year-old man with chronic obstructive pulmonary disease is diagnosed with suspected influenza based on his complaints of flu-like symptoms that began 24 hours ago. Which of the following agents is most appropriate to initiate for the treatment of influenza? (2.5分),A.Ribavirin. B.Oseltamivir. C.Zanamivir. D.Rimantadine. E.Amantadine.,
+2647,14,5,4,30. A 24-year-old female is diagnosed with genital herpes simplex virus infection. Which of the following agents is indicated for use in this diagnosis? (2.5分),A.Valacyclovir. B.Cidofovir. C.Ganciclovir. D.Zanamivir. E.Lamivudine.,
+2648,14,5,4,31. A female patient who is being treated for chronic hepatitis B develops nephrotoxicity while on treatment. Which is the most likely medication she is taking for HBV treatment? (2.5分),A.Entecavir. B.Telbivudine. C.Lamivudine. D.Adefovir.,
+2649,14,5,4,32. 肾综合征出血热的最主要病变器官在(2.5分),A.肝 B.肾 C.肺 D.心,
+2650,14,5,4,33. 典型的肾综合征出血热的临床表现，有如下几期经过： (2.5分),A.发热期，肾功能损害期，少尿期，多尿期，恢复期 B.发热初期，极期，低血压休克期，少尿期，恢复期 C.发热期，低血压休克期，少尿期，多尿期，恢复期 D.发热期，少尿期，低血压休克期，多尿期，恢复期,
+2651,14,5,4,34. 对肾综合征出血热确诊最有诊断价值的实验室检查结果是(2.5分),A.血常规WBC总数高，并有异常淋巴细胞 B.尿常规蛋白（++）以上 C.外周血凝血功能下降，血小板数降低明显 D.血清肾综合征出血热特异抗体IgM阳性,
+2652,14,5,4,35. 肾综合征出血热少尿期错误的治疗措施为(2.5分),A.稳定人体内环境 B.促进利尿 C.导泻和透析 D.利巴韦林（病毒唑）和短期大剂量激素治疗,
+2653,14,5,4,36. 流行性乙型脑炎导致死亡的主要原因为(2.5分),A.高热 B.抽搐 C.循环功能衰竭 D.呼吸功能衰竭,
+2654,14,5,4,37. 流行性乙型脑炎治疗重点是(2.5分),A.对症支持治疗 B.抗病毒治疗 C.免疫调节治疗 D.中医中药治疗,
+2655,14,5,4,38. 流行性乙型脑炎预防的主要措施为(2.5分),A.预防接种疫苗 B.灭蚊防蚊、预防接种疫苗为主的综合措施 C.早期发现和隔离病人 D.加强对易感家畜尤其是猪的管理,
+2656,14,5,4,39. 血凝和血凝抑制试验的原理是(2.5分),A.病毒的粘附力 B.细胞膜的选择性 C.特异性受体结合病毒 D.病毒融合细胞 E.病毒的红细胞凝集现象,
+2657,14,5,4,40. 关于病毒血凝抑制试验，以下叙述不正确的是(2.5分),A.是一种非特异性的方法 B.是检测血凝抑制抗体的方法 C.所用抗体为中和抗体 D.是检测血凝素的方法之一 E.可用于病毒分型及亚型,
+2921,15,5,4,1. 造成流感世界性大流行的原因是(2.5分),A.病毒抗原结构复杂                      B.抗原性漂移 C.抗原性转换        D.病毒型别较多 E.NP抗原易发生改变,
+2922,15,5,4,2. 麻疹病毒的特点是(2.5分),A.感染率低、发病率低 B.目前尚不能进行组织培养 C.有多个血清型 D.感染会形成二次病毒血症，感染后机体有牢固免疫力 E.不侵犯中枢神经系统,
+2923,15,5,4,3. 对流感病毒血凝素和神经氨酸酶的错误叙述是(2.5分),A.两者都是糖蛋白            B.存在于脂类包膜上 C.抗原性都很稳定            D.血凝素抗体在抗感染免疫中起主要作用 E.神经氨酸酶抗体可抑制流感病毒的播散,
+2924,15,5,4,4. 流行性腮腺炎的病原体属于(2.5分),A.呼吸道病毒 B.肠道病毒 C.痘类病毒    D.疱疹病毒 E.黄病毒,
+2925,15,5,4,5. 关于病毒核酸的叙述错误的是(2.5分),A.由RNA或DNA组成          B.控制病毒的遗传和变异 C.决定病毒包膜所有成分的形成        D.RNA携带病毒的遗传信息 E.决定病毒的感染性,
+2926,15,5,4,6. 病毒感染宿主细胞后可出现 (2.5分),A.细胞溶解死亡 B.细胞融合 C.细胞转化   D.包涵体形成 E.以上均可,
+2927,15,5,4,7. 用于估计病毒感染性强弱和数量的实验方法(2.5分),A.蚀斑形成试验 B.TCID50或ID50测定  C.ELLSA   D.PCR E.原位杂交,
+2928,15,5,4,8. 检测减毒抗体的三种方法是(2.5分),A.中和试验、补体结合试验、血凝抑制试验 B.中和试验、补体结合试验、血凝试验    C.酶联免疫吸附试验、PCR、血凝抑制试验        D.中和试验、血凝试验、免疫电泳技术 E.酶联免疫吸附试验、PCR、凝胶免疫扩散试验,
+2929,15,5,4,9. 下面哪种病毒与其他几种病毒在生物学性状方面差别较大(2.5分),A.首尔病毒 B.克里米亚-刚果出血热病毒 C.汉滩病毒 D.埃博拉病毒,
+2930,15,5,4,10. 下面哪组中的病毒均可以导致胎儿先天畸形(2.5分),A.柯萨奇病毒、流感病毒、腮晾炎病毒 B.水痘带状疱疹病毒、巨细胞病毒、单纯疱疹病毒 C.HIV、乙利脑炎病毒、丙型肝炎病毒 D.巨细胞病毒、腺病毒，乙型肝炎病毒,
+2931,15,5,4,11. HSV-1、HSV-2、EB病毒潜伏感染时的主要存在部位是(2.5分),A.三叉神经节、骶神经节、B淋巴细胞 B.疱疹复发部位局部淋巴结、迷走神经节、骶神经节 C.疱疹复发部位神经末梢、三叉神经节、T淋巴细胞 D.骶神经节、颈上神经节、嗜中性粒细胞,
+2932,15,5,4,12. 肾综合征出血热的主要传染源是(2.5分),A.肾综合征出血热患者 B.蚊子 C.鼠 D.疫水,
+2933,15,5,4,13. 肾综合征出血热发热期中毒症状的"三痛"，主要是指(2.5分),A.头痛，腹痛，腰痛 B.头痛，腰痛，眼眶痛 C.头痛，颈痛，腰痛 D.头痛，腿痛，淋巴结痛,
+2934,15,5,4,14. 对肾综合征出血热确诊最有诊断价值的实验室检查结果是(2.5分),A.血常规WBC总数高，并有异常淋巴细胞 B.尿常规蛋白（++）以上 C.外周血凝血功能下降，血小板数降低明显 D.血清肾综合征出血热特异抗体IgM阳性,
+2935,15,5,4,15. 流行性乙型脑炎的主要传染源是(2.5分),A.流行性乙型脑炎患者 B.鼠 C.猪 D.蚊子,
+2936,15,5,4,16. 流行性乙型脑炎有早期诊断意义的血清学试验是(2.5分),A.补体结合试验 B.血凝抑制试验 C.中和试验 D.特异性IgM抗体试验,
+2937,15,5,4,17. 关于流行性感冒病毒下列哪项是正确的(2.5分),A.流行性感冒病毒属副粘液病毒 B.分甲、乙、丙三型 C.甲型不变异 D.乙型及丙型可感染人类及多种动物,
+2938,15,5,4,18. 流行性感冒的确诊的主要依据是(2.5分),A.发病季节 B.呼吸道症状轻微而全身中毒症状重 C.病毒分离 D.血凝抑制试验,
+2939,15,5,4,19. 流行性感冒的临床表现，下列不符合的是(2.5分),A.全身症状重 B.上呼吸道卡他症状较轻或不明显 C.年老患者或免疫力低下的患者感染流感，病情可持续发展 D.肺外合并症多见,
+2940,15,5,4,20. 流行性感冒的确诊办法(2.5分),A.发病季节 B.呼吸道症状轻微而全身中毒症状重 C.病毒分离 D.血凝抑制试验,
+2941,15,5,4,21. 流行性感冒病毒分为甲、乙、丙三型的依据(2.5分),A.所致疾病的临床特征 B.流行特征 C.病毒内部和外部抗原结构不同 D.表面抗原血凝素,
+2942,15,5,4,22. 创伤导致的死亡总数为（），是第（）位的死亡原因(2.5分),A.9%；五 B.19%；三 C.9%；三 D.19%；五,
+2943,15,5,4,23. 以下哪项不是休克的临床表现(2.5分),A.呼吸急促 B.意识障碍、嗜睡 C.心动过度 D.毛细血管充盈时间延长 E.少尿甚至无尿,
+2944,15,5,4,24. 严重创伤的全身创伤检查正确的是(2.5分),A.主要检查头颈部损伤 B.发现有血胸，以立即处理 C.发现有张力性气胸，应立即处理 D.发现骨盆有不稳定性，再次体检确认,
+2945,15,5,4,25. 创伤患者病史不作为必须情况了解的是(2.5分),A.过敏史 B.当前药物使用史 C.最后进餐情况 D.创伤现场情况 E.职业暴露史,
+2946,15,5,4,26. 在抢救现场或伤员刚送到急诊室时应(2.5分),A.病史采集 B.全面而详细的检查 C.迅速判断有无威胁生命的征象 D.心电监护，建立静脉通路 E.以上均是,
+2947,15,5,4,27. 下列哪项不是经口气管插管的适应症(2.5分),A.严重的颅脑外伤（GCS评分＜8分）  B.急性呼吸窘迫综合症（ARDS）引起严重低氧血症 C.吸入性气道损伤 D.上呼吸道完全梗阻 E.C3/4水平颈椎骨折,
+2948,15,5,4,28. 根据推敲可能性模型，以下不属于外周途径沟通的广告形式是(2.5分),A.请明星代言   B.朗朗上口的广告词 C.夸赞商品功能    D.优美动听的背景音乐,
+2949,15,5,4,29. 以下不属于医务人员言语沟通的是(2.5分),A.运用得体的称呼语 B.多用称赞的语言 C.语言表达简洁明确 D.经常微笑,
+2950,15,5,4,30. 关于倾听，以下不正确的是(2.5分),A.倾听是对各种听觉刺激的接收、注意和解读意义的过程 B.理解性倾听是倾听并理解信息 C.最高层次的倾听是共情的倾听 D.倾听时应不打岔、不驳斥、不续话,
+2951,15,5,4,31. 以下哪一项不属于有效的治疗性倾听者合适的行为(2.5分),A.全神贯注 B.表现专注行为 C.提供分析和建议 D.营造支持性的沟通氛围,
+2952,15,5,4,32. 以下哪一项不是治疗性倾听中合适的倾听态度(2.5分),A.安静的倾听 B.提供反馈 C.用重述表达共情   D.提供安慰,
+2953,15,5,4,33. Which of the following antifungal agents is MOST likely to cause renal insufficiency? (2.5分),A.Fluconazole. B.Amphotericin B. C.Itraconazole. D.Posaconazole.,
+2954,15,5,4,34. Which of the following antifungal agents should be avoided in patients with evidence of ventricular dysfunction?(2.5分),A.Micafungin. B.Itraconazole. C.Terbinafine. D.Posaconazole.,
+2955,15,5,4,35. A 56-year-old female with diabetes presents for routine foot evaluation with her podiatrist. The patient complains of thickening of the nail of the right big toe and a change in color (yellow). The podiatrist diagnoses the patient with onychomycosis of the toenails. Which of the following is the most appropriate choice for treating this infection? (2.5分),A.Terbinafine. B.Micafungin. C.Itraconazole. D.Griseofulvin.,
+2956,15,5,4,"36. A 30-year-old male patient with human immunodeficiency virus infection is being treated with a HAART (highly active antiretroviral therapy) regimen. Four weeks after initiating therapy, he presents to the emergency department complaining of fever, rash, and gastrointestinal upset. Which one of the following drugs is most likely the cause of his symptoms? (2.5分)",A.Zidovudine. B.Nelfinavir. C.Abacavir. D.Efavirenz. E.Darunavir.,
+2957,15,5,4,37. A 75-year-old man with chronic obstructive pulmonary disease is diagnosed with suspected influenza based on his complaints of flu-like symptoms that began 24 hours ago. Which of the following agents is most appropriate to initiate for the treatment of influenza?(2.5分),A.Ribavirin. B.Oseltamivir. C.Zanamivir. D.Rimantadine. E.Amantadine.,
+2958,15,5,4,38. A 24-year-old female is diagnosed with genital herpes simplex virus infection. Which of the following agents is indicated for use in this diagnosis?(2.5分),A.Valacyclovir. B.Cidofovir. C.Ganciclovir. D.Zanamivir. E.Lamivudine.,
+2959,15,5,4,39. Congenital infection is most commonly caused by(2.5分),A.Varicella-zoster virus B.Herpes simplex virus type 2 C.Human herpesvirus 8 (Kaposi sarcoma herpesvirus) D.Cytomegalovirus E.Parvovirus,
+2960,15,5,4,40. Which of the following is the major causal agent for nasopharyngeal carcinoma?(2.5分),A.Herpes simplex virus B.Epstein-Barr virus C.Hantavirus D.Varicella-zoster virus E.Cytomegalovirus,

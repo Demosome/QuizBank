@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!-- 模块/周数选择界面（默认显示） -->
+    <LinearLayout
+        android:id="@+id/selector_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="请选择练习模块"
+            android:textSize="20sp"
+            android:layout_marginBottom="8dp"/>
+
+        <Spinner
+            android:id="@+id/module_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="请选择周数"
+            android:textSize="20sp"
+            android:layout_marginBottom="8dp"/>
+
+        <Spinner
+            android:id="@+id/week_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"/>
+
+        <Button
+            android:id="@+id/btn_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="24dp"
+            android:text="开始练习"
+            android:backgroundTint="@color/purple_500"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:id="@+id/btn_show_favorites"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="16dp"
+            android:text="查看收藏"
+            android:backgroundTint="@color/teal_200"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+    <!-- 题目显示界面（默认隐藏） -->
+    <LinearLayout
+        android:id="@+id/question_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <!-- 可滚动内容区域 -->
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fillViewport="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <!-- 题目编号 -->
+                <TextView
+                    android:id="@+id/tv_question_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:layout_marginBottom="16dp"/>
+
+                <!-- 题干 -->
+                <TextView
+                    android:id="@+id/tv_question"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:layout_marginBottom="16dp"/>
+
+                <!-- 选项按钮区域 -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:divider="@drawable/divider_space"
+                    android:showDividers="middle"
+                    android:layout_marginBottom="16dp">
+
+                    <Button
+                        android:id="@+id/btn_a"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:textSize="16sp"
+                        android:background="@drawable/btn_option_bg"
+                        android:visibility="visible"/>
+
+                    <Button
+                        android:id="@+id/btn_b"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:textSize="16sp"
+                        android:background="@drawable/btn_option_bg"
+                        android:visibility="visible"/>
+
+                    <Button
+                        android:id="@+id/btn_c"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:textSize="16sp"
+                        android:background="@drawable/btn_option_bg"
+                        android:visibility="visible"/>
+
+                    <Button
+                        android:id="@+id/btn_d"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:textSize="16sp"
+                        android:background="@drawable/btn_option_bg"
+                        android:visibility="visible"/>
+
+                    <Button
+                        android:id="@+id/btn_e"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:textSize="16sp"
+                        android:background="@drawable/btn_option_bg"
+                        android:visibility="visible"/>
+                </LinearLayout>
+
+                <!-- 答案提示 -->
+                <TextView
+                    android:id="@+id/tv_answer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:layout_marginTop="16dp"
+                    android:visibility="gone"/>
+            </LinearLayout>
+        </ScrollView>
+
+        <!-- 底部固定操作栏 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#F3F3F3"
+            android:padding="8dp">
+
+            <Button
+                android:id="@+id/btn_previous"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="上一题"
+                android:backgroundTint="@color/purple_200"
+                android:layout_marginEnd="4dp"/>
+
+            <Button
+                android:id="@+id/btn_next"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="下一题"
+                android:backgroundTint="@color/purple_200"
+                android:layout_marginStart="4dp"/>
+
+            <Button
+                android:id="@+id/btn_back"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="返回"
+                android:backgroundTint="@color/teal_200"
+                android:layout_marginStart="8dp"/>
+        </LinearLayout>
+
+        <!-- 功能按钮 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#F3F3F3"
+            android:padding="8dp">
+
+            <Button
+                android:id="@+id/btn_jump"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="跳转"
+                android:backgroundTint="@color/teal_700"
+                android:layout_marginEnd="4dp"/>
+
+            <Button
+                android:id="@+id/btn_favorite"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="☆ 收藏"
+                android:backgroundTint="@color/teal_700"
+                android:layout_marginStart="4dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,398 @@
+,grade,module,week,question_stem,choice,correct_answer
+51,6,5,2,1. 感染的含义是：(2.0分),A.病原体通过传播媒介进入人体 B.病原体侵入人体的过程 C.病原体对人体的寄生过程 D.人体被病原体侵入 E.人体抵抗力下降而被病原体入侵,C.病原体对人体的寄生过程
+52,6,5,2,2. 病原体侵入人体后先起作用的非特异性免疫因素是(2.0分),A.吞噬细胞 B.白细胞介素 C.致敏T淋巴细胞 D.干扰素 E.肿瘤坏死因子,A.吞噬细胞
+53,6,5,2,3. 外周血嗜酸性粒细胞减少的传染病是 (2.0分),A.甲型肝炎 B.肾综合征出血热 C.乙型脑炎 D.伤寒 E.急性细菌性痢疾,D.伤寒
+54,6,5,2,4. 外周血白细胞数常明显增高的病毒性传染病是 (2.0分),A.水痘 B.流行性感冒 C.艾滋病 D.肾综合征出血热 E.风疹,D.肾综合征出血热
+55,6,5,2,5. 通过接触疫水传播的传染病是 (2.0分),A.恙虫病 B.华支睾吸虫病 C.流行性腮腺炎 D.囊虫病  E.钩体病,E.钩体病
+56,6,5,2,6. 不属于传染病的是： (2.0分),A.莱姆病 B.黑热病 C.斑疹伤寒 D.耳源性脑膜炎 E.白日咳,D.耳源性脑膜炎
+57,6,5,2,7. 通过粪－口途径传播的传染病是(2.0分),A.百日咳 B.白喉 C.麻疹  D.阿米巴病 E.乙型病毒性肝炎,D.阿米巴病
+58,6,5,2,8. 属于病原体侵袭力的是 (2.0分),A.白喉毒素 B.霍乱肠毒素 C.伤寒沙门菌脂多糖 D.使霍乱弧菌黏附于肠黏膜表面的成分 E.以上都不是,D.使霍乱弧菌黏附于肠黏膜表面的成分
+59,6,5,2,9. 下列哪项不为传染源 (2.0分),A.潜伏性感染 B.隐性感染 C.显性感染  D.病原携带状态 E.受感染的动物,A.潜伏性感染
+60,6,5,2,10. 患病后可获得持久免疫力的传染病是(2.0分),A.艾滋病 B.伤寒 C.阿米巴痢疾 D.丙型肝炎 E.细菌性痢疾,B.伤寒
+61,6,5,2,11. 血浆凝固酶可以(2.0分),A.由表皮葡萄球菌产生 B.促进细菌在体内扩散 C.水解透明质酸 D.增强细菌抗吞噬能力,D.增强细菌抗吞噬能力
+62,6,5,2,12. 关于链球菌感染后的风湿热，下述哪项是错误的(2.0分),A.发病与A群链球菌感染有关 B.发病机制可能与III型超敏反应有关 C.发病机制可能与II型超敏反应有关 D.病灶标本中分离培养出链球菌可作为诊断指标,D.病灶标本中分离培养出链球菌可作为诊断指标
+63,6,5,2,13. 葡萄球菌A蛋白(2.0分),A.可与人类IgG的Fab段结合 B.可抑制吞噬细胞的吞噬作用 C.是一种毒素 D.可在细菌表面形成一层保护膜,A.可与人类IgG的Fab段结合
+64,6,5,2,14. 与脑膜炎奈瑟菌致病无关的物质是(2.0分),A.芽孢  B.菌毛 C.荚膜  D.内毒素,A.芽孢 
+65,6,5,2,15. 引起新生儿"脓漏眼"的病原体是(2.0分),A.淋病奈瑟菌 B.甲型链球菌 C.脑膜炎奈瑟菌 D.乙型链球菌,A.淋病奈瑟菌
+66,6,5,2,16. 引起婴儿和旅游者腹泻的大肠埃希菌是(2.0分),A.EIEC B.EPEC C.ETEC  D.EHEC,C.ETEC 
+67,6,5,2,17. 感染后临床表现很像细菌性痢疾的致病性大肠埃希菌是(2.0分),A.EIEC  B.ETEC C.EPEC D.EHEC,A.EIEC 
+68,6,5,2,18. 大肠埃希菌耐热肠毒素激活肠黏膜细胞中的酶是(2.0分),A.转位酶 B.腺苷环化酶 C.鸟苷环化酶 D.透明质酸酶,C.鸟苷环化酶
+69,6,5,2,19. 感染过程中不通过血流播散的细菌是(2.0分),A.普氏立克次体 B.结核分枝杆菌  C.伤寒沙门菌 D.志贺菌,D.志贺菌
+70,6,5,2,20. 伤寒病的恢复主要依赖的免疫机制是(2.0分),A.体液免疫 B.补体杀伤作用 C.细胞免疫 D.中性粒细胞的吞噬作用,B.补体杀伤作用
+71,6,5,2,21. 在悬滴标本中呈穿梭样运动的细菌是(2.0分),A.幽门螺杆菌  B.伤寒沙门菌 C.大肠埃希菌 D.霍乱弧菌,D.霍乱弧菌
+72,6,5,2,22. 感染后粪便呈"米泔水"样的细菌是(2.0分),A.变形杆菌 B.志贺菌  C.大肠埃希菌 D.霍乱弧菌,D.霍乱弧菌
+73,6,5,2,23. 霍乱弧菌O139的主要致病物质有(2.0分),A.鞭毛 B.荚膜 C.肠毒素 D.内毒素,C.肠毒素
+74,6,5,2,24. 典型霍乱患者，发病后最先出现的常见症状是(2.0分),A.剧烈腹泻、继之呕吐 B.声音嘶哑 C.畏寒、发热 D.腹部绞痛,A.剧烈腹泻、继之呕吐
+75,6,5,2,25. 目前已知的生物毒素中毒性最强的是(2.0分),A.霍乱肠毒素 B.破伤风痉挛毒素 C.白喉外毒素  D.肉毒毒素,D.肉毒毒素
+76,6,5,2,26. 下列哪种手术不属择期手术？ (2.0分),A.胃、十二指肠溃疡的胃大部分切除术 B.  甲状腺功能亢进的甲状腺次全切除术 C.  先心病室间隔缺损修补术 D.下肢静脉曲张高位结扎术 E.  贲门癌根治术,E.  贲门癌根治术
+77,6,5,2,27. 术前准备中，下列哪项不正确？ (2.0分),A.肾功能重度损害者，只要在有效的透析疗法处理下，仍能安全地耐受手术 B.肝功能严重损害者，一般不宜施行任何手术 C.心力衰竭病人需控制3~4周后才施行手术 D.经常发作哮喘的病人，可每日三次口服地塞米松0.75mg E.糖尿病病人大手术前，必须将血糖控制到正常、尿糖阴性的水平，才能手术,E.糖尿病病人大手术前，必须将血糖控制到正常、尿糖阴性的水平，才能手术
+78,6,5,2,28. 有关糖尿病病人手术前后处理，下列哪一项是不正确的？ (2.0分),A.缩短术前禁食与手术时间 B.凡实施有感染可能的手术，术前都应使用抗生素 C.术前应维持血糖5.6~11.2mmol/L D.术后尿糖+++，可用胰岛素8U E.术后如尿酮阳性，胰岛素剂量可增加8U,E.术后如尿酮阳性，胰岛素剂量可增加8U
+79,6,5,2,29. 对肾脏疾病患者，术前准备和对手术耐受性的估计，下列哪项是错误的？(2.0分),A.重度肾功能损害者，即使在有效的透析疗法处理下，仍不能安全地耐受手术 B.凡有肾脏病者，都应作肾功能检查 C.轻至中度肾功能损害者，经适当内科治疗，都能较好地耐受手术 D.术前准备的要点是最大限度地改善肾功能 E.术前应避免使用对肾脏有损害的药物,A.重度肾功能损害者，即使在有效的透析疗法处理下，仍不能安全地耐受手术
+80,6,5,2,30. 下列哪项术前准备项目是没有必要的？ (2.0分),A.慢性肾病者尿常规正常，也要作肾功能检查 B.即使无明显肝病病史者，术前亦应做各项肝功能检查 C.高血压者服用降压药直至血压降至正常范围 D.营养不良者要尽可能纠正 E.使糖尿病病人的血糖控制在5.6~11.2mmol/L,C.高血压者服用降压药直至血压降至正常范围
+81,6,5,2,31. 下列术后引流管的处理方法中，哪项是错误的？(2.0分),A.胃肠减压管在胃肠功能恢复后拔出 B.置于胆道的"T"形管引流应在术后第2天拔出 C.对各种引流管应注意有无堵塞、扭曲、脱出 D.注意记录引流液的颜色和量 E.乳胶片引流多在术后24~48小时拔出,B.置于胆道的"T"形管引流应在术后第2天拔出
+82,6,5,2,32. 有关手术后腹胀的处理措施，下列哪一项是错误的？ (2.0分),A.留置肛管排气 B.留置胃管持续减压 C.高渗液低压灌肠 D.必要时肌注阿托品0.5mg/q6h E.有肠麻痹者适当补钾盐,D.必要时肌注阿托品0.5mg/q6h
+83,6,5,2,33. 下列哪项防治术后尿潴留的措施不妥？ (2.0分),A.下腹部热敷、轻柔按摩 B.术前或术后常规放置导尿管 C.及时恰当地镇静、止痛 D.术前练习卧床小便 E.情况允许可坐起或站立小便,B.术前或术后常规放置导尿管
+84,6,5,2,34. 腹部大手术后，早期出现肺功能不全的最常见原因是： (2.0分),A.胃内容物误吸 B.气胸 C.肺不张 D.支气管痉挛 E.肺水肿,C.肺不张
+85,6,5,2,35. 女，10岁，阑尾炎穿孔并弥漫性腹膜炎，急诊手术后于右下腹放置硅胶引流管1根，下列处理措施中哪项正确？ (2.0分),A.视引流情况，决定拔出时间 B.每次换药时旋转拔出约1~2cm，术后1~2天即可拔除 C.每次换药时旋转拔出约1~2cm，术后3~5天拔除 D.放置1~2天后即可拔除 E.术后1周即可拔除,A.视引流情况，决定拔出时间
+86,6,5,2,36. 伤寒的传播途径主要是：(2.0分),A.苍蝇媒介 B.日常生活接触  C.血液  D.粪－口传播,D.粪－口传播
+87,6,5,2,37. 伤寒并发症肠穿孔时关键的治疗措施：(2.0分),A.及早手术治疗  B.禁食  C.胃肠减压  D.加强抗感染,C.胃肠减压 
+88,6,5,2,38. 成年伤寒患者抗菌治疗通常首选(2.0分),A.氨苄青霉素 B.氯霉素 C.ＳＭＺco  D.喹酮类,D.喹酮类
+89,6,5,2,39. 伤寒并发症肠穿孔的可靠诊断依据：(2.0分),A.有腹泻，腹胀，肠出血症状 B.突然右下腹痛 C.Ｘ线示有膈下游离气体 D.再度出现发热,C.Ｘ线示有膈下游离气体
+90,6,5,2,40. 伤寒的极期的发热热型通常为：(2.0分),A.稽留热 B.间歇热 C.舒张热 D.不规则热,A.稽留热
+91,6,5,2,41. 下列哪项不是脑膜炎球菌的特点？ (2.0分),A.耐低温、干燥 B.能产生内毒素 C.产生自溶酶 D.革兰染色阴性 E.对一般抗生素敏感,D.革兰染色阴性
+92,6,5,2,42. 流脑的主要临床特征是(2.0分),A.急起高热、头痛、呕吐、昏迷、脑膜刺激征  B.缓慢起病，发热不明显、头痛剧烈，无休克 C.急起高热、惊厥、呼吸衰竭 D.急起高热、头痛、呕吐、昏迷、呼吸衰竭 E.急起高热、头痛、呕吐、皮肤粘膜瘀点瘀斑、脑膜刺激征,E.急起高热、头痛、呕吐、皮肤粘膜瘀点瘀斑、脑膜刺激征
+93,6,5,2,43. 典型流脑的脑脊液改变为 (2.0分),"A.无色透明，白细胞轻度升高，淋巴细胞为主，蛋白正常或轻度升高，糖和氯化物正常 B.不透明，黄白色，白细胞明显升高，以中性粒细胞为主，蛋白升高，糖明显降低甚至测不出，氯化物正常 C.无色透明，白细胞8～10×106/L，蛋白2～4g/L,糖含量为血糖的50％～80％，氯化物正常 D.不透明，静置后呈毛玻璃状，白细胞中等度升高，以淋巴细胞为主，蛋白明显升高，糖稍降低，氯化物降低 E.以上都不是",B.不透明，黄白色，白细胞明显升高，以中性粒细胞为主，蛋白升高，糖明显降低甚至测不出，氯化物正常
+94,6,5,2,44. 中型霍乱病人的临床表现，下列不正确的是： (2.0分),A.神志呆滞 B.皮肤弹性差、干燥 C.脱水量达体重10％以上 D.血压为12～9.3kPa E.少尿,C.脱水量达体重10％以上
+95,6,5,2,45. 治疗霍乱最重要的措施是： (2.0分),A.使用抑制肠粘膜分泌药物 B.使用肾上腺皮质激素 C.补充液体和电解质 D.抗菌治疗 E.使用血管活性药物,C.补充液体和电解质
+96,6,5,2,46. 下列哪一项不是霍乱的并发症？ (2.0分),A.急性肺水肿  B.肠穿孔                C.急性心力衰竭 D.急性肾功能衰竭  E.低钾综合症及代谢性酸中毒,B.肠穿孔               
+97,6,5,2,47. 中毒性菌痢的临床特征，下列哪项错误？(2.0分),A.腹痛、腹泻轻，肠道症状可以不明显 B.急性高热，惊厥和昏迷 C.大便常规检查正常 D.迅速休克或呼吸衰竭 E.多发生在D：腹痛、腹泻轻，肠道症状可以不明显儿童,C.大便常规检查正常
+98,6,5,2,48. 有关痢疾杆菌的下列描述，哪项是错误的 ： (2.0分),A.我国多数地区主要流行的是福氏型 B.所有血清群细菌死亡后都释放内毒素 C.各血清群均可产生外毒素 D.革兰氏阴性杆菌，有菌毛，无荚膜 E.欧美国家主要流行宋内型,C.各血清群均可产生外毒素
+99,6,5,2,49. 下列各项中，对中毒性菌痢脑型和乙脑的鉴别最有意义的是：(2.0分),A.呼吸衰竭 B.大便检查有无炎性细胞 C.早期休克 D.急性高热、昏迷、抽搐 E.循环衰竭,B.大便检查有无炎性细胞
+100,6,5,2,50. 中毒性菌痢采用山莨菪碱治疗的主要目的是：(2.0分),A.兴奋呼吸中枢 B.控制抽搐 C.解除血管痉挛 D.解除肠道痉挛 E.控制频繁腹泻,C.解除血管痉挛
+401,7,5,2,1. 中毒性菌痢采用山莨菪碱治疗的主要目的是： (2.0分),A.解除肠道痉挛 B.控制抽搐 C.兴奋呼吸中枢 D.解除血管痉挛 E.控制频繁腹泻,D.解除血管痉挛
+402,7,5,2,2. 在感染过程中，血液中最先出现的是： (2.0分),A.特异性IgG抗体 B.特异性IgD抗体 C.特异性IgM抗体 D.特异性IgA抗体 E.特异性IgE抗体,C.特异性IgM抗体
+403,7,5,2,3. 外周血白细胞数常明显增高的病毒性传染病是 (2.0分),A.水痘 B.艾滋病 C.肾综合征出血热 D.流行性感冒  E.风疹,C.肾综合征出血热
+404,7,5,2,4. 自然疫源性传染病主要是指(2.0分),A.凡是动物源性传染病都是自然疫源性疾病 B.所有地方性传染病都是自然疫源性传染病  C.以野生动物为主要传染源的动物源性传染病 D.以虫媒为传染媒介的传染病 E.以上均不是,C.以野生动物为主要传染源的动物源性传染病
+405,7,5,2,5. 副溶血性弧菌所致疾病是(2.0分),A.肺炎  B.食物中毒 C.霍乱 D.败血症,B.食物中毒
+406,7,5,2,6. 病原体侵入人体后先起作用的非特异性免疫因素是(2.0分),A.致敏T淋巴细胞 B.吞噬细胞 C.白细胞介素 D.干扰素 E.肿瘤坏死因子,B.吞噬细胞
+407,7,5,2,7. 主要经输血途径传播的传染病是(2.0分),A.流行性乙型脑炎 B.甲型肝炎 C.戊型肝炎 D.丙型肝炎 E.登革热,D.丙型肝炎
+408,7,5,2,8. 金黄色葡萄球菌引起化脓性感染的特点不符的是(2.0分),A.可引起败血症 B.感染局限  C.感染易扩散 D.感染途径多种 E.脓汁粘稠,C.感染易扩散
+409,7,5,2,9. 伤寒慢性携带者的致病菌检出率最高的标本是(2.0分),A.粪便 B.血液 C.尿液 D.胆汁,D.胆汁
+410,7,5,2,10. 成年伤寒患者抗菌治疗通常首选 (2.0分),A.氨苄青霉素 B.氯霉素  C.ＳＭＺco D.喹酮类,D.喹酮类
+411,7,5,2,11. 能产生志贺样毒素的大肠埃希菌是(2.0分),A.EPEC B.EIEC C.ETEC  D.EHEC,D.EHEC
+412,7,5,2,12. 葡萄球菌肠毒素的作用是(2.0分),A.通过刺激呕吐中枢而导致呕吐 B.直接毒害中枢神经，引起食物中毒 C.直接破坏肠黏膜细胞，导致腹泻 D.直接毒害肠黏膜细胞，导致腹泻 E.直接破坏肠壁血管，导致出血性肠炎,A.通过刺激呕吐中枢而导致呕吐
+413,7,5,2,13. 流脑的主要临床特征是(2.0分),A.急起高热、头痛、呕吐、昏迷、呼吸衰竭 B.急起高热、头痛、呕吐、昏迷、脑膜刺激征  C.急起高热、惊厥、呼吸衰竭 D.缓慢起病，发热不明显、头痛剧烈，无休克 E.急起高热、头痛、呕吐、皮肤粘膜瘀点瘀斑、脑膜刺激征,E.急起高热、头痛、呕吐、皮肤粘膜瘀点瘀斑、脑膜刺激征
+414,7,5,2,14. 确定传染病检疫期的重要依据是：(2.0分),A.潜伏期的长短 B.病情的轻重 C.有无后遗症 D.治疗的早晚 E.病程的长短,A.潜伏期的长短
+415,7,5,2,15. 在致病过程中，可引起两次菌血症的细菌是(2.0分),A.淋球菌 B.伤寒沙门菌 C.霍乱弧菌 D.痢疾志贺菌,B.伤寒沙门菌
+416,7,5,2,16. 霍乱弧菌的主要致病物质不包括(2.0分),A.鞭毛 B.毒素共调菌毛  C.菌毛 D.内毒素,D.内毒素
+417,7,5,2,17. 与肺炎链球菌在鼻咽部和支气管黏膜上定居、繁殖和扩散有关的物质是(2.0分),A.荚膜 B.神经氨酸酶 C.溶血素 D.自溶酶,B.神经氨酸酶
+418,7,5,2,18. 霍乱弧菌肠毒素作用于小肠黏膜上皮细胞，使胞内腺苷酸环化酶活性增加，促进胞内(2.0分),A.ATP含量升高    B.cAMP含量升高 C.cAMP含量降低 D.cGMP含量升高,B.cAMP含量升高
+419,7,5,2,19. 关于CA-MRSA叙述正确的是(2.0分),A.是耐药的表皮葡萄球菌 B.引起菌血症   C.良好的卫生习惯可预防 D.主要是内毒素致病,C.良好的卫生习惯可预防
+420,7,5,2,20. 关于脑膜炎奈瑟菌的生物学特性，错误的是 (2.0分),A.处分时需要用5%-10%二氧化碳  B.新分离菌株多具有荚膜 C.常用巧克力平板培养 D.革兰阴性球菌 E.对寒冷抵抗力强,E.对寒冷抵抗力强
+421,7,5,2,21. 典型流脑的脑脊液改变为 (2.0分),"A.不透明，静置后呈毛玻璃状，白细胞中等度升高，以淋巴细胞为主，蛋白明显升高，糖稍降低，氯化物降低 B.不透明，黄白色，白细胞明显升高，以中性粒细胞为主，蛋白升高，糖明显降低甚至测不出，氯化物正常 C.无色透明，白细胞轻度升高，淋巴细胞为主，蛋白正常或轻度升高，糖和氯化物正常 D.无色透明，白细胞8～10×106/L，蛋白2～4g/L,糖含量为血糖的50％～80％，氯化物正常 E.以上都不是",B.不透明，黄白色，白细胞明显升高，以中性粒细胞为主，蛋白升高，糖明显降低甚至测不出，氯化物正常
+422,7,5,2,"22. In a developing country, a microbiological study of oral lesions is carried out among malnourished children. Exudates are collected from the oral lesions for this purpose. What is the laboratory method used for detecting the presence of fusospirochetal in(2.0分)",A.Detection of the bacterial antigens by immunoprecipitation  B.Cultural isolation of the organisms on blood agar incubated in 10% CO2  C.Microscopic demonstration of the causative agents in Gram-stained smears  D.Demonstration of specific antibodies in the serum by ELISA  E.Polymerase chain reaction assays for detection of the bacterial DNA,C.Microscopic demonstration of the causative agents in Gram-stained smears 
+423,7,5,2,23. A gram stained smear of urethral exudate from male patients showing intracellular gram negative diplococci is diagnostic of infection with (2.0分),A.Neisseria gonorrhoeae  B.Chlamydia trachomatis  C.Mycoplasma hominis  D.Haemophilus ducreyi  E.Ureaplasma urealyticum,A.Neisseria gonorrhoeae 
+424,7,5,2,24. 典型霍乱患者，发病后最先出现的常见症状是(2.0分),A.声音嘶哑 B.畏寒、发热 C.剧烈腹泻、继之呕吐 D.腹部绞痛,C.剧烈腹泻、继之呕吐
+425,7,5,2,"25. CASE: A 38-year-old man was admitted to a healthcare facility with nausea, vomiting, diarrhea, and abdominal cramping for the past 2 hours. His BP was 100/60 mm Hg. On interviewing the patient, he revealed that he had consumed meat that had been left unco(2.0分)",A.Enterococcus fecalis  B.Clostridium perfringens  C.Escherichia coli  D.Staphylococcus aureus  E.Salmonella species,D.Staphylococcus aureus 
+426,7,5,2,26. 中型霍乱病人的临床表现，下列不正确的是： (2.0分),A.血压为12～9.3kPa B.神志呆滞 C.脱水量达体重10％以上 D.皮肤弹性差、干燥  E.少尿,C.脱水量达体重10％以上
+427,7,5,2,27. 伤寒并发症肠穿孔时关键的治疗措施：(2.0分),A.胃肠减压  B.及早手术治疗 C.禁食 D.加强抗感染,A.胃肠减压 
+428,7,5,2,28. 伤寒的极期的发热热型通常为：(2.0分),A.稽留热 B.间歇热 C.舒张热 D.不规则热,A.稽留热
+429,7,5,2,29. 伤寒并发症肠穿孔的可靠诊断依据：(2.0分),A.有腹泻，腹胀，肠出血症状 B.突然右下腹痛 C.Ｘ线示有膈下游离气体 D.再度出现发热,C.Ｘ线示有膈下游离气体
+430,7,5,2,30. 以病原治疗为主的传染病是(2.0分),A.霍乱 B.肾综合征出血热 C.乙型脑炎 D.恙虫病 E.水痘,D.恙虫病
+431,7,5,2,31. 下列哪项不是脑膜炎球菌的特点？ (2.0分),A.革兰染色阴性 B.产生自溶酶 C.能产生内毒素  D.耐低温、干燥 E.对一般抗生素敏感,D.耐低温、干燥
+432,7,5,2,32. 目前已知的生物毒素中毒性最强的是(2.0分),A.霍乱肠毒素 B.破伤风痉挛毒素 C.白喉外毒素 D.肉毒毒素,D.肉毒毒素
+433,7,5,2,33. 有关痢疾杆菌的下列描述，哪项是错误的 ：(2.0分),A.各血清群均可产生外毒素 B.所有血清群细菌死亡后都释放内毒素 C.革兰氏阴性杆菌，有菌毛，无荚膜 D.我国多数地区主要流行的是福氏型 E.欧美国家主要流行宋内型,A.各血清群均可产生外毒素
+434,7,5,2,34. 伤寒的传播途径主要是：(2.0分),A.血液 B.苍蝇媒介 C.日常生活接触 D.粪－口传播,D.粪－口传播
+435,7,5,2,35. 治疗霍乱最重要的措施是： (2.0分),A.补充液体和电解质 B.抗菌治疗 C.使用抑制肠粘膜分泌药物 D.使用肾上腺皮质激素 E.使用血管活性药物,A.补充液体和电解质
+436,7,5,2,36. 下列哪一项不是霍乱的并发症？ (2.0分),A.急性心力衰竭 B.急性肺水肿 C.肠穿孔                D.急性肾功能衰竭 E.低钾综合症及代谢性酸中毒,C.肠穿孔               
+437,7,5,2,37. 中毒性菌痢的临床特征，下列哪项错误？(2.0分),A.腹痛、腹泻轻，肠道症状可以不明显 B.大便常规检查正常 C.迅速休克或呼吸衰竭 D.急性高热，惊厥和昏迷 E.多发生在D：腹痛、腹泻轻，肠道症状可以不明显儿童,B.大便常规检查正常
+438,7,5,2,38. 鉴别肠道致病菌与非致病菌的主要依据(2.0分),A.是否具有鞭毛 B.是否分解乳糖 C.是否发酵葡萄糖 D.是否具有菌毛,B.是否分解乳糖
+439,7,5,2,39. 下列各项中，对中毒性菌痢脑型和乙脑的鉴别最有意义的是：(2.0分),A.大便检查有无炎性细胞 B.早期休克 C.呼吸衰竭 D.急性高热、昏迷、抽搐 E.循环衰竭,A.大便检查有无炎性细胞
+440,7,5,2,40. 葡萄球菌A蛋白(2.0分),A.可与人类IgG的Fab段结合  B.可抑制吞噬细胞 的吞噬作用 C.是一种毒素  D.可在细菌表面形成一层保护膜,A.可与人类IgG的Fab段结合 
+441,7,5,2,41. 血浆凝固酶可以(2.0分),A.由表皮葡萄球菌产生 B.促进细菌在体内扩散 C.水解透明质酸  D.增强细菌抗吞噬能力,D.增强细菌抗吞噬能力
+442,7,5,2,42. 下列哪种是被动免疫制剂： (2.0分),A.白喉类毒素 B.卡介苗 C.麻疹疫苗 D.伤寒菌苗 E.破伤风抗毒素,E.破伤风抗毒素
+443,7,5,2,43. 不属于传染病的是： (2.0分),A.莱姆病  B.斑疹伤寒 C.耳源性脑膜炎 D.黑热病 E.白日咳,C.耳源性脑膜炎
+444,7,5,2,44. 属于传染病的是： (2.0分),A.化脓性胆囊炎 B.急性支气管炎 C.炭疽 D.化脓性腮腺炎 E.大叶性肺炎,C.炭疽
+445,7,5,2,45. 感染过程中不通过血流播散的细菌是(2.0分),A.普氏立克次体 B.结核分枝杆菌  C.伤寒沙门菌 D.志贺菌,D.志贺菌
+446,7,5,2,46. 急性中毒性菌痢的主要临床症状表现有(2.0分),A.全身中毒症状 B.剧烈呕吐 C.腹痛、腹泻 D.脓血黏液便,A.全身中毒症状
+447,7,5,2,1. 关于医患沟通，以下叙述正确的是： (2.0分),A.医患沟通是"医"和"患"之间的沟通  B.医患沟通是一种非技术沟通 C.医患沟通的质量决定医患关系的好坏 D.医患沟通是一种特殊的人际沟通,A.医患沟通是"医"和"患"之间的沟通  C.医患沟通的质量决定医患关系的好坏 D.医患沟通是一种特殊的人际沟通
+448,7,5,2,2. 患者的心理特点包括： (2.0分),A.失助感    B.行为退化，依赖性增强 C.情绪不稳定，易激惹 D.移情,A.失助感    B.行为退化，依赖性增强 C.情绪不稳定，易激惹
+449,7,5,2,3. 通过沟通提高患者依从性的方法包括： (2.0分),A.建立融洽的医患关系    B.让患者复述 C.利用书面信息 D.与患者订立协议,A.建立融洽的医患关系    B.让患者复述 C.利用书面信息 D.与患者订立协议
+450,7,5,2,4. 关于人际沟通，以下叙述正确的是： (2.0分),A.人际沟通具有象征性 B.人际沟通的目的就是达成共识    C.人际沟通具有心理功能  D.人际沟通是一个有意义的过程,A.人际沟通具有象征性 C.人际沟通具有心理功能  D.人际沟通是一个有意义的过程
+741,8,5,2,1. 在传染病感染过程中最常见的是： (4.0分),A.隐性感染者 B.潜伏期携带者 C.慢性携带者 D.潜伏性感染者 E. 显性感染者,A.隐性感染者
+742,8,5,2,2. 外周血嗜酸性粒细胞减少的传染病是 (4.0分),A.甲型肝炎 B.乙型脑炎 C.肾综合征出血热 D.伤寒  E.急性细菌性痢疾,D.伤寒 
+743,8,5,2,3. 确定传染病检疫期的重要依据是： (4.0分),A.病情的轻重  B.潜伏期的长短 C. 有无后遗症 D.治疗的早晚  E.病程的长短,B.潜伏期的长短
+744,8,5,2,4. 属于病原体侵袭力的是(4.0分),A.霍乱肠毒素 B.白喉毒素 C.伤寒沙门菌脂多糖 D.使霍乱弧菌黏附于肠黏膜表面的成分 E.以上都不是,D.使霍乱弧菌黏附于肠黏膜表面的成分
+745,8,5,2,5. 患病后可获得持久免疫力的传染病是(4.0分),A.丙型肝炎 B.艾滋病 C.伤寒 D.阿米巴痢疾 E. 细菌性痢疾,C.伤寒
+746,8,5,2,6. 人体皮肤表面的绝大多数微生物是:(4.0分),A.G+细菌 B.G-细菌 C.肠道菌 D.孢子形成菌,A.G+细菌
+747,8,5,2,7. 肠杆菌科细菌的O抗原是 (4.0分),A.细菌脂多糖分子的脂质A       B.细菌脂多糖分子的核心多糖 C.细菌脂多糖分子的特异性多糖 D.鞭毛蛋白,C.细菌脂多糖分子的特异性多糖
+748,8,5,2,8. 烧伤病人常出现下列哪种病原体引起的疫原性感染 (4.0分),A.表皮链球菌 B.金黄色葡萄球菌 C.铜绿假单胞菌 D.大肠杆菌,C.铜绿假单胞菌
+749,8,5,2,9. 中毒性休克综合症由下列哪种微生物产生的超抗原引起(4.0分),A.肠道沙门菌 B.大肠杆菌 C.淋巴奈瑟菌 D.金黄色葡萄球菌,D.金黄色葡萄球菌
+750,8,5,2,10. 下列哪种微生物能产生一种与致贺毒素类似的强烈毒素 (4.0分),A.伤寒沙门菌 B.大肠杆菌O157:H7  C.空肠弯曲菌  D.肉毒梭菌,B.大肠杆菌O157:H7 
+751,8,5,2,11. 若分离培养肠热症病原体，在病程第2周采集的最合适标本是 (4.0分),A.血液  B.粪便或尿液 C.血清 D.骨髓,B.粪便或尿液
+752,8,5,2,12. 典型霍乱患者，发病后最先出现的常见症状是(4.0分),A.畏寒、发热 B.声音嘶哑 C.剧烈腹泻、继之呕吐   D.腹部绞痛,C.剧烈腹泻、继之呕吐  
+753,8,5,2,13. 与乙型溶血性链球菌致病性无关的物质是(4.0分),A.肠毒素  B.M蛋白  C.溶血素O   D.透明质酸酶,A.肠毒素 
+754,8,5,2,14. 化脓性链球菌的肾源性菌株通过以下哪个过程损害肾脏 (4.0分),A.盐蓄积增加 B.毒素    C.肾小球组织内肾小囊生长    D.抗体沉积造成肾小球阻塞,D.抗体沉积造成肾小球阻塞
+755,8,5,2,15. 关于脑膜炎奈瑟菌感染错误的是 (4.0分),A.主要经飞沫传播   B.引起菌血症   C.6个月内婴儿易感   D.主要是内毒素致病,C.6个月内婴儿易感  
+756,8,5,2,"16. CASE:   A 13-year-old girl was admitted to a healthcare facility with a 5-hour history of diarrhea and vomiting. On patient interview, the physician suspected it to be an infection by contaminated food. The physician recommended diagnostic tests to be done for the patient. Microscopic examination of the stool on Gram staining revealed Gram negative bacilli. The microbiologist discovered short, slender rods during microscopic examination and suspected the organism to be Escherichia coli.Which among the following media helps in differentiating E. coli from other genera of enteric bacteria? (4.0分)",A.Sheep blood agar (SBA)  B.Eosin methylene blue (EMB) agar  C.Hektoen enteric agar (HEA)  D.MacConkey agar (MCA)  E.Phenylethyl alcohol agar (PEA),B.Eosin methylene blue (EMB) agar 
+757,8,5,2,"17. In a developing country, a microbiological study of oral lesions is carried out among malnourished children. Exudates are collected from the oral lesions for this purpose. What is the laboratory method used for detecting the presence of fusospirochetal infection? (4.0分)",A.Microscopic demonstration of the causative agents in Gram-stained smears  B.Cultural isolation of the organisms on blood agar incubated in 10% CO2  C.Detection of the bacterial antigens by immunoprecipitation  D.Demonstration of specific antibodies in the serum by ELISA  E.Polymerase chain reaction assays for detection of the bacterial DNA,A.Microscopic demonstration of the causative agents in Gram-stained smears 
+758,8,5,2,"18. CASE:  A 6-year-old boy was brought to the pediatric clinic. He had a cough of 10 days duration. His illness started with cold-like symptoms followed by worsening cough and in the last 3 days he was getting frequent paroxysms of cough occasionally followed by vomiting. He had not received any antibiotic for the infection. Immunization history showed that the boy had not received the 2 booster doses of DTaP scheduled at 18 months and at 4-6 years. Based on the nature of cough and the history of immunization, the clinician considered whooping cough as a possibility. Clinical samples were collected for laboratory investigations before the child was placed on antibiotic. Which of the following will be the most suitable clinical specimen for cultural isolation of the causative agent of whooping cough?    (4.0分)",A.Blood  B.Throat swab  C.Anterior nasal swab  D.Nasopharyngeal secretion  E. Cough droplets,D.Nasopharyngeal secretion 
+759,8,5,2,"19. CASE:   A sample of cerebrospinal fluid (CSF) from a 12-month-old baby girl, clinically diagnosed as having pyogenic meningitis, was received in a microbiology laboratory.Gram-stain of the CSF showed numerous polymorphs and small gram-negative pleomorphic bacilli with coccoid and filamentous forms. CSF was cultured on sheep blood agar and chocolate agar with a strain of staphylococcus streaked across the medium. The plates were incubated at 37°C, in presence of 5% carbon dioxide After 24 hours of incubation, small opaque colonies appeared on the media. The colonies were larger and more developed near the staphylococcal growth than those away from it. The bacterium was oxidase, catalase positive, and produced beta-lactamase. It was non-motile and failed to grow on MacConkey's medium. The isolate was identified and the serotype was determined using specific antisera. It was one of the important agents of bacterial meningitis in children. A vaccine is now widely used in developed countries for the prevention of this bacterial infection and has helped to reduce the disease incidence considerably. This childhood immunizing agent contains which of the following?                                           (4.0分)",A.Killed whole bacterial cells  B.Live attenuated bacteria  C.Capsular polysaccharide  D.Outer membrane protein antigens  E.Bacterial lipoolygosaccharide,C.Capsular polysaccharide 
+760,8,5,2,"20. CASE:   A 33-year-old pregnant woman nearing term presented with 4-day history of migratory joint pains, swelling and pain in her right wrist joint, and chills and fever. Her previous medical history was not significant and she did not have allergy to drugs. Her right wrist showed an increase in temperature with tenderness and effusion. Clinical diagnosis was acute septic arthritis and arthrocentesis was done. The fluid was purulent and patient was placed on empirical antibiotic therapy.Direct smear from the fluid showed predominance of neutrophils. A few intracellular gram-negative diplococci were also present. Culture on chocolate agar incubated in presence of 10% carbon dioxide at 37°C for 48 hours grew small, round, translucent colonies of gram-negative diplococci. The isolate was oxidase positive, fermented glucose and failed to grow on ordinary media and at room temperature (28-30 degrees). Cervical swab from the patient cultured on Thayer Martin medium also grew bacterium with the same characteristics.What antibiotic is most likely be used as the empirical therapy for this patient?  (4.0分)",A.Penicillin G  B.Linezolid  C.Ofloxacin  D.Tetracycline  E.Ceftriaxone ,E.Ceftriaxone 
+761,8,5,2,1. 关于医患沟通，以下叙述正确的是： (4.0分),A.医患沟通是"医"和"患"之间的沟通  B.医患沟通的质量决定医患关系的好坏 C.医患沟通是一种非技术沟通 D.医患沟通是一种特殊的人际沟通,A.医患沟通是"医"和"患"之间的沟通  B.医患沟通的质量决定医患关系的好坏 D.医患沟通是一种特殊的人际沟通
+762,8,5,2,2.  "我推荐的药你不吃，后果自负。"这是什么形式的沟通： (4.0分),A.言语沟通  B.无效沟通   C.防卫性沟通   D.过于理性的沟通,A.言语沟通  C.防卫性沟通  
+763,8,5,2,3. 以下哪些是医生在医患沟通中经常存在的问题： (4.0分),A.不予沟通 B.不及时沟通   C.打断患者说话    D.使用医学术语解释问题,A.不予沟通 B.不及时沟通   C.打断患者说话   
+764,8,5,2,4. 以下哪些是患者在医患沟通中经常存在的问题： (4.0分),A.自己做医生 B.知识水平的局限导致理解困难   C.计较治疗费用    D.对年轻医生不信任,A.自己做医生 B.知识水平的局限导致理解困难   D.对年轻医生不信任
+765,8,5,2,5. 通过沟通提高患者依从性的方法包括： (4.0分),A.利用书面信息 B.让患者复述 C.建立融洽的医患关系    D.与患者订立协议,A.利用书面信息 B.让患者复述 C.建立融洽的医患关系    D.与患者订立协议
+1041,9,5,2,1. 感染的含义是(2.0分),A.人体被病原体侵入 B.病原体侵入人体的过程 C.病原体对人体的寄生过程 D.病原体通过传播媒介进入人体 E.人体抵抗力下降而被病原体入侵,不知道
+1042,9,5,2,2. 通过接触疫水传播的传染病是(2.0分),A.囊虫病 B.恙虫病 C.华支睾吸虫病 D.流行性腮腺炎 E.钩体病,不知道
+1043,9,5,2,3. 通过粪－口途径传播的传染病是(2.0分),A.麻疹 B.白喉 C.百日咳 D.阿米巴病 E.乙型病毒性肝炎,不知道
+1044,9,5,2,4. 有关传染病的流行病学特征，说法正确的是(2.0分),A.散发性发病是指某传染病在某地近年来的发病率低于一般水平 B.流行是指某传染病的发病率水平高于一般水平 C.大流行是指某传染病在某地近年来的发病率显著高于一般发病率 D.暴发流行是指某传染病的流行范围较广，超出国界或洲界 E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点,不知道
+1045,9,5,2,5. 患病后可获得持久免疫力的传染病是(2.0分),A.丙型肝炎 B.艾滋病 C.伤寒 D.阿米巴痢疾 E.细菌性痢疾,不知道
+1046,9,5,2,6. 外周血嗜酸性粒细胞减少的传染病是(2.0分),A.甲型肝炎  B.乙型脑炎 C.肾综合征出血热 D.伤寒  E.急性细菌性痢疾,不知道
+1047,9,5,2,7. 以病原治疗为主的传染病是(2.0分),A.乙型脑炎 B.肾综合征出血热 C.霍乱 D.恙虫病 E.水痘,不知道
+1048,9,5,2,8. 以对症治疗为主的传染病是(2.0分),A.钩体病 B.艾滋病 C.伤寒 D.恙虫病 E. 霍乱,不知道
+1049,9,5,2,9. 风湿热是由以下哪种微生物引起的(2.0分),A.表皮葡萄球菌 B.金黄色葡萄球菌 C.大肠杆菌 D.化脓性链球菌,不知道
+1050,9,5,2,10. 与脑膜炎奈瑟菌致病无关的物质是(2.0分),A.芽孢 B.荚膜 C.菌毛 D.内毒素,不知道
+1051,9,5,2,11. 同时具有鞭毛和菌毛的细菌是(2.0分),A.脑膜炎奈瑟菌 B.志贺菌 C.破伤风梭菌 D.霍乱弧菌,不知道
+1052,9,5,2,12. 能采用高盐培养基培养的细菌是(2.0分),A.大肠埃希菌   B.沙门菌 C.霍乱弧菌 D.副溶血性弧菌,不知道
+1053,9,5,2,13. H抗原刺激机体产生的抗体类型是(2.0分),A.IgG  B.IgM  C.IgA D.IgE,不知道
+1054,9,5,2,14. 伤寒沙门菌的带菌者可以没有症状，但在机体的哪个部位储存和释放传染性细菌: (2.0分),A.口腔 B.胆囊 C.皮肤 D.肺,不知道
+1055,9,5,2,15. 下列哪种微生物引起猩红热? (2.0分),A.金黄色葡萄球菌  B.铜绿假单胞菌 C.化脓性链球菌 D.大肠杆菌,不知道
+1056,9,5,2,16. 烧伤病人常出现下列哪种病原体引起的疫原性感染?(2.0分),A.表皮链球菌 B.金黄色葡萄球菌 C.铜绿假单胞菌 D.大肠杆菌,不知道
+1057,9,5,2,17. 以下哪种微生物与食物中毒无关?(2.0分),A.金黄色葡萄球菌 B.副溶血性弧菌 C.沙门菌 D.表皮葡萄球菌,不知道
+1058,9,5,2,18. 霍乱弧菌O139的主要致病物质有: (2.0分),A.肠毒素 B.荚膜 C.鞭毛 D.内毒素 E.菌毛,不知道
+1059,9,5,2,19. 杀灭芽胞最常用和最有效的方法是(2.0分),A.煮沸5min B.巴氏消毒法      C.流通蒸气灭菌法 D.高压蒸气灭菌法,不知道
+1060,9,5,2,20. 属于选择培养基的是(2.0分),A.血琼脂平板 B.伊红-美兰培养基 C.疱肉培养基 D.克氏双糖铁培养基  ,不知道
+1061,9,5,2,21. 革兰染色所用试剂的顺序是(2.0分),A.稀释复红-碘液-乙醇-结晶紫 B.结晶紫-乙醇-碘液-稀释复红 C.结晶紫-碘液-乙醇-稀释复红 D.稀释复红-乙醇-结晶紫-碘液,不知道
+1062,9,5,2,22. 化脓性链球菌的肾源性菌株通过以下哪个过程损害肾脏? (2.0分),A.盐蓄积增加 B.毒素    C.肾小球组织内肾小囊生长 D.抗体沉积造成肾小球阻塞,不知道
+1063,9,5,2,23. 异丙酚药代动力学的特点是： (2.0分),A.脂溶性低  B.易溶于水 C.体内代谢率低 D.消除半衰期短 E.主要以原形从肾排出,不知道
+1064,9,5,2,24. 脊麻平面指的是 ： (2.0分),A.交感神经阻滞 B.感觉神经阻滞平面 C.运动神经阻滞平面  D.体神经阻滞平面 E.感觉-运动复合平面,不知道
+1065,9,5,2,25. 甲亢病人术前准备可以手术的基础代谢率至少降至： (2.0分),A.+10%以下 B.+20%以下 C.+25%以下 D.+30%以下 E.+35%以下,不知道
+1066,9,5,2,26. 慢性肺部疾病患者行IPPV通气时，突然出现发绀、SpO2下降、双侧胸廓运动不佳、听诊一侧呼吸音消失，最可能的原因是： (2.0分),A.气栓  B.气胸 C.喉痉挛 D.肺栓塞 E.导管脱出,不知道
+1067,9,5,2,27. 在下列哪种情况可导致呼气末二氧化碳分压与动脉血二氧化碳分压不一致： (2.0分),A.高C02血症 B.低氧血症 C.患者出现通气不足 D.急性肺栓塞 E.感染,不知道
+1068,9,5,2,"28. In the adult, which of the following is the narrowest part of the airway? (2.0分)",A.Vocal cords  B.Cricoid cartilage C.Thyroid cartilage D.Arytenoids cartilage E.First tracheal ring,不知道
+1069,9,5,2,29. A 24-year-old woman requires surgery on her left hand because of a fracture. Her past anesthetic history is notable for severe nausea and vomiting following sinus surgery 1 year ago. She would like to avoid general anesthesia if possible. Which of the following regional anesthetic technique would you recommend for this patient?(2.0分),A.Spinal block  B.Epidural block C.Interscalene block D.Supraclavicular block E.Axillary block,不知道
+1070,9,5,2,30. 经尿道前列腺切除术，经膀胱冲洗病人出现心动过缓，低血压，癫痫样发作的可能原因为： (2.0分),A.麻醉药过量  B.低钠血症 C.迷走神经张力过高  D.有效循环血量减少 E.以上都不是,不知道
+1071,9,5,2,31. 关于人际沟通，以下叙述错误的是： (2.0分),A.人际沟通具有象征性 B.人际沟通具有心理功能  C.人际沟通是一个有意义的过程  D.人际沟通的目的就是达成共识,不知道
+1072,9,5,2,32. 以下哪个不属于患者的心理特点(2.0分),A.情绪不稳定，易激惹  B.行为退化，依赖性增强 C.失助感  D.移情,不知道
+1073,9,5,2,33. 关于医患沟通，以下叙述错误的是： (2.0分),A.医患沟通是"医"和"患"之间的沟通  B.医患沟通的质量决定医患关系的好坏 C.医患沟通是一种技术沟通 D.医患沟通是一种特殊的人际沟通,不知道
+1074,9,5,2,34. 下列哪一项不是肠伤寒的临床表现(2.0分),A.相对缓脉 B.皮肤玫瑰疹 C.脾肿大 D.白细胞计数增 E.高热,不知道
+1075,9,5,2,35. 伤寒病理变化的主要特征是(2.0分),A.肠道发生溃疡 B.脾肿大  C.胆囊炎  D.全身单核巨噬细胞系统增生 E.腹直肌发生蜡样变性,不知道
+1076,9,5,2,36. 暴发型流脑的发病机理主要是由于(2.0分),A.内毒素所致DIC            B.脑膜炎球菌直接引起广泛的血管内皮损害 C.内毒素所致的急性微循环障碍 D.急性肾上腺皮质功能衰竭  E.内毒素所致脑水肿、颅内高压,不知道
+1077,9,5,2,37. 某伤寒患者经氯霉素治疗后体温正常，一周后体温再次升高，血培养阳性；这种情况属于 (2.0分),A. 复发 B.再燃 C.重复感染 D.混合感染 E.再感染,不知道
+1078,9,5,2,38. 流脑的主要临床特征是 (2.0分),A.急起高热、头痛、呕吐、昏迷、脑膜刺激征  B.急起高热、头痛、呕吐、昏迷、呼吸衰竭 C.急起高热、惊厥、呼吸衰竭 D.缓慢起病，发热不明显、头痛剧烈，无休克 E.急起高热、头痛、呕吐、皮肤粘膜瘀点瘀斑、脑膜刺激征,不知道
+1079,9,5,2,39. 典型流脑的脑脊液改变为 (2.0分),"A.不透明，静置后呈毛玻璃状，白细胞中等度升高，以淋巴细胞为主，蛋白明显升高，糖稍降低，氯化物降低 B.不透明，黄白色，白细胞明显升高，以中性粒细胞为主，蛋白升高，糖明显降低甚至测不出，氯化物正常 C.无色透明，白细胞8～10×106/L，蛋白2～4g/L,糖含量为血糖的50％～80％，氯化物正常 D.无色透明，白细胞轻度升高，淋巴细胞为主，蛋白正常或轻度升高，糖和氯化物正常 E.以上都不是",不知道
+1080,9,5,2,40. 关于流脑，下列哪项是错误的(2.0分),A.隐性感染最常见 B.60％～70％为无症状带菌者 C.30％为上呼吸道感染型和出血型 D.1％为典型流脑病人 E.潜伏期一般为10～14天,不知道
+1081,9,5,2,41. 霍乱病人中出现"米泔水样"大便主要是由于: (2.0分),A.大便含有大量脓细胞 B.大便含有大量红细胞 C.缺乏胃酸，消化不良 D.大便含大量粘膜组织 E.肠液中粘液过多，胆汁过少,不知道
+1082,9,5,2,42. 下列哪一项不是霍乱的并发症？ (2.0分),A.急性肾功能衰竭  B.急性肺水肿 C.肠穿孔  D.急性心力衰竭 E.低钾综合症及代谢性酸中毒,不知道
+1083,9,5,2,43. 如果以长度单位计算丢失量，霍乱引起的液体丢失最多的部位是(2.0分),A.直肠 B.结肠 C.回肠  D.空肠 E.十二指肠,不知道
+1084,9,5,2,44. 菌痢散在发病的主要传播途径是：(2.0分),A.集体食堂食物被污染后造成经口感染 B.井水、池塘或供水系统被污染后造成经口感染 C.健康人的手或蔬菜，瓜果等食物被污染后经口感染 D.与病人密切接触后经呼吸道传染 E.接触病人的血液经伤口感染,不知道
+1085,9,5,2,45. 中型霍乱病人的临床表现，下列不正确的是： (2.0分),A.皮肤弹性差、干燥 B.神志呆滞 C.脱水量达体重10％以上   D.血压为12～9.3kPa E.少尿,不知道
+1086,9,5,2,46. 中毒性菌痢采用山莨菪碱治疗的主要目的是：(2.0分),A.控制抽搐 B.兴奋呼吸中枢 C.解除血管痉挛 D.解除肠道痉挛 E.控制频繁腹泻,不知道
+1087,9,5,2,47. 下列各项中，对中毒性菌痢脑型和乙脑的鉴别最有意义的是：(2.0分),A.呼吸衰竭 B.大便检查有无炎性细胞 C.急性高热、昏迷、抽搐 D.早期休克 E.循环衰竭,不知道
+1088,9,5,2,48. 对血清培养基的灭菌应选用(2.0分),A.煮沸法 B.巴氏消毒法 C.间歇灭菌法 D.流通蒸汽灭菌法 E.高压蒸汽灭菌法,不知道
+1089,9,5,2,49. 伤寒并发症肠穿孔的可靠诊断依据：(2.0分),A.突然右下腹痛 B.有腹泻，腹胀，肠出血症状 C.Ｘ线示有膈下游离气体 D.再度出现发热,不知道
+1090,9,5,2,50. 伤寒并发症肠穿孔时关键的治疗措施：(2.0分),A.禁食 B.及早手术治疗 C.胃肠减压 D.加强抗感染,不知道
+1414,10,5,2,1. 感染的含义是： (3.0分),A.人体被病原体侵入         B.病原体侵入人体的过程 C.病原体对人体的寄生过程   D.病原体通过传播媒介进入人体 E.人体抵抗力下降而被病原体入侵,不知道
+1415,10,5,2,2. 病原体侵入人体后先起作用的非特异性免疫因素是(3.0分),A.白细胞介素 B.吞噬细胞 C.致敏T淋巴细胞 D.干扰素 E.肿瘤坏死因子,不知道
+1416,10,5,2,3. 通过接触疫水传播的传染病是(3.0分),A.囊虫病 B.恙虫病 C.华支睾吸虫病 D.流行性腮腺炎 E.钩体病,不知道
+1417,10,5,2,4. 不属于传染病的是： (3.0分),A.莱姆病 B.斑疹伤寒 C.黑热病 D.耳源性脑膜炎  E.白日咳,不知道
+1418,10,5,2,5. 通过粪－口途径传播的传染病是(3.0分),A.麻疹 B.白喉 C.百日咳 D.阿米巴病 E.乙型病毒性肝炎,不知道
+1419,10,5,2,6. 属于病原体侵袭力的是(3.0分),A.霍乱肠毒素 B.白喉毒素 C.伤寒沙门菌脂多糖 D.使霍乱弧菌黏附于肠黏膜表面的成分 E.以上都不是,不知道
+1420,10,5,2,7. 有关传染病的流行病学特征，说法正确的是(3.0分),A.散发性发病是指某传染病在某地近年来的发病率低于一般水平 B.流行是指某传染病的发病率水平高于一般水平 C.大流行是指某传染病在某地近年来的发病率显著高于一般发病率 D.暴发流行是指某传染病的流行范围较广，超出国界或洲界 E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点,不知道
+1421,10,5,2,8. 患病后可获得持久免疫力的传染病是(3.0分),A.丙型肝炎 B.艾滋病 C.伤寒 D.阿米巴痢疾 E.细菌性痢疾,不知道
+1422,10,5,2,9. 确定传染病检疫期的重要依据是： (3.0分),A.病情的轻重 B.潜伏期的长短 C.有无后遗症 D.治疗的早晚 E.病程的长短,不知道
+1423,10,5,2,10. 外周血嗜酸性粒细胞减少的传染病是(3.0分),A.甲型肝炎 B.乙型脑炎 C.肾综合征出血热 D.伤寒 E.急性细菌性痢疾,不知道
+1424,10,5,2,11. 外周血白细胞数常明显增高的病毒性传染病是 (3.0分),A.流行性感冒 B.艾滋病 C.肾综合征出血热 D.水痘 E.风疹,不知道
+1425,10,5,2,12. 在我国新修订的传染病防治法中，属于乙类传染病的是 (4.0分),A.炭疽  B.斑疹伤寒 C.流行性感冒 D.急性出血性结膜炎 E.鼠疫,不知道
+1426,10,5,2,13. 以对症治疗为主的传染病是： (3.0分),A.钩体病  B.艾滋病 C.伤寒                      D.恙虫病 E.霍乱,不知道
+1427,10,5,2,14. 为预防局麻药中毒反应，以下哪项错误： (3.0分),A.一次用药不超过最大剂量 B.使用最低有效浓度 C.避免注入血管内 D.凡局麻药内都必须加入肾上腺素 E.术前给予巴比胺类或地西泮,不知道
+1428,10,5,2,15. 昏迷病人发生呼吸道梗阻最常见的原因： (3.0分),A.喉痉挛  B.支气管痉挛  C.舌后坠和呼吸道内分泌及异物  D.喉头水肿  E.声带松弛 ,不知道
+1429,10,5,2,16. 对循环影响最小的静脉麻醉药为： (3.0分),A.羟丁酸纳 B.异丙酚 C.氯胺酮 D.咪唑安定 E.依托咪酯,不知道
+1430,10,5,2,17. 长期大量使用血管收缩药治疗可加重休克的原因是： (3.0分),A.机体对升压药物耐受性增强 B.血管平滑肌对升压药物失去反应 C.机体交感神经系统已处于衰竭 D.使微循环障碍加重 E.机体丧失对应激反应的能力,不知道
+1431,10,5,2,18. 经尿道前列腺切除术，经膀胱冲洗病人出现心动过缓，低血压，癫痫样发作的可能原因为： (3.0分),A.麻醉药过量  B.低钠血症  C.迷走神经张力过高  D.有效循环血量减少  E.以上都不是,不知道
+1432,10,5,2,19. 对合并有呼吸系统疾病的病人，在麻醉实施过程中不正确的是(3.0分),A.麻醉深度适宜，尽可能减少全麻用药量，椎管内阻滞范围不宜过广 B.维持呼吸道通畅和足够的通气量 C.维持循环稳定 D.纠正水、电解质和酸碱失衡 E.以上都是,不知道
+1433,10,5,2,20. 关于副溶血弧菌的致病性，下列哪项错误： (3.0分),A.主要症状包括腹痛，腹泻，呕吐，发热等 B.主要致病物质是耐热溶血毒素 C.主要由不耐热肠毒素致病 D.常因为食入未煮熟的海产品而感染 E.可引起食物中毒,不知道
+1434,10,5,2,21. What is coagulase testing generally used for?  (3.0分),A.To distinguish Streptococcus pyogenes from other Streptococcus species B.To distinguish Neisseria meningitidis from other Neisseria species C.To identify EHEC D.To distinguish Staphylococcus aureus from other Staphylococcus species,不知道
+1435,10,5,2,22. Which of the following skin diseases is NOT caused by Streptococcus pyogenes? (3.0分),A.Necrotizing fasciitis B.Toxic shock syndrome C.Gas gangrene D.Erysipelas,不知道
+1436,10,5,2,23. Which of the following statements does NOT apply to pili? (3.0分),A.Pili are made of protein. B.Pili allow for attachment to surfaces. C.Pili facilitate nutrient transport. D.Pili contain adhesins.,不知道
+1437,10,5,2,24. What can gastroenteritis result in?  (3.0分),A.Intestinal inflammation B.Infection C.Intoxication D.All answers (A-C) are correct,不知道
+1438,10,5,2,25. One of the most excessive diarrheas of the GI tract is associated with which of the following poisonings or diseases? (3.0分),A.Staphylococcal food poisoning B.Typhoid fever C.Cholera D.Campylobacteriosis,不知道
+1439,10,5,2,26. What organism can cause gastric ulcers? (3.0分),A.Helicobacter pylori B.Yersinia enterocolitica C.Escherichia coli D.Salmonella Typhi,不知道
+1440,10,5,2,27. What is in MacConkey's agar that is selective for enteric bacteria? (3.0分),A.Lactose B.Glucose C.Bile salts D.Neutral red pH indicator,不知道
+1441,10,5,2,"28. A 53-year-old woman presents for a right radical mastectomy. Her past medical history is notable for hypertension, which is poorly controlled on metoprolol. Her blood pressure is 160/95 mmHg. She does not have end-organ damage. Which of the following is this patient's American Society of Anesthesiologists Physical Status?  (3.0分)",A.Ⅰ B.Ⅱ C.Ⅲ D.Ⅳ E.Ⅴ,不知道
+1442,10,5,2,"29. In a developing country, a microbiological study of oral lesions is carried out among malnourished children. Exudates are collected from the oral lesions for this purpose. What is the laboratory method used for detecting the presence of fusospirochetal infection?  (3.0分)",A.Microscopic demonstration of the causative agents in Gram-stained smears  B.Cultural isolation of the organisms on blood agar incubated in 10% CO2  C.Detection of the bacterial antigens by immunoprecipitation  D.Demonstration of specific antibodies in the serum by ELISA  E.Polymerase chain reaction assays for detection of the bacterial DNA,不知道
+1443,10,5,2,"30. Upon examination of a blood culture bottle that has been logged as positive by the automated blood culture instrument, there appears to be no growth on visual inspection, no growth on subculture at the appropriate temperature, but on gram-stain one can see gram positive cocci. The next step in trying to determine the identity of this potentially pathogenic organism is to (3.0分)",A.Centrifuge the broth and do a direct antigen test for Group A streptococcus on the sediment B.Inoculate the broth from the blood culture bottle onto mannitol salt agar and incubate in carbon dioxide C.Plate the broth on chocolate agar and place an Optochin disk over the streak D.Do a slide coagulase test on the centrifuged sediment from the blood culture bottle E.Plate the broth on blood agar and place a staphylococcus streak down the middle of the inoculum,不知道
+1444,10,5,2,"31. CASE: A 38-year-old man was admitted to a healthcare facility with nausea, vomiting, diarrhea, and abdominal cramping for the past 2 hours. His BP was 100/60 mm Hg. On interviewing the patient, he revealed that he had consumed meat that had been left uncovered for a night. The physician suspected it as a case of food poisoning. During laboratory examination it was found that the meat was contaminated with circular, clustered organisms, which on Gram staining were found to be Gram positive. Fairly large, yellow colored colonies were formed when the organism was grown on mannitol agar media in a temperature range of 15 to 45°C. The organism showed positive results for coagulase enzyme activity and showed resistance to penicillin and methicillin antibiotics.What organism was the causative agent of the food poisoning?  (3.0分)",A.Clostridium perfringens  B.Enterococcus fecalis  C.Escherichia coli  D.Staphylococcus aureus  E.Salmonella species,不知道
+1445,10,5,2,"32. CASE: A sample of cerebrospinal fluid (CSF) from a 12-month-old baby girl, clinically diagnosed as having pyogenic meningitis, was received in a microbiology laboratory.Gram-stain of the CSF showed numerous polymorphs and small gram-negative pleomorphic bacilli with coccoid and filamentous forms. CSF was cultured on sheep blood agar and chocolate agar with a strain of staphylococcus streaked across the medium. The plates were incubated at 37°C, in presence of 5% carbon dioxide After 24 hours of incubation, small opaque colonies appeared on the media. The colonies were larger and more developed near the staphylococcal growth than those away from it. The bacterium was oxidase, catalase positive, and produced beta-lactamase. It was non-motile and failed to grow on MacConkey's medium. The isolate was identified and the serotype was determined using specific antisera. It was one of the important agents of bacterial meningitis in children.A vaccine is now widely used in developed countries for the prevention of this bacterial infection and has helped to reduce the disease incidence considerably. This childhood immunizing agent contains which of the following? (3.0分)",A.Killed whole bacterial cells  B.Live attenuated bacteria  C.Capsular polysaccharide  D.Outer membrane protein antigens  E.Bacterial lipoolygosaccharide,不知道
+1446,10,5,2,"33. CASE: A 33-year-old pregnant woman nearing term presented with 4-day history of migratory joint pains, swelling and pain in her right wrist joint, and chills and fever. Her previous medical history was not significant and she did not have allergy to drugs. Her right wrist showed an increase in temperature with tenderness and effusion. Clinical diagnosis was acute septic arthritis and arthrocentesis was done. The fluid was purulent and patient was placed on empirical antibiotic therapy.Direct smear from the fluid showed predominance of neutrophils. A few intracellular gram-negative diplococci were also present. Culture on chocolate agar incubated in presence of 10% carbon dioxide at 37°C for 48 hours grew small, round, translucent colonies of gram-negative diplococci. The isolate was oxidase positive, fermented glucose and failed to grow on ordinary media and at room temperature (28-30 degrees). Cervical swab from the patient cultured on Thayer Martin medium also grew bacterium with the same characteristics.What antibiotic is most likely be used as the empirical therapy for this patient?  (3.0分)",A.Penicillin G  B.Linezolid  C.Ofloxacin  D.Tetracycline  E.Ceftriaxone  F.Spectinomycin,不知道
+1687,11,5,2,1. 感染的含义是： (2.5分),A.人体被病原体侵入         B.病原体侵入人体的过程 C.病原体对人体的寄生过程   D.病原体通过传播媒介进入人体 E.人体抵抗力下降而被病原体入侵,C.病原体对人体的寄生过程  
+1688,11,5,2,2. 属于传染病的是(2.5分),A.急性支气管炎 B.化脓性胆囊炎 C.炭疽 D.化脓性腮腺炎     E． E.大叶性肺炎,C.炭疽
+1689,11,5,2,3. 在传染病感染过程中最常见的是(2.5分),A.隐性感染者 B.潜伏期携带者 C.慢性携带者 D.潜伏性感染者 E.显性感染者,A.隐性感染者
+1690,11,5,2,4. 关于潜伏期的概念，下列哪项是错误的？ (2.5分),A.潜伏期长短一般与病原体感染量呈成反比 B.有些传染病在潜伏期内具有传染性 C.潜伏期是确定传染病的检疫期的重要依据 D.传染病的隔离期是依据该病的潜伏期来确定 E.多数传染病的潜伏期比较恒定,D.传染病的隔离期是依据该病的潜伏期来确定
+1691,11,5,2,5. 通过接触疫水传播的传染病是 (2.5分),A.囊虫病  B.恙虫病 C.华支睾吸虫病 D.流行性腮腺炎 E.钩体病,E.钩体病
+1692,11,5,2,6. 自然疫源性传染病主要是指(2.5分),A.以虫媒为传染媒介的传染病 B.所有地方性传染病都是自然疫源性传染病  C.以野生动物为主要传染源的动物源性传染病 D.凡是动物源性传染病都是自然疫源性疾病 E.以上均不是,C.以野生动物为主要传染源的动物源性传染病
+1693,11,5,2,7. 主要经输血途径传播的传染病是 (2.5分),A.甲型肝炎 B.流行性乙型脑炎 C.戊型肝炎 D.丙型肝炎 E.登革热,D.丙型肝炎
+1694,11,5,2,8. 属于病原体侵袭力的是(2.5分),A.霍乱肠毒素 B.白喉毒素 C.伤寒沙门菌脂多糖 D.使霍乱弧菌黏附于肠黏膜表面的成分 E.以上都不是,D.使霍乱弧菌黏附于肠黏膜表面的成分
+1695,11,5,2,9. 下列哪项不为传染源 (2.5分),A.显性感染 B.隐性感染 C.潜伏性感染 D.病原携带状态 E.受感染的动物,C.潜伏性感染
+1696,11,5,2,10. 患病后可获得持久免疫力的传染病是(2.5分),A.丙型肝炎 B.艾滋病 C.伤寒 D.阿米巴痢疾 E.细菌性痢疾,C.伤寒
+1697,11,5,2,11. 外周血嗜酸性粒细胞减少的传染病是(2.5分),A.甲型肝炎 B.乙型脑炎  C.肾综合征出血热 D.伤寒 E.急性细菌性痢疾,D.伤寒
+1698,11,5,2,12. 急性传染病血液常规检查的特征包括，除外(2.5分),A.白细胞总数显著增多常见于流脑 B.白细胞正常或减少常见于伤寒 C.白细胞总数减少常见于乙脑 D.白细胞总数正常或减少常见于疟疾 E.嗜酸粒细胞增多常见于蠕虫感染,C.白细胞总数减少常见于乙脑
+1699,11,5,2,13. 在感染过程中，血液中最先出现的是： (2.5分),A.特异性IgM抗体 B.特异性IgG抗体 C.特异性IgA抗体 D.特异性IgD抗体 E.特异性IgE抗体 ,A.特异性IgM抗体
+1700,11,5,2,14. 在我国新修订的传染病防治法中，属于甲类传染病的是(2.5分),A.人感染高致病性禽流感 B.艾滋病 C.传染性非典型肺炎  D.狂犬病 E.鼠疫,E.鼠疫
+1701,11,5,2,15. 在我国新修订的传染病防治法中，属于乙类传染病的是(2.5分),A.炭疽  B.斑疹伤寒  C.流行性感冒 D.急性出血性结膜炎  E.鼠疫,A.炭疽 
+1702,11,5,2,16. 确定传染病检疫期的重要依据是(2.5分),A.病情的轻重 B.潜伏期的长短  C.有无后遗症 D.治疗的早晚  E.病程的长短,B.潜伏期的长短 
+1703,11,5,2,17. 有关传染病的流行病学特征，说法正确的是(2.5分),A.散发性发病是指某传染病在某地近年来的发病率低于一般水平 B.流行是指某传染病的发病率水平高于一般水平 C.大流行是指某传染病在某地近年来的发病率显著高于一般发病率 D.暴发流行是指某传染病的流行范围较广，超出国界或洲界 E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点,E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点
+1704,11,5,2,18. 关于副溶血弧菌的致病性，下列哪项错误(2.5分),A.主要症状包括腹痛，腹泻，呕吐，发热等 B.主要致病物质是耐热溶血毒素 C.主要由不耐热肠毒素致病 D.常因为食入未煮熟的海产品而感染 E.可引起食物中毒,C.主要由不耐热肠毒素致病
+1705,11,5,2,19. 从东南亚入境一男子，3天前因突然剧烈呕吐，腹泻而入院。腹泻物呈米泔水样，便检发现穿梭运动的细菌，请问致病菌可能是(2.5分),A.肠炎杆菌  B.霍乱弧菌 C.产气荚膜梭菌 D.鼠伤寒沙门菌  E.副溶血弧菌 ,B.霍乱弧菌
+1706,11,5,2,20. 关于霍乱弧菌的微生物学检查，下列错误的是(2.5分),A.革兰染色阳性 B.快速诊断可用荧光菌球试验，协同凝集试验 C.可用PCR法检测霍乱肠毒素的霍乱弧菌 D.分离培养常用碱性琼脂平板 E.可用悬滴法观察细菌运动,A.革兰染色阳性
+1707,11,5,2,21. 为预防局麻药中毒反应，以下哪项错误(2.5分),A.一次用药不超过最大剂量 B.使用最低有效浓度 C.避免注入血管内 D.凡局麻药内都必须加入肾上腺素 E.术前给予巴比胺类或地西泮,D.凡局麻药内都必须加入肾上腺素
+1708,11,5,2,22. 脊麻平面指的是 (2.5分),A.交感神经阻滞 B.感觉神经阻滞平面 C.运动神经阻滞平面  D.体神经阻滞平面  E.感觉-运动复合平面 ,B.感觉神经阻滞平面
+1709,11,5,2,23. 甲亢病人术前准备可以手术的基础代谢率至少降至(2.5分),A.+10%以下 B.+20%以下 C.+25%以下 D.+30%以下 E.+35%以下,B.+20%以下
+1710,11,5,2,24. 慢性肺部疾病患者行IPPV通气时，突然出现发绀、SpO2下降、双侧胸廓运动不佳、听诊一侧呼吸音消失，最可能的原因是(2.5分),A.气栓 B.气胸 C.喉痉挛 D.肺栓塞 E.导管脱出,B.气胸
+1711,11,5,2,25. 经尿道前列腺切除术，经膀胱冲洗病人出现心动过缓，低血压，癫痫样发作的可能原因为：                    (2.5分),A.麻醉药过量  B.低钠血症  C.迷走神经张力过高  D.有效循环血量减少  E.以上都不是,B.低钠血症 
+1712,11,5,2,26. 对合并有呼吸系统疾病的病人，在麻醉实施过程中正确的是(2.5分),A.麻醉深度适宜，尽可能减少全麻用药量，椎管内阻滞范围不宜过广 B.维持呼吸道通畅和足够的通气量 C.维持循环稳定 D.纠正水、电解质和酸碱失衡 E.以上都是,E.以上都是
+1713,11,5,2,27. What is coagulase testing generally used for? (2.5分),A.To distinguish Streptococcus pyogenes from other Streptococcus species B.To distinguish Neisseria meningitidis from other Neisseria species C.To identify EHEC D.To distinguish Staphylococcus aureus from other Staphylococcus species,D.To distinguish Staphylococcus aureus from other Staphylococcus species
+1714,11,5,2,28. What are leukocidins? (2.5分),A.Enzymes that destroy circulating white blood cells B.Enzymes that catalyse the formation of blood clots from Fibrinogen proteins  C.Enzymes that dissolve blood clots D.Enzymes that break down hyaluronic acid,A.Enzymes that destroy circulating white blood cells
+1715,11,5,2,29. Which of the following skin diseases is NOT caused by Streptococcus pyogenes? (2.5分),A.Necrotizing fasciitis B.Toxic shock syndrome C.Gas gangrene D.Erysipelas,C.Gas gangrene
+1716,11,5,2,30. Acute meningitis(2.5分),A.is a lower respiratory tract infection. B.is a disease affecting the membranes of the heart. C.can be caused by Corynebacterium diphtheria. D.often starts as a nasopharynx infection.,D.often starts as a nasopharynx infection.
+1717,11,5,2,31. Which of the following statements does NOT apply to pili?(2.5分),A.Pili are made of protein. B.Pili allow for attachment to surfaces. C.Pili facilitate nutrient transport. D.Pili contain adhesins.,C.Pili facilitate nutrient transport.
+1718,11,5,2,"32. Which gram-positive rod can cause meningoencephalitis, septicemia, and newborn meningitis?                                   (2.5分)",A.Bacillus cereus B.Listeria monocytogenes C.Clostridium perfringens D.Escherichia coli,B.Listeria monocytogenes
+1719,11,5,2,33. What can enterohemorrhagic E. coli (EHEC) cause? (2.5分),A.Undulant fever B.Hemolytic uremic syndrome C.Guilain-Barre syndrome D.Stomach ulcers,B.Hemolytic uremic syndrome
+1720,11,5,2,34. What does the botulinum toxin do? (2.5分),"A.It alters the water and electrolyte balance in the intestine leading to a very severe, life threatening, watery diarrhea B.It causes excitation of the CNS leading to spasmodic contractions and death from respiratory failure C.It acts at the neuromuscular junction to prevent the transmission of nerve impulses leading to flaccid paralysis and death from respiratory failure D.It inhibits protein synthesis in eukaryotic cells and can cause death",C.It acts at the neuromuscular junction to prevent the transmission of nerve impulses leading to flaccid paralysis and death from respiratory failure
+1721,11,5,2,35. What is characteristic for invasive gastroenteritis? (2.5分),"A.Diarrhea and/or vomiting, fever, and dysentery B.Diarrhea and/or vomiting, usually fever C.Diarrhea and/or vomiting D.Peptic ulcers","A.Diarrhea and/or vomiting, fever, and dysentery"
+1722,11,5,2,36. What is in MacConkey's agar that is selective for enteric bacteria? (2.5分),A.Lactose B.Glucose C.Bile salts D.Neutral red pH indicator,C.Bile salts
+1723,11,5,2,"37. A sexually active 18-year-old man attends a genitourinary medicine clinic with a complaint of painful urethral discharge. After appropriate studies, a diagnosis of gonorrhea is made. Which of the following would most likely be found on a smear of his discharge? (2.5分)",A.Gram-positive rods  B.Gram-negative rods  C.Gram-positive cocci  D.Gram-negative cocci  E.Acid-fast bacilli,D.Gram-negative cocci 
+1724,11,5,2,"38. In a developing country, a microbiological study of oral lesions is carried out among malnourished children. Exudates are collected from the oral lesions for this purpose. What is the laboratory method used for detecting the presence of fusospirochetal infection?                             (2.5分)",A.Microscopic demonstration of the causative agents in Gram-stained smears  B.Cultural isolation of the organisms on blood agar incubated in 10% CO2  C.Detection of the bacterial antigens by immunoprecipitation  D.Demonstration of specific antibodies in the serum by ELISA  E.Polymerase chain reaction assays for detection of the bacterial DNA,A.Microscopic demonstration of the causative agents in Gram-stained smears 
+1725,11,5,2,"39. A 53-year-old woman presents for a right radical mastectomy. Her past medical history is notable for hypertension, which is poorly controlled on metoprolol. Her blood pressure is 160/95 mmHg. She does not have end-organ damage. Which of the following is this patient's American Society of Anesthesiologists Physical Status? (2.5分)",A.Ⅰ B.Ⅱ C.Ⅲ D.Ⅳ E.Ⅴ,C.Ⅲ
+1726,11,5,2,40. A 24-year-old woman requires surgery on her left hand because of a fracture. Her past anesthetic history is notable for severe nausea and vomiting following sinus surgery 1 year ago. She would like to avoid general anesthesia if possible. Which of the following regional anesthetic technique would you recommend for this patient?  (2.5分),A.Spinal block    B.Epidural block  C. Interscalene block D.Supraclavicular block E.Axillary block,E.Axillary block
+1972,12,5,2,1. 感染的含义是：(3.0分),A.人体被病原体侵入 B.病原体侵入人体的过程 C.病原体对人体的寄生过程 D.病原体通过传播媒介进入人体 E.人体抵抗力下降而被病原体入侵,C.病原体对人体的寄生过程
+1973,12,5,2,2. 在传染病感染过程中最常见的是(3.0分),A.隐性感染者 B.潜伏期携带者 C.慢性携带者 D.潜伏性感染者   E.显性感染者,A.隐性感染者
+1974,12,5,2,3. 主要经输血途径传播的传染病是(2.0分),A.甲型肝炎 B.流行性乙型脑炎 C.戊型肝炎 D.丙型肝炎 E.登革热,D.丙型肝炎
+1975,12,5,2,4. 属于病原体侵袭力的是 (3.0分),A.霍乱肠毒素 B.白喉毒素 C.伤寒沙门菌脂多糖 D.使霍乱弧菌黏附于肠黏膜表面的成分  E.以上都不是,D.使霍乱弧菌黏附于肠黏膜表面的成分 
+1976,12,5,2,5. 有关传染病的流行病学特征，说法正确的是 (3.0分),A.散发性发病是指某传染病在某地近年来的发病率低于一般水平 B.流行是指某传染病的发病率水平高于一般水平 C.大流行是指某传染病在某地近年来的发病率显著高于一般发病率 D.暴发流行是指某传染病的流行范围较广，超出国界或洲界 E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点,E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点
+1977,12,5,2,6. 关于潜伏期的概念，下列哪项是错误的？ (3.0分),A.潜伏期长短一般与病原体感染量呈成反比 B.有些传染病在潜伏期内具有传染性 C.潜伏期是确定传染病的检疫期的重要依据 D.传染病的隔离期是依据该病的潜伏期来确定 E.多数传染病的潜伏期比较恒定,D.传染病的隔离期是依据该病的潜伏期来确定
+1978,12,5,2,7. 确定传染病检疫期的重要依据是： (3.0分),A.病情的轻重 B.潜伏期的长短 C.有无后遗症 D.治疗的早晚 E.病程的长短,B.潜伏期的长短
+1979,12,5,2,8. 急性传染病血液常规检查的特征包括，除外(3.0分),A.白细胞总数显著增多常见于流脑 B.白细胞正常或减少常见于伤寒 C.白细胞总数减少常见于乙脑 D.白细胞总数正常或减少常见于疟疾 E.嗜酸粒细胞增多常见于蠕虫感染,C.白细胞总数减少常见于乙脑
+1980,12,5,2,9. 外周血嗜酸性粒细胞减少的传染病是 (3.0分),A.甲型肝炎 B.乙型脑炎 C.肾综合征出血热 D.伤寒 E.急性细菌性痢疾,D.伤寒
+1981,12,5,2,10. 在感染过程中，血液中最先出现的是： (3.0分),A.特异性IgM抗体 B.特异性IgG抗体 C.特异性IgA抗体 D.特异性IgD抗体 E.特异性IgE抗体 ,A.特异性IgM抗体
+1982,12,5,2,11. 外周血白细胞数常明显增高的病毒性传染病是(3.0分),A.流行性感冒 B.艾滋病 C.肾综合征出血热 D.水痘  E.风疹,C.肾综合征出血热
+1983,12,5,2,12. 典型霍乱患者，发病后最先出现的常见症状是(3.0分),A.畏寒、发热 B.声音嘶哑 C.剧烈腹泻、继之呕吐 D.腹部绞痛,C.剧烈腹泻、继之呕吐
+1984,12,5,2,13. 伤寒并发症肠穿孔时关键的治疗措施：(3.0分),A.禁食 B.及早手术治疗  C.胃肠减压 D.加强抗感染,C.胃肠减压
+1985,12,5,2,14. 成年伤寒患者抗菌治疗通常首选 (2.0分),A.氯霉素 B.氨苄青霉素 C.ＳＭＺco D.喹酮类,D.喹酮类
+1986,12,5,2,15. 下列哪项不是脑膜炎球菌的特点？ (3.0分),A.能产生内毒素 B.产生自溶酶 C.革兰染色阴性 D.耐低温、干燥 E.对一般抗生素敏感,D.耐低温、干燥
+1987,12,5,2,16. 流脑的主要临床特征是(3.0分),A.急起高热、头痛、呕吐、昏迷、脑膜刺激征  B.急起高热、头痛、呕吐、昏迷、呼吸衰竭 C.急起高热、惊厥、呼吸衰竭 D.缓慢起病，发热不明显、头痛剧烈，无休克 E.急起高热、头痛、呕吐、皮肤粘膜瘀点瘀斑、脑膜刺激征,E.急起高热、头痛、呕吐、皮肤粘膜瘀点瘀斑、脑膜刺激征
+1988,12,5,2,17. 典型流脑的脑脊液改变为 (2.0分),"A.不透明，静置后呈毛玻璃状，白细胞中等度升高，以淋巴细胞为主，蛋白明显升高，糖稍降低，氯化物降低 B.不透明，黄白色，白细胞明显升高，以中性粒细胞为主，蛋白升高，糖明显降低甚至测不出，氯化物正常 C.无色透明，白细胞8～10×106/L，蛋白2～4g/L,糖含量为血糖的50％～80％，氯化物正常 D.无色透明，白细胞轻度升高，淋巴细胞为主，蛋白正常或轻度升高，糖和氯化物正常 E.以上都不是",B.不透明，黄白色，白细胞明显升高，以中性粒细胞为主，蛋白升高，糖明显降低甚至测不出，氯化物正常
+1989,12,5,2,18. 下列哪一项不是霍乱的并发症？ (3.0分),A.急性肾功能衰竭  B.急性肺水肿 C.肠穿孔                D.急性心力衰竭 E.低钾综合症及代谢性酸中毒,C.肠穿孔               
+1990,12,5,2,19. 中毒性菌痢的临床特征，下列哪项错误？(2.0分),A.急性高热，惊厥和昏迷 B.迅速休克或呼吸衰竭 C.腹痛、腹泻轻，肠道症状可以不明显 D.大便常规检查正常,D.大便常规检查正常
+1991,12,5,2,20. 感染过程中不通过血流播散的细菌是(3.0分),A.结核分枝杆菌 B.普氏立克次体 C.伤寒沙门菌 D.志贺菌,D.志贺菌
+1992,12,5,2,21. 革兰氏染色及镜检的性质属于 (3.0分),A.免疫学检测方法 B.分子生物学检测方法 C.细菌形态学检测方法 D.基于细菌分子结构特性的检测方法,C.细菌形态学检测方法
+1993,12,5,2,22. 通过油镜从脑脊液玻片样本的革兰氏染色试验中发现阴性双肾型细菌，由此可推测(2.0分),A.肺炎双球菌 B.脑膜炎奈瑟氏菌 C.白喉棒状杆菌 D.痢疾杆菌,B.脑膜炎奈瑟氏菌
+1994,12,5,2,23. 吲哚实验是(3.0分),A.糖代谢实验  B.蛋白质代谢实验 C.呼吸酶类实验 D.碳源利用实验,B.蛋白质代谢实验
+1995,12,5,2,24. 对于细菌性感染病，关于抗生素的使用，西医要求(3.0分),A.应先进行药敏实验 B.直接使用广谱抗生素 C.西医治疗痢疾使用抗生素可药到病除 D.中医不使用杀菌药物也可以治愈痢疾,A.应先进行药敏实验
+1996,12,5,2,25. 革兰氏染色玻片样本制作中的固定步骤，如果考虑高通量高生物安全的自动染色方法，最好(3.0分),A.火焰固定 B.酒精固定 C.甲醛固定 D.福尔马林固定,B.酒精固定
+1997,12,5,2,26. 异丙酚药代动力学的特点是(3.0分),A.脂溶性低 B.易溶于水 C.体内代谢率低 D.消除半衰期短 E.主要以原形从肾排出,D.消除半衰期短
+1998,12,5,2,27. 为预防局麻药中毒反应，以下哪项错误： (3.0分),A.一次用药不超过最大剂量 B.使用最低有效浓度 C.避免注入血管内 D.凡局麻药内都必须加入肾上腺素 E.术前给予巴比胺类或地西泮,D.凡局麻药内都必须加入肾上腺素
+1999,12,5,2,28. 对循环影响最小的静脉麻醉药为(2.0分),A.羟丁酸纳 B.异丙酚 C.氯胺酮 D.咪唑安定 E.依托咪酯,E.依托咪酯
+2000,12,5,2,29. 经尿道前列腺切除术，经膀胱冲洗病人出现心动过缓，低血压，癫痫样发作的可能原因为： (3.0分),A.麻醉药过量  B.低钠血症  C.迷走神经张力过高  D.有效循环血量减少  E.以上都不是,B.低钠血症 
+2001,12,5,2,30. 对合并有呼吸系统疾病的病人，在麻醉实施过程中正确的是： (3.0分),A.麻醉深度适宜，尽可能减少全麻用药量，椎管内阻滞范围不宜过广 B.维持呼吸道通畅和足够的通气量 C.维持循环稳定 D.纠正水、电解质和酸碱失衡 E.以上都是,E.以上都是
+2002,12,5,2,31. Which is the toxicose caused by Staphylococcus aureus? (2.0分),A.Scalded Skin Syndrome B.Food poisoning C.Toxic shock syndrome D.All answers (A-C) are correct,D.All answers (A-C) are correct
+2003,12,5,2,32. Which of the following diseases is NOT caused by Streptococcus pyogenes?(3.0分),A.Necrotizing fasciitis B.Toxic shock syndrome C.Gas gangrene D.Erysipelas,C.Gas gangrene
+2004,12,5,2,33. Which one of the following is a gram-positive bacterial species commonly causing hospital-acquired pneumonia? (3.0分),A.Haemophilus influenza B.Klebsiella pneumonia C.Staphylococcus aureus D.Chlamydophila pneumonia,C.Staphylococcus aureus
+2005,12,5,2,34. What disease is salpingitis associated with and what can it result in? (2.0分),A.Syphilis; gumma formation B.Gonorrhea; sterility C.Chlamydia; ophthalmia D.Chancroid; soft chancre,B.Gonorrhea; sterility
+2006,12,5,2,35. One of the most excessive diarrheas of the GI tract is associated with which of the following poisonings or diseases? (3.0分),A.Staphylococcal food poisoning B.Typhoid fever C.Cholera D.Campylobacteriosis,C.Cholera
+2007,12,5,2,36. On which of the patients would you consider using rapid sequence induction? (3.0分),A.A patient have cardiac bypass B.A patient coming in for emergent open cholecystectomy C.A patient with past medical history of psychiatric illness D.A patient with an anticipated difficult airway E.A patient with severe heart disease,B.A patient coming in for emergent open cholecystectomy
+2423,13,5,2,1. 感染的含义是(3.0分),A.人体被病原体侵入 B.病原体侵入人体的过程 C.病原体对人体的寄生过程 D.病原体通过传播媒介进入人体 E.人体抵抗力下降而被病原体入侵,
+2424,13,5,2,2. 属于传染病的是(3.0分),A.急性支气管炎 B.化脓性胆囊炎 C.炭疽 D.化脓性腮腺炎 E.大叶性肺炎,
+2425,13,5,2,3. 主要经输血途径传播的传染病是(2.0分),A.甲型肝炎 B.流行性乙型脑炎  C.戊型肝炎 D.丙型肝炎 E.登革热,
+2426,13,5,2,4. 属于病原体侵袭力的是(3.0分),A.霍乱肠毒素 B.白喉毒素 C.伤寒沙门菌脂多糖 D.使霍乱弧菌黏附于肠黏膜表面的成分 E.以上都不是,
+2427,13,5,2,5. 有关传染病的流行病学特征，说法正确的是(3.0分),A.散发性发病是指某传染病在某地近年来的发病率低于一般水平 B.流行是指某传染病的发病率水平高于一般水平 C.大流行是指某传染病在某地近年来的发病率显著高于一般发病率 D.暴发流行是指某传染病的流行范围较广，超出国界或洲界 E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点,
+2428,13,5,2,6. 传染病的基本特征是，除外(3.0分),A.有特异病原体 B.有传染性 C.有感染中毒症状 D.有流行病学特征 E.有感染后免疫,
+2429,13,5,2,7. 确定传染病检疫期的重要依据是(3.0分),A.病情的轻重 B.潜伏期的长短 C.有无后遗症 D.治疗的早晚 E.病程的长短,
+2430,13,5,2,8. 在感染过程中，血液中最先出现的是(3.0分),A.特异性IgM抗体 B.特异性IgG抗体 C.特异性IgA抗体 D.特异性IgD抗体 E.特异性IgE抗体 ,
+2431,13,5,2,9. 在我国新修订的传染病防治法中，属于甲类传染病的是(3.0分),A.人感染高致病性禽流感 B.艾滋病 C.传染性非典型肺炎  D.狂犬病 E.鼠疫,
+2432,13,5,2,10. 以对症治疗为主的传染病是(3.0分),A.钩体病 B.艾滋病 C.伤寒 D.恙虫病 E.霍乱,
+2433,13,5,2,11. What is coagulase testing generally used for?(3.0分),A.To distinguish Streptococcus pyogenes from other Streptococcus species B.To distinguish Neisseria meningitidis from other Neisseria species C.To identify EHEC D.To distinguish Staphylococcus aureus from other Staphylococcus species,
+2434,13,5,2,12. What are leukocidins?(3.0分),A.Enzymes that destroy circulating white blood cells B.Enzymes that catalyse the formation of blood clots from Fibrinogen proteins  C.Enzymes that dissolve blood clots D.Enzymes that break down hyaluronic acid,
+2435,13,5,2,13. Which of the following skin diseases is NOT caused by Streptococcus pyogenes?(3.0分),A.Necrotizing fasciitis B.Toxic shock syndrome C.Gas gangrene D.Erysipelas,
+2436,13,5,2,14. Which one of the following is a gram-positive bacterial species commonly causing hospital-acquired pneumonia?(3.0分),A.Haemophilus influenza B.Klebsiella pneumonia C.Staphylococcus aureus D.Chlamydophila pneumonia,
+2437,13,5,2,15. What disease is salpingitis associated with and what can it result in?(3.0分),A.Syphilis; gumma formation B.Gonorrhea; sterility C.Chlamydia; ophthalmia D.Chancroid; soft chancre,
+2438,13,5,2,16. One of the most excessive diarrheas of the GI tract is associated with which of the following poisonings or diseases? (3.0分),A.Staphylococcal food poisoning B.Typhoid fever C.Cholera D.Campylobacteriosis,
+2439,13,5,2,17. What is characteristic for invasive gastroenteritis?(2.0分),"A.Diarrhea and/or vomiting, fever, and dysentery B.Diarrhea and/or vomiting, usually fever C.Diarrhea and/or vomiting D.Peptic ulcers",
+2440,13,5,2,18. What is in MacConkey's agar that is selective for enteric bacteria?(3.0分),A.Lactose B.Glucose C.Bile salts D.Neutral red pH indicator,
+2441,13,5,2,"19. CASE:   A 38-year-old man was admitted to a healthcare facility with nausea, vomiting, diarrhea, and abdominal cramping for the past 2 hours. His BP was 100/60 mm Hg. On interviewing the patient, he revealed that he had consumed meat that had been left uncovered for a night. The physician suspected it as a case of food poisoning. During laboratory examination it was found that the meat was contaminated with circular, clustered organisms, which on Gram staining were found to be Gram positive. Fairly large, yellow colored colonies were formed when the organism was grown on mannitol agar media in a temperature range of 15 to 45°C. The organism showed positive results for coagulase enzyme activity and showed resistance to penicillin and methicillin antibiotics. What organism was the causative agent of the food poisoning? (3.0分)",A.Clostridium perfringens  B.Enterococcus fecalis  C.Escherichia coli  D.Staphylococcus aureus  E.Salmonella species,
+2442,13,5,2,"20. A sexually active 18-year-old man attends a genitourinary medicine clinic with a complaint of painful urethral discharge. After appropriate studies, a diagnosis of gonorrhea is made. Which of the following would most likely be found on a smear of his discharge?(3.0分)",A.Gram-positive rods  B.Gram-negative rods  C.Gram-positive cocci  D.Gram-negative cocci  E.Acid-fast bacilli,
+2443,13,5,2,"21. CASE:   A 6-year-old boy was brought to the pediatric clinic. He had a cough of 10 days duration. His illness started with cold-like symptoms followed by worsening cough and in the last 3 days he was getting frequent paroxysms of cough occasionally followed by vomiting. He had not received any antibiotic for the infection. Immunization history showed that the boy had not received the 2 booster doses of DTaP scheduled at 18 months and at 4-6 years. Based on the nature of cough and the history of immunization, the clinician considered whooping cough as a possibility. Clinical samples were collected for laboratory investigations before the child was placed on antibiotic.Which of the following will be the most suitable clinical specimen for cultural isolation of the causative agent of whooping cough?(3.0分)",A.Blood  B.Throat swab  C.Anterior nasal swab  D.Nasopharyngeal secretion  E.Cough droplets,
+2444,13,5,2,"22. Upon examination of a blood culture bottle that has been logged as positive by the automated blood culture instrument, there appears to be no growth on visual inspection, no growth on subculture at the appropriate temperature, but on gram-stain one can see gram positive cocci. The next step in trying to determine the identity of this potentially pathogenic organism is to    (3.0分)",A.Centrifuge the broth and do a direct antigen test for Group A streptococcus on the sediment B.Inoculate the broth from the blood culture bottle onto mannitol salt agar and incubate in carbon dioxide C.Plate the broth on chocolate agar and place an Optochin disk over the streak D.Do a slide coagulase test on the centrifuged sediment from the blood culture bottle E.Plate the broth on blood agar and place a staphylococcus streak down the middle of the inoculum,
+2445,13,5,2,"23. CASE:   A sample of cerebrospinal fluid (CSF) from a 12-month-old baby girl, clinically diagnosed as having pyogenic meningitis, was received in a microbiology laboratory.Gram-stain of the CSF showed numerous polymorphs and small gram-negative pleomorphic bacilli with coccoid and filamentous forms. CSF was cultured on sheep blood agar and chocolate agar with a strain of staphylococcus streaked across the medium. The plates were incubated at 37°C, in presence of 5% carbon dioxide After 24 hours of incubation, small opaque colonies appeared on the media. The colonies were larger and more developed near the staphylococcal growth than those away from it. The bacterium was oxidase, catalase positive, and produced beta-lactamase. It was non-motile and failed to grow on MacConkey's medium. The isolate was identified and the serotype was determined using specific antisera. It was one of the important agents of bacterial meningitis in children.A vaccine is now widely used in developed countries for the prevention of this bacterial infection and has helped to reduce the disease incidence considerably. This childhood immunizing agent contains which of the following? (3.0分)",A.Killed whole bacterial cells  B.Live attenuated bacteria  C.Capsular polysaccharide  D.Outer membrane protein antigens  E.Bacterial lipoolygosaccharide,
+2446,13,5,2,24. A gram stained smear of urethral exudate from male patients showing intracellular gram negative diplococci is diagnostic of infection with (3.0分),A.Haemophilus ducreyi  B.Chlamydia trachomatis  C.Mycoplasma hominis  D.Neisseria gonorrhoeae  E.Ureaplasma urealyticum,
+2447,13,5,2,25. On which of the following patients would you consider using awake intubation?(2.0分),A.A patient have cardiac bypass B.A patient coming in for emergent open cholecystectomy C.A patient with past medical history of psychiatric illness D.A patient with an anticipated difficult airway E.A patient with severe heart disease,
+2448,13,5,2,26. Which one of the following is NOT a contraindication for epidural anesthesia? (3.0分),A.Anemia B.Intracranial hypertension C.Sepsis D.Local infection of the epidural puncture site E.Coagulopathy,
+2449,13,5,2,27. 菌落的描述不正确的是 (3.0分),A.一个菌落是由许多个细菌繁殖形成的 B.在固体培养基中形成 C.根据菌种的不同，菌落可带有不同的颜色 D.肉眼可见,
+2450,13,5,2,28. 革兰染色所用试剂的顺序是(3.0分),A.稀释复红-碘液-乙醇-结晶紫 B.结晶紫-乙醇-碘液-稀释复红 C.结晶紫-碘液-乙醇-稀释复红 D.稀释复红-乙醇-结晶紫-碘液,
+2451,13,5,2,29. 关于细菌培养基的叙述错误的是(2.0分),A.由多种营养物质配制成供细菌生长的基质  B.配制后需灭菌方可使用 C.pH值最终均要求调至7.2-7.6  D.液体培养基可用于增菌,
+2452,13,5,2,30. 下述血气参数中，哪一项最能反映肺通气状况？(3.0分),A.PaO2 B.SaO2 C.Ph D.BE E.PaCO2,
+2453,13,5,2,31. 老年人吸入麻醉药的MAC与年轻人相比(3.0分),A.增大 B.减小 C.与吸入麻醉药的性质有关  D.与老年人的胖瘦有关  E.与老年人的肺功能有关 ,
+2454,13,5,2,32. 下列有关冠心病病人麻醉要点的叙述哪一项是错误的(3.0分),A.防止低血压 B.防止高血压 C.防止心动过速 D.麻醉宜浅 E.维持心肌氧的供需平衡,
+2455,13,5,2,33. 成人发生局麻药中毒反应下列处理哪项是错误的？ (3.0分),A.发生惊厥时要注意保护病人，避免发生意外的损伤 B.吸氧，并进行辅助或控制呼吸 C.开放静脉输液，维持血流动力学稳定 D.静注氯胺酮100mg，如有必要可持续静滴 E.可静脉注射短效的肌松药控制惊厥,
+2456,13,5,2,34. 椎管内麻醉时，神经纤维被阻滞的顺序是 (2.0分),A.温觉，痛觉，触觉，运动，压力，血管舒缩神经 B.血管舒缩神经，温觉，痛觉，触觉，运动，压力 C.血管舒缩神经，痛觉，触觉，温觉，运动，压力 D.血管舒缩神经，运动，温觉，触觉，痛觉，压力 E.运动，血管舒缩神经，温觉，痛觉，触觉，压力,
+2457,13,5,2,35. 吗啡中毒的主要表现是(3.0分),A.呕吐，腹痛 B.呼吸麻痹，瞳孔缩小，血压下降，体温下降 C.肌肉震颤 D.烦躁不安，失眠 E.散瞳，流涎，出汗，血压下降,
+2698,14,5,2,1. 关于麻醉学范畴的内容下列哪项选择是正确的：1 临床麻醉； 2 灾害救援；3 急救复苏；4 疼痛治疗；5 疫苗接种；6 重症监测治疗(2.5分),A.1、2、3、4  B.1、3、5、6  C.2、3、4、5 D.3、4、5、6 E.1、3、4、6,
+2699,14,5,2,2. 患者男，68岁，既往吸烟史10余年，反复右上腹胀痛5年，加重1个月，诊断为胆囊结石，拟在全麻下行胆囊切除术，关于术前准备，以下哪项除外：(2.5分),A.建议患者停止吸烟，并进行呼吸功能训练，必要时行雾化吸入。 B.关心鼓励患者，消除其思想顾虑和焦虑心情。 C.术前禁食油炸食物、富含脂肪类食物至少6小时，术前2小时内可饮少量清水。 D.麻醉前对麻醉和监测设备、麻醉用品及药品进行准备和检查。 E.签署知情同意书。,
+2700,14,5,2,3. 患者女，25岁，午餐后骑单车不慎与汽车相撞，伤及左小腿，X线提示左侧胫腓骨骨折，拟行急诊手术，为预防反流与误吸，以下做法哪项是错误的？(2.5分),A.可采用椎管内麻醉并保持病人清醒 B.手术采取头高脚低位 C.麻醉诱导室采用快速顺序诱导的方法，并换装软骨按压以降低反流误吸的风险 D.术前使用促进胃排空、升高PH的药物 E.术前插入鼻胃管，予以胃肠道减压,
+2701,14,5,2,4. 我们平时所称的腰麻是将局麻药注射在什么部位 (2.5分),A.腰大肌周围  B.腰部神经丛周围  C.蛛网膜下腔  D.硬膜外腔  E.蛛网膜外腔,
+2702,14,5,2,5. 对循环影响最小的静脉麻醉药为： (3.0分),A.羟丁酸纳 B.异丙酚 C.氯胺酮 D.咪唑安定 E.依托咪酯,
+2703,14,5,2,6. 男性，76岁，身高165cm，体重45kg，既往心绞痛史，平素规律冠心病二级预防，近无发作，日常活动可。拟于全身麻醉下行右膝关节置换术；入室后建立静脉通道，常规监测生命体征，BP 139/80mmHg，HR 67次/分，R 16次/分，SpO2 97%；静脉注射舒芬太尼5μg，神经刺激仪引导下右侧股神经阻滞，缓慢给予 0.33%罗哌卡因20ml，在给药的同时与病人沟通，当药物注射快结束时，病人应答不甚切题，稍显烦躁，双手舞动，继而突然坐起，胡言乱语，四肢抽搐，监护仪显示BP 139/83 mmHg，HR 69次/分，SpO2 98%。此时最恰当的首要处理措施是(2.5分),A.气管插管； B.纳洛酮； C.面罩给氧； D.肌松剂； E.呼叫除颤仪,
+2704,14,5,2,7. 以下应该尽快给与的药物是(2.5分),A.咪达唑仑； B.纳洛酮； C.琥珀酰胆碱； D.阿托品； E.肾上腺素,
+2705,14,5,2,8. 神经阻滞过程中可能预防上述并发症的最常用手段是(3.0分),A.多沟通抚慰；  B.边注射边回抽；  C.神经刺激仪；  D.老年病人不必减少局麻药用量;   E.不使用舒芬太尼,
+2706,14,5,2,9. 若选择椎管内麻醉，最需要了解的实验室检查结果应该是(2.5分),A.尿常规 B.白细胞计数 C.出凝血功能 D.心肌酶谱 E.淀粉酶,
+2707,14,5,2,10. 左侧卧位行L1～L2棘突间隙硬膜外穿刺，穿刺及留置硬膜外导管顺利，回抽无血、未见明显清亮液体，妥善固定导管；改平卧位后，右侧腰部垫枕，硬膜外缓慢注射2%利多卡因5ml（加肾上腺素1：200 000）。约3分钟后，病人神智淡漠，BP降至75/45mmHg，SpO2 94%，R 15次/分，HR 51次/分，自感呼吸费力，双下肢麻木无力难以挪动，以左侧为甚。此时首要的紧急处理措施应是(2.5分),A.呼叫除颤仪 B.胸外心脏按压 C.面罩加压给氧 D.气管切开 E.紧急剖宫产,
+2708,14,5,2,11. 此时测量病人麻醉平面，最可能是(2.5分),A.L1～L5 B.T10～L5 C.T6～S2 D. T8～S2 E.T2以下,
+2709,14,5,2,12. 再次回抽硬膜外导管可见少许清亮液体，送检提示含脑脊液成分，结合病人前述临床表现最可能发生(3.0分),A.仰卧位低血压综合征 B.局麻药高敏反应 C.局麻药毒性反应 D.全脊椎麻醉 E.呼吸心跳骤停,
+2710,14,5,2,13. What is coagulase testing generally used for? (2.5分),A.To distinguish Streptococcus pyogenes from other Streptococcus species B.To distinguish Neisseria meningitidis from other Neisseria species C.To identify EHEC D.To distinguish Staphylococcus aureus from other Staphylococcus species,
+2711,14,5,2,14. Which is the toxicose caused by Staphylococcus aureus?(3.0分),A.Scalded Skin Syndrome B.Food poisoning C.Toxic shock syndrome D.All answers (A-C) are correct,
+2712,14,5,2,15. What are leukocidins?(2.5分),A.Enzymes that destroy circulating white blood cells B.Enzymes that catalyse the formation of blood clots from Fibrinogen proteins  C.Enzymes that dissolve blood clots D.Enzymes that break down hyaluronic acid,
+2713,14,5,2,16. Which of the following skin diseases is NOT caused by Streptococcus pyogenes?(2.5分),A.Necrotizing fasciitis B.Toxic shock syndrome C.Gas gangrene D.Erysipelas,
+2714,14,5,2,17. Which one of the following is a gram-positive bacterial species commonly causing hospital-acquired pneumonia?(2.5分),A.Haemophilus influenza B.Klebsiella pneumonia C.Staphylococcus aureus D.Chlamydophilapneumoniae,
+2715,14,5,2,18. What disease is salpingitis associated with and what can it result in? (3.0分),A.Syphilis; gumma formation B.Gonorrhea; sterility C.Chlamydia; ophthalmia D.Chancroid; soft chancre,
+2716,14,5,2,19. One of the most excessive diarrheas of the GI tract is associated with which of the following poisonings or diseases? (2.5分),A.Staphylococcal food poisoning B.Typhoid fever C.Cholera D.Campylobacteriosis,
+2717,14,5,2,20. What can enterohemorrhagicE. coli (EHEC) cause?(2.5分),A.Undulant fever B.Hemolytic uremic syndrome C.Guilain-Barre syndrome D.Stomach ulcers,
+2718,14,5,2,21. What is characteristic for invasive gastroenteritis? (2.5分),"A.Diarrhea and/or vomiting, fever, and dysentery B.Diarrhea and/or vomiting, usually fever C.Diarrhea and/or vomiting D.Peptic ulcers",
+2719,14,5,2,22. In what organ does Salmonella typhi generally reside in asymptomatic carriers?(2.5分),A.Liver B.Spleen C.Kidney  D.Gallbladder,
+2720,14,5,2,23. What do capsule and pili have in common?(2.5分),A.Both contain DNA B.Both are made of proteins C.Both contain dextran fibers D.Both permit attachment to surfaces,
+2721,14,5,2,24. Shigellosis is primarily a disease of what system/tract?(2.5分),A.Nervous system B.Blood C.Respiratory tract D.Gastrointestinal tract,
+2722,14,5,2,"25. Neisseria species are naturally competent, what does this mean?(2.5分)",A.They are able to take-up proteins from their environment B.They are able to take-up DNA from their environment C.They are able to take-up all required nutrients from their environment D.They are able to produce all required nutrients themselves,
+2723,14,5,2,26. Which one of the following is a complication of streptococcal pharyngitis? (3.0分),"A.Pseudomembrane blockage B.Strawberry tongue C.Chest, back, and leg pain D.Rheumatic fever",
+2724,14,5,2,27. What is typically accumulated in the cerebrospinal fluid during meningococcal meningitis?(2.5分),A.T-cells B.Neutrophils C.B-cells D.Macrophages,
+2725,14,5,2,28. 革兰染色关键步骤是(2.5分),A.脱色 B.媒染 C.复染 D.固定,
+2726,14,5,2,29. 结核分枝杆菌一般使用何种染色方法(3.0分),A.镀银染色 B.抗酸染色 C.阿培托染色 D.革兰染色,
+2727,14,5,2,30. 细菌生长的基本营养物质不包括以下(2.5分),A.水 B.无机盐 C.碳源  D.氮源 E.核苷酸,
+2728,14,5,2,31. 常用的细菌生化反应包括(2.5分),A.糖发酵试验 B.吲哚实验 C.硫化氢试验 D.尿素试验 E.以上都是,
+2729,14,5,2,32. 细菌耐药性的遗传学基础为吗(3.0分),A.染色体介导或突变产生的耐药性 B.质粒介导的耐药性 C.以上均对 D.以上均错,
+2730,14,5,2,33. 与细菌产生耐药性无关的酶为： (2.5分),A.青霉素酶 B.ESBL  C.凝固酶 D.AmpC酶,
+2731,14,5,2,34. 斑丘疹不常见于(3.0分),A.麻疹 B.猩红热 C.百日咳 D.伤寒,
+2732,14,5,2,35. 稽留热多见于(2.5分),A.伤寒 B.结核病 C.疟疾 D.败血症,
+2733,14,5,2,36. 以下血培养错误的是(3.0分),A.双瓶双抽 B.及时送检 C.可从静脉留置管抽血 D.每次超过15ml血液,
+2734,14,5,2,37. 病人发生上述并发症最不可能的原因是(2.5分),A.老龄 B.冠心病控制欠佳 C.局麻药超量 D.局麻药注射稍快 E.局麻药意外进入血管,
+2735,14,5,2,38. 女性，29岁，G1P039周孕，身高162cm，体重72kg，择期行经子宫下段剖宫产术；病人孕期规范产检，血压、血糖及肝肾功能未见异常。入室后，常规监测生命体征，BP 115/70mmHg，SpO2 98%，R 20次/分，HR 83次/分。最不可能推荐该病人选择的麻醉方式是(2.5分),A.硬膜外麻醉 B.腰麻 C.腰-硬联合麻醉 D.全身麻醉 E.局部麻醉,
+3001,15,5,2,1. 传染病的基本特征是，除外： (2.5分),A.有特异病原体 B.有传染性 C.有感染中毒症状 D.有流行病学特征 E.有感染后免疫,
+3002,15,5,2,2. 关于潜伏期的概念，下列哪项是错误的？ (2.5分),A.潜伏期长短一般与病原体感染量呈成反比 B.有些传染病在潜伏期内具有传染性 C.潜伏期是确定传染病的检疫期的重要依据 D.传染病的隔离期是依据该病的潜伏期来确定 E.多数传染病的潜伏期比较恒定,
+3003,15,5,2,3. 在感染过程中，血液中最先出现的是(2.5分),A.特异性IgM抗体  B.特异性IgG抗体   C.特异性IgA抗体 D.特异性IgD抗体 E.特异性IgE抗体 ,
+3004,15,5,2,4. 在我国新修订的传染病防治法中，属于甲类传染病的是 (2.5分),A.人感染高致病性禽流感 B.艾滋病 C.传染性非典型肺炎 D.狂犬病 E.鼠疫,
+3005,15,5,2,5. 以对症治疗为主的传染病是(2.5分),A.钩体病  B.艾滋病 C.伤寒 D.恙虫病 E.霍乱,
+3006,15,5,2,6. 在传染病感染过程中最常见的是 (2.5分),A.隐性感染者 B.潜伏期携带者 C.慢性携带者 D.潜伏性感染者 E.显性感染者,
+3007,15,5,2,7. 自然疫源性传染病主要是指 (2.5分),A.以虫媒为传染媒介的传染病 B.所有地方性传染病都是自然疫源性传染病  C.以野生动物为主要传染源的动物源性传染病 D.凡是动物源性传染病都是自然疫源性疾病 E.以上均不是,
+3008,15,5,2,8. 主要经输血途径传播的传染病是(2.5分),A.甲型肝炎  B.流行性乙型脑炎 C.戊型肝炎 D.丙型肝炎 E.登革热,
+3009,15,5,2,9. 通过粪－口途径传播的传染病是(2.5分),A.麻疹 B.白喉 C.百日咳 D.阿米巴病 E.乙型病毒性肝炎,
+3010,15,5,2,10. 有关传染病的流行病学特征，说法正确的是(2.5分),A.散发性发病是指某传染病在某地近年来的发病率低于一般水平 B.流行是指某传染病的发病率水平高于一般水平 C.大流行是指某传染病在某地近年来的发病率显著高于一般发病率 D.暴发流行是指某传染病的流行范围较广，超出国界或洲界 E.传染病的流行病学特征也包括发病率的时间、空间、人群分布特点,
+3011,15,5,2,11. 革兰氏染色所用的试剂次序为(2.5分),A.稀释复红-碘液-乙醇-结晶紫 B.结晶紫-乙醇-碘液-稀释复红 C.结晶紫-碘液-乙醇-稀释复红 D.稀释复红-乙醇-结晶紫-碘液 E.以上都对,
+3012,15,5,2,12. 革兰氏染色应选用细菌的生长期为(2.5分),A.迟缓期 B.对数期  C.稳定期 D.衰亡期  E.稳定晚期,
+3013,15,5,2,13. 关于细菌培养基的叙述错误的是(2.5分),A.由多种营养物质配制成供细菌生长的基质 B.配制后需立即灭菌 C.pH最终均要求调至7.2-7.6 D.液体培养基可用于增菌 E.固体培养基可用于分离细菌,
+3014,15,5,2,14. 菌落的描述错误的是(2.5分),A.一个菌落是由一个母细胞繁殖而成 B.在液体培养基中形成 C.根据菌落的不同，菌落可带颜色 D.肉眼可见 E.可分为S或R型,
+3015,15,5,2,15. 不能通过显微镜油镜观察的细菌结构为(2.5分),A.荚膜 B.芽孢 C.鞭毛 D.菌毛 E.以上均可,
+3016,15,5,2,16. 细菌生长繁殖非必需的条件(2.5分),A.水 B.温度 C.pH D.O2 E.CO2,
+3017,15,5,2,17. What can gastroenteritis result in?(2.5分),A.Intestinal inflammation B.Infection C.Intoxication D.All answers (A-C) are correct,
+3018,15,5,2,18. Shigellosis is primarily a disease of what system/tract?(2.5分),A.Nervous system B.Respiratory tract C.Gastrointestinal tract D.Urogenital tract,
+3019,15,5,2,19. What can enterohemorrhagicE. coli (EHEC) cause?(2.5分),A.Undulant fever B.Hemolytic uremic syndrome C.Guilain-Barre syndrome D.Stomach ulcers,
+3020,15,5,2,20. What organism can cause gastric ulcers?(2.5分),A.Helicobacter pylori B.Yersinia enterocolitica C.Escherichia coli D.Salmonella Typhi,
+3021,15,5,2,21. What is characteristic for invasive gastroenteritis?(2.5分),"A.Diarrhea and/or vomiting, fever, and dysentery B.Diarrhea and/or vomiting, usually fever C.Diarrhea and/or vomiting D.Peptic ulcers",
+3022,15,5,2,22. What is in MacConkey's agar that is selective for enteric bacteria?(2.5分),A.Lactose B.Glucose C.Bile salts D.Neutral red pH indicator,
+3023,15,5,2,23. What is coagulase testing generally used for?(2.5分),A.To distinguish Streptococcus pyogenes from other Streptococcus species B.To distinguish Neisseria meningitidis from other Neisseria species C.To identify EHEC D.To distinguish Staphylococcus aureus from other Staphylococcus species,
+3024,15,5,2,24. Which is the toxicose caused by Staphylococcus aureus?(2.5分),A.Scalded Skin Syndrome B.Food poisoning C.Toxic shock syndrome D.All answers (A-C) are correct,
+3025,15,5,2,25. What are leukocidins?(2.5分),A.Enzymes that destroy circulating white blood cells B.Enzymes that catalyse the formation of blood clots from Fibrinogen proteins  C.Enzymes that dissolve blood clots D.Enzymes that break down hyaluronic acid,
+3026,15,5,2,26. Which one of the following is a gram-positive bacterial species commonly causing hospital-acquired pneumonia?(2.5分),A.Haemophilus influenza B.Klebsiella pneumonia C.Staphylococcus aureus D.Chlamydophilapneumoniae,
+3027,15,5,2,27. Which of the following statements does NOT apply to pili?(2.5分),A.Pili are made of protein. B.Pili allow for attachment to surfaces. C.Pili facilitate nutrient transport. D.Pili contain adhesins.,
+3028,15,5,2,28. What disease is salpingitis associated with and what can it result in?(2.5分),A.Syphilis; gumma formation B.Gonorrhea; sterility C.Chlamydia; ophthalmia D.Chancroid; soft chancre,
+3029,15,5,2,29. 关于麻醉学范畴的内容下列哪项选择是正确的1 临床麻醉； 2 灾害救援；3 急救复苏；4 疼痛治疗；5 疫苗接种；6 重症监测治疗(2.5分),A.1、2、3、4  B.1、3、5、6  C.2、3、4、5 D.3、4、5、6 E.1、3、4、6,
+3030,15,5,2,30. 对循环系统几乎没有影响的静脉麻醉药物(2.5分),A.丙泊酚 B.咪达唑仑 C.氯胺酮 D.依托咪酯 E.硫喷妥钠,
+3031,15,5,2,31. 患者男，68岁，既往吸烟史10余年，反复右上腹胀痛5年，加重1个月，诊断为胆囊结石，拟在全麻下行胆囊切除术，关于术前准备，以下哪项除外(2.5分),A.建议患者停止吸烟，并进行呼吸功能训练，必要时行雾化吸入。 B.关心鼓励患者，消除其思想顾虑和焦虑心情。 C.术前禁食油炸食物、富含脂肪类食物至少6小时，术前2小时内可饮少量清水。 D.麻醉前对麻醉和监测设备、麻醉用品及药品进行准备和检查。 E.签署知情同意书。,
+3032,15,5,2,32. 患者男，75岁，咳嗽、咳痰20年，冬季较重，近五六年来活动后气促，逐年加重。查体：肺气肿体征，双肺底有湿罗音，散在哮鸣音，吸入沙丁胺醇后无减轻。该患者最适合的ASA分级是(2.5分),A.ASA I级 B.ASA II级 C.ASA III级 D.ASA IV级 E.ASA V级,
+3033,15,5,2,33. 患者女，25岁，午餐后骑单车不慎与汽车相撞，伤及左小腿，X线提示左侧胫腓骨骨折，拟行急诊手术，为预防反流与误吸，以下做法哪项是错误的？ (2.5分),A.可采用椎管内麻醉并保持病人清醒 B.手术采取头高脚低位 C.麻醉诱导室采用快速顺序诱导的方法，并换装软骨按压以降低反流误吸的风险 D.术前使用促进胃排空、升高PH的药物 E.术前插入鼻胃管，予以胃肠道减压,
+3034,15,5,2,34. 我们平时所称的腰麻是将局麻药注射在什么部位(2.5分),A.腰大肌周围  B.腰部神经丛周围 C.蛛网膜下腔  D.硬膜外腔  E.蛛网膜外腔,
+3035,15,5,2,35. 局麻药的毒性反应与下列哪项无关(2.5分),A.一次用量超过病人的耐受量 B.意外注入血管内 C.病人肥胖 D.病人因体质衰弱等原因而导致耐受力降低  E.注药部位血供丰富，吸收增快,
+3036,15,5,2,36. 以下哪项不是医生在医患沟通中沟通不当的表现(2.5分),A.单向沟通 B.不及时沟通 C.理性的沟通    D.防卫性沟通,
+3037,15,5,2,37. 以下哪项不是患者在医患沟通中经常存在的问题(2.5分),A.自己做医生 B.计较治疗费用 C.对治疗效果期望过高 D.知识水平的局限导致理解困难,
+3038,15,5,2,38. 患者的心理特点不包括(2.5分),A.认知能力下降 B.情绪不稳定，易激惹 C.感觉过敏，异常感觉增多 D.行为退化，依赖性增强,
+3039,15,5,2,39. 患者最迫切想要满足的需要是(2.5分),A.尊重的需要 B.认识的需要 C.归属与爱的需要 D.安全的需要,
+3040,15,5,2,40. 通过沟通提高患者依从性的方法不包括(2.5分),A.让患者复述 B.运用医生的权威下命令 C.简化信息 D.与患者订立协议,

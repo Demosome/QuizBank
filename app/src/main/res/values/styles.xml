@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用基础主题 -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <!-- 深色ActionBar主题叠加 -->
+    <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
+
+    <!-- 浅色主题叠加 -->
+    <style name="ThemeOverlay.AppCompat.Light" parent="ThemeOverlay.MaterialComponents.Light"/>
+</resources>
